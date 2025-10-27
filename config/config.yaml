@@ -86,3 +86,7 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "juejin"
+    name: "掘金"
+  - id: "smzdm"
+    name: "什么值得买"
