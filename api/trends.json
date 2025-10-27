@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T21:33:49.027986+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-10-27T22:20:14.322398+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -43,6 +43,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[14时28分 ~ 19时17分]"
+        },
+        {
+          "title": "市场分析：贸易紧张局势缓解，金价下跌",
+          "url": "https://flash.jin10.com/detail/20251027221438797800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "现货黄金下跌至4000美元整数位心理关口，为10月10日以来首次，日内当前跌幅大约2.7%。 10月20日，金价还曾涨至4381.52美元创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2994415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "黄金价格下跌是进场“捡便宜”时机吗",
@@ -84,7 +106,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -95,7 +117,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -125,7 +147,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
@@ -201,6 +223,29 @@
           "time_info": "[16时24分 ~ 17时22分]"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2994370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时20分]"
+        },
+        {
+          "title": "美股三大股指高开 百度涨超5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%855%25",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
+        },
+        {
           "title": "凯登斯银行美股盘前上涨3.2%。",
           "url": "https://flash.jin10.com/detail/20251027185322298800",
           "source": "金十数据",
@@ -218,26 +263,37 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2994370",
+          "title": "美股盘初：三大指数续创历史新高，科技股、中概股普涨，稀土股下跌",
+          "url": "https://wallstreetcn.com/livenews/2994397",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时33分"
+          "time_info": "22时20分"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251027214435879800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股期指集体拉升，日股首破5万点，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
@@ -250,6 +306,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[17时21分 ~ 21时33分]"
+        },
+        {
+          "title": "美股盘初三大指数续创历史新高，美债收益率上行，金银再度跳水，油价回落，以太坊涨超5%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
+        },
+        {
+          "title": "卖美债买黄金“中长期并非明智之举”！大摩利率团队：美债终会“闪耀”的",
+          "url": "https://wallstreetcn.com/articles/3757941",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 22时20分]"
         },
         {
           "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
