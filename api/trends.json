@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T19:17:00.351002+08:00",
-  "total_titles_processed": 1456,
+  "generated_at": "2025-10-27T20:37:50.439240+08:00",
+  "total_titles_processed": 1564,
   "failed_sources": [],
   "trends": [
     {
@@ -125,7 +125,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -162,8 +162,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时37分]"
         },
         {
           "title": "美股盘前，科技股、中概股普涨",
@@ -184,7 +184,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         }
@@ -203,8 +203,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 19时17分]"
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 20时37分]"
         },
         {
           "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
@@ -224,7 +224,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
