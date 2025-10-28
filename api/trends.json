@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T16:23:44.591001+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2025-10-28T17:19:14.010901+08:00",
+  "total_titles_processed": 1509,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时18分 ~ 17时19分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -290,11 +290,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 17时19分]"
         },
         {
           "title": "金价突然杀跌原因何在",
@@ -302,11 +303,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 17时19分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
