@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T18:21:20.091413+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2025-10-29T19:16:12.031798+08:00",
+  "total_titles_processed": 1780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -57,6 +57,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时15分 ~ 07时16分]"
+        },
+        {
+          "title": "礼来(LLY.N)美股盘前涨近1%，公司宣布沃尔玛将提供Zepbound注射剂的取药服务。",
+          "url": "https://flash.jin10.com/detail/20251029191217764800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "礼来美股盘前拉升，现涨近1%。此前礼来公司宣布，沃尔玛将提供Zepbound注射剂的取药服务。",
+          "url": "https://wallstreetcn.com/livenews/2995926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
@@ -211,6 +233,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "卡特彼勒第三季度营收176.4亿美元，预估167.1亿美元。 第三季度调整后每股收益4.95美元，预估4.51美元。 第三季度每股收益4.88美元，上年同期5.06美元。 第三季度调整后运营收益30.9亿美元，预估27.4亿美元。 卡特彼勒美股盘前涨近5%。",
+          "url": "https://wallstreetcn.com/livenews/2995885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "美股三大股指续创新高 英伟达涨近5%",
           "url": "https://www.toutiao.com/trending/7565586029471088681/",
           "source": "今日头条",
@@ -298,11 +331,12 @@
           "source": "微博",
           "ranks": [
             19,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[17时18分 ~ 19时16分]"
         },
         {
           "title": "现货黄金跌破 3900 美元，6 个交易日累计跌超 10％，黄金是否还具备投资价值？未来金价走势如何？",
@@ -422,8 +456,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时14分 ~ 18时21分]"
+          "appearance_count": 12,
+          "time_info": "[11时14分 ~ 19时16分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
