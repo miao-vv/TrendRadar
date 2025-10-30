@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T02:24:23.631955+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-10-31T03:14:43.612295+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
@@ -65,19 +65,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "OpenAI宣布推出Aardvark，一款由GPT-5驱动的自主网络安全研究代理。",
           "url": "https://flash.jin10.com/detail/20251031015822268800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时14分]"
         }
       ]
     },
@@ -93,8 +94,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
@@ -104,8 +105,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         }
       ]
     },
@@ -121,8 +122,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 02时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 03时14分]"
         }
       ]
     }
