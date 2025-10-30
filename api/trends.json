@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T14:25:49.891467+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2025-10-30T15:19:08.214452+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
@@ -201,7 +201,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：标普道指回落、纳指独领风骚 英伟达市值站稳5万亿",
@@ -209,11 +209,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时19分]"
         },
         {
           "title": "奇波雷墨西哥烧烤（CMG）美股盘后跌超8.5%。",
@@ -250,6 +251,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时24分 ~ 06时20分]"
+        },
+        {
+          "title": "市场中午“惊魂”一刻：美股期货、数字货币等风险资产急跌后反弹，黄金冲高回落，日元下跌",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 15时19分]"
         },
         {
           "title": "在美上市韩国ETF美股盘后涨0.8%。 美国总统特朗普称，韩国同意3500亿美元的协议。 韩国将获得更低的关税。",
@@ -367,11 +379,12 @@
           "ranks": [
             9,
             12,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 15时19分]"
         },
         {
           "title": "OpenAI计划于2027年上市",
@@ -447,8 +460,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 14时25分]"
+          "appearance_count": 9,
+          "time_info": "[07时16分 ~ 15时19分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
@@ -456,11 +469,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 14时25分]"
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 15时19分]"
         },
         {
           "title": "渣打：美元和美债收益率仍有很大的上行调整空间",
@@ -615,7 +629,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
         }
