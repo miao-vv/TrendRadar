@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T12:21:48.855338+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-10-31T13:20:28.709561+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时16分 ~ 12时21分]"
+          "appearance_count": 8,
+          "time_info": "[06时16分 ~ 13时20分]"
         },
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时17分 ~ 12时21分]"
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 13时20分]"
         },
         {
           "title": "亚马逊三季度净销售1801.7亿美元，分析师预期1778.2亿美元。 三季度北美净销售1062.7亿美元，分析师预期1049.6亿美元。 三季度AWS净销售330.1亿美元，分析师预期323.9亿美元。 三季度实体店净销售55.8亿美元，分析师预期55.6亿美元。 三季度运营利润9.7%，分析师预期11.1%。 亚马逊美股盘后涨11%。",
@@ -342,7 +342,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
@@ -427,11 +427,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时20分]"
         }
       ]
     }
