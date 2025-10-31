@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T13:20:28.709561+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2025-10-31T14:25:56.151107+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,17 @@
           "time_info": "[00时22分 ~ 06时17分]"
         },
         {
+          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 14时25分]"
+        },
+        {
           "title": "美股收盘：三大指数集体下跌 科技巨头股价大起大落",
           "url": "https://www.cls.cn/detail/2187041",
           "source": "财联社热门",
@@ -32,17 +43,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时16分 ~ 13时20分]"
-        },
-        {
-          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 13时20分]"
         },
         {
           "title": "亚马逊三季度净销售1801.7亿美元，分析师预期1778.2亿美元。 三季度北美净销售1062.7亿美元，分析师预期1049.6亿美元。 三季度AWS净销售330.1亿美元，分析师预期323.9亿美元。 三季度实体店净销售55.8亿美元，分析师预期55.6亿美元。 三季度运营利润9.7%，分析师预期11.1%。 亚马逊美股盘后涨11%。",
@@ -431,8 +431,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时20分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时25分]"
         }
       ]
     }
