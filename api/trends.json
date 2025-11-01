@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T13:17:39.971338+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2025-11-01T14:22:49.410954+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             7,
             8,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 14时22分]"
         },
         {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
@@ -41,8 +42,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 13时17分]"
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 14时22分]"
+        },
+        {
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时16分 ~ 14时22分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -69,19 +83,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时21分 ~ 09时19分]"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时16分 ~ 13时17分]"
         },
         {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
@@ -199,8 +200,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时18分 ~ 13时17分]"
+          "appearance_count": 8,
+          "time_info": "[06时18分 ~ 14时22分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
