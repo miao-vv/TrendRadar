@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T17:18:02.746828+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-11-01T18:16:55.394739+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时16分 ~ 17时18分]"
+          "appearance_count": 12,
+          "time_info": "[07时16分 ~ 18时16分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时16分 ~ 17时18分]"
+          "appearance_count": 12,
+          "time_info": "[07时16分 ~ 18时16分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -297,8 +297,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 18时16分]"
         }
       ]
     },
@@ -367,8 +367,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时18分]"
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时16分]"
         }
       ]
     }
