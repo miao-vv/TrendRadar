@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T02:22:16.857040+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2025-11-02T03:15:11.769489+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -26,11 +26,12 @@
           "ranks": [
             16,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
         },
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
@@ -40,8 +41,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时21分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时21分 ~ 03时15分]"
         }
       ]
     },
@@ -58,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
         },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
@@ -71,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -82,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
         }
       ]
     },
@@ -99,8 +100,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
         }
       ]
     },
@@ -117,8 +118,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
         }
       ]
     }
