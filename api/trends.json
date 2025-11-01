@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T22:15:05.779219+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2025-11-01T23:15:11.658253+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时16分 ~ 22时15分]"
+          "appearance_count": 20,
+          "time_info": "[07时16分 ~ 23时15分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时16分 ~ 22时15分]"
+          "appearance_count": 20,
+          "time_info": "[07时16分 ~ 23时15分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -89,6 +89,18 @@
           "time_info": "[04时21分 ~ 09时19分]"
         },
         {
+          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
+          "url": "https://wallstreetcn.com/articles/3758463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时31分 ~ 23时15分]"
+        },
+        {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
           "url": "https://flash.jin10.com/detail/20251101040612568800",
           "source": "金十数据",
@@ -113,18 +125,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时21分 ~ 09时19分]"
-        },
-        {
-          "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
-          "url": "https://wallstreetcn.com/articles/3758463",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时31分 ~ 22时15分]"
         },
         {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
@@ -213,11 +213,12 @@
             11,
             7,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时18分 ~ 16时20分]"
+          "appearance_count": 12,
+          "time_info": "[06时18分 ~ 23时15分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
@@ -301,8 +302,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时15分 ~ 22时15分]"
+          "appearance_count": 13,
+          "time_info": "[15时15分 ~ 23时15分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -312,11 +313,13 @@
             17,
             19,
             9,
-            10
+            10,
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时13分 ~ 22时15分]"
+          "appearance_count": 8,
+          "time_info": "[19时13分 ~ 23时15分]"
         }
       ]
     },
@@ -336,8 +339,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时17分 ~ 22时15分]"
+          "appearance_count": 11,
+          "time_info": "[17时17分 ~ 23时15分]"
         },
         {
           "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
