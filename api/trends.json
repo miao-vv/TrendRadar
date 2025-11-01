@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T06:16:32.172179+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2025-11-02T07:15:42.644516+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -40,11 +40,12 @@
           "url": "https://wallstreetcn.com/articles/3758475",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时21分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[02时21分 ~ 07时15分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -52,11 +53,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时18分 ~ 06时16分]"
+          "appearance_count": 5,
+          "time_info": "[04时18分 ~ 07时15分]"
         }
       ]
     },
@@ -64,19 +66,6 @@
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
-        {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时16分]"
-        },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
           "url": "https://wallstreetcn.com/articles/3758463",
@@ -87,8 +76,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -99,8 +102,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         }
       ]
     },
@@ -134,8 +137,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 07时15分]"
         }
       ]
     }
