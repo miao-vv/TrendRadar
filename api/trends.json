@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T12:22:49.898191+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-11-02T13:17:00.620928+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时21分 ~ 12时22分]"
+          "appearance_count": 14,
+          "time_info": "[02时21分 ~ 13时17分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -71,9 +71,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时17分]"
         }
       ]
     },
@@ -98,22 +98,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 12时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时14分 ~ 13时17分]"
         },
         {
           "title": "金价起落之间：有人梭哈有人“卧倒”",
           "url": "https://www.toutiao.com/trending/7567509383320567871/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时17分]"
         }
       ]
     },
