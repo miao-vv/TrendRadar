@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T15:17:11.415230+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2025-11-02T16:20:27.828434+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[02时21分 ~ 15时17分]"
+          "appearance_count": 19,
+          "time_info": "[02时21分 ~ 16时20分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -70,11 +70,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 16时20分]"
         },
         {
           "title": "OpenAI重组对AI产业链意味着什么",
@@ -85,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时25分 ~ 15时17分]"
+          "appearance_count": 5,
+          "time_info": "[14时25分 ~ 16时20分]"
         }
       ]
     },
