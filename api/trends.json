@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T11:14:42.978621+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2025-11-02T12:22:49.898191+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -27,11 +27,12 @@
             9,
             8,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时21分 ~ 11时14分]"
+          "appearance_count": 12,
+          "time_info": "[02时21分 ~ 12时22分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -62,6 +63,57 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时18分 ~ 11时14分]"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
+          "url": "https://www.cls.cn/detail/2188436",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 03时15分]"
+        },
+        {
+          "title": "中上协：避险情绪升温推动金价走高，前三季度贵金属行业上市公司净利润增长55.96%",
+          "url": "https://wallstreetcn.com/livenews/2998074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 12时22分]"
+        },
+        {
+          "title": "金价起落之间：有人梭哈有人“卧倒”",
+          "url": "https://www.toutiao.com/trending/7567509383320567871/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
@@ -109,34 +161,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时18分 ~ 11时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
-          "url": "https://www.cls.cn/detail/2188436",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 03时15分]"
-        },
-        {
-          "title": "中上协：避险情绪升温推动金价走高，前三季度贵金属行业上市公司净利润增长55.96%",
-          "url": "https://wallstreetcn.com/livenews/2998074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时14分"
         }
       ]
     },
