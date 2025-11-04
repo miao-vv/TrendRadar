@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T12:21:48.555609+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-11-04T13:18:03.568337+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 13时18分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -26,8 +26,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时21分]"
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 13时18分]"
+        },
+        {
+          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2189932",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 13时18分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -39,18 +52,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2189932",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时21分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，美元兑日元涨0.13%，报154.19日元，日内交投区间为153.93-154.30日元，北京时间21:40刷新日高，美股盘初显著跳水，23:00刷新日低。",
@@ -210,6 +211,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
+          "url": "https://www.cls.cn/detail/2190136",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 13时18分]"
+        },
+        {
           "title": "美元指数DXY突破100大关，为8月1日来首次。",
           "url": "https://flash.jin10.com/detail/20251104091430231800",
           "source": "金十数据",
@@ -219,18 +232,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        },
-        {
-          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
-          "url": "https://www.cls.cn/detail/2190136",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时21分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
@@ -311,8 +312,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时20分 ~ 12时21分]"
+          "appearance_count": 9,
+          "time_info": "[06时20分 ~ 13时18分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -320,11 +321,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 13时18分]"
         },
         {
           "title": "OpenAI据悉曾在解雇奥特曼后讨论与Anthropic合并",
@@ -419,7 +421,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
@@ -440,8 +442,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 12时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 13时18分]"
         }
       ]
     }
