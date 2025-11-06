@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T17:19:39.062545+08:00",
-  "total_titles_processed": 1506,
+  "generated_at": "2025-11-06T18:20:14.714362+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -80,6 +80,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "特朗普上任一年美股跑输全球大盘",
@@ -250,7 +261,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
@@ -383,6 +394,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "市场消息：谷歌(GOOG.O)同意从巴西植树造林初创企业Mombak购买20万吨碳排放额度。",
+          "url": "https://flash.jin10.com/detail/20251106180054572800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "谷歌洽谈加大投资Anthropic 后者估值或超3500亿美元",
           "url": "https://flash.jin10.com/detail/20251106111258842800",
           "source": "金十数据",
@@ -392,6 +414,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：（即将宣布的在德国）投资将涵盖基础设施、数据中心以及利用可再生能源和余热的项目。",
+          "url": "https://flash.jin10.com/detail/20251106174631511800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将于下周二宣布公司在德国的最大一笔投资。",
+          "url": "https://flash.jin10.com/detail/20251106174536782800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
@@ -537,11 +581,12 @@
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时16分 ~ 17时19分]"
+          "appearance_count": 13,
+          "time_info": "[09时16分 ~ 18时20分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
