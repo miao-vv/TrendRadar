@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T15:17:20.052058+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2025-11-07T16:23:42.627878+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 15时17分]"
+          "appearance_count": 9,
+          "time_info": "[09时16分 ~ 16时23分]"
         },
         {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 特斯拉美股盘后涨1.8%。",
@@ -274,8 +274,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时09分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时09分 ~ 16时23分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -284,11 +284,12 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时09分 ~ 15时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时09分 ~ 16时23分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
@@ -379,8 +380,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 15时17分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 16时23分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -462,6 +463,17 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时16分 ~ 16时23分]"
+        },
+        {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
@@ -472,17 +484,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 15时17分]"
         },
         {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
@@ -559,8 +560,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时17分 ~ 15时17分]"
+          "appearance_count": 11,
+          "time_info": "[06时17分 ~ 16时23分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
