@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T19:15:25.802779+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2025-11-07T20:35:21.593064+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -28,8 +28,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时09分 ~ 19时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时09分 ~ 20时35分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -133,6 +133,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时16分 ~ 11时10分]"
+        },
+        {
+          "title": "OpenAI CFO 表达希望美国政府对当前的 AI 算力基础设施投资提供担保，如何评价这一表述？",
+          "url": "https://www.zhihu.com/question/1970068977905525926",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         }
       ]
     },
@@ -150,8 +161,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时17分 ~ 19时15分]"
+          "appearance_count": 15,
+          "time_info": "[06时17分 ~ 20时35分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
