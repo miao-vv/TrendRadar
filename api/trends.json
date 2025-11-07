@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T13:18:14.479419+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2025-11-07T14:26:32.345577+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时17分 ~ 13时18分]"
+          "appearance_count": 9,
+          "time_info": "[06时17分 ~ 14时26分]"
         },
         {
           "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
@@ -41,8 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 14时26分]"
         },
         {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 特斯拉美股盘后涨1.8%。",
@@ -246,8 +247,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 14时26分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -262,8 +263,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时26分]"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -273,8 +274,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时09分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时09分 ~ 14时26分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -282,11 +283,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时09分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时09分 ~ 14时26分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
@@ -376,8 +378,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时23分 ~ 13时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时23分 ~ 14时26分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -471,6 +473,17 @@
           "time_info": "[00时23分 ~ 07时16分]"
         },
         {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 14时26分]"
+        },
+        {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
           "url": "https://wallstreetcn.com/articles/3758806",
           "source": "华尔街见闻",
@@ -482,17 +495,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 06时17分]"
-        },
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 13时18分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
@@ -556,19 +558,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时17分 ~ 13时18分]"
-        },
-        {
-          "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
-          "url": "https://flash.jin10.com/detail/20251107130634244800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "appearance_count": 9,
+          "time_info": "[06时17分 ~ 14时26分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -582,6 +573,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时09分 ~ 13时18分]"
+        },
+        {
+          "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20251107130634244800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时26分]"
         },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
