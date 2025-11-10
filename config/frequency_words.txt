@@ -8,6 +8,11 @@ gemini
 chatgpt
 openai
 
+金价
++价格
+
+黄金
+
 华为  
 OPPO  
 苹果  
