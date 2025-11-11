@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T19:16:09.233822+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2025-11-11T20:35:13.800068+08:00",
+  "total_titles_processed": 1798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美政府关门有望结束，全球风险资产走高，纳指涨超1.7%，现货黄金涨近2%，比特币拉涨3%",
@@ -36,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -176,7 +176,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -212,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月11日（周二）晚盘盘初上涨0.28%报948.5元/克；<br/>上海黄金交易所白银T+D 11月11日（周二）晚盘盘初上涨0.71%报11979.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251111200200450800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
         },
         {
           "title": "现货黄金突破4130美元/盎司，日内涨0.35%。",
@@ -286,6 +297,18 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时15分 ~ 20时35分]"
+        },
+        {
           "title": "AI热潮驱动，软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
           "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
@@ -295,17 +318,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时20分 ~ 18时21分]"
-        },
-        {
-          "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -482,7 +494,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -493,7 +505,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
