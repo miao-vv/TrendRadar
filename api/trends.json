@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T15:18:12.339944+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2025-11-11T16:23:39.925865+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美政府关门有望结束，全球风险资产走高，纳指涨超1.7%，现货黄金涨近2%，比特币拉涨3%",
@@ -125,6 +125,28 @@
           "time_info": "[04时21分 ~ 04时22分]"
         },
         {
+          "title": "瑞银预计今年和明年全球黄金需求将达到2011年以来最高。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3002636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "瑞银集团：预计今年和明年的全球黄金需求将达到自2011年以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20251111160417364800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "美政府停摆结束在望，参院正式通过临时拨款法案并移交至众院。美联储理事米兰再放鸽，主张12月应降息50个基点。黄金昨日大涨逾100美元，当前多头持续占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251111111131999800",
           "source": "金十数据",
@@ -194,7 +216,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -218,6 +240,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "OpenAI挖走英特尔印度大将",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "英特尔CTO跳槽至OpenAI，CEO陈立武将兼任该职",
@@ -248,7 +281,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -259,7 +292,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         }
