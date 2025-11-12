@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T15:18:22.578388+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2025-11-12T16:24:12.847826+08:00",
+  "total_titles_processed": 1385,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,20 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
+          "title": "水贝市场销售降至“冰点” 料商直言“有货难出” 黄金税收新政之下商家迎“大考”|传真",
+          "url": "https://www.cls.cn/detail/2198040",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 16时24分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 11月12日（周三）早盘盘初下跌0.05%报945.37元/克；<br/>上海黄金交易所白银T+D 11月12日（周三）早盘盘初上涨0.33%报11934.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251112090217098800",
           "source": "金十数据",
@@ -30,19 +44,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        },
-        {
-          "title": "水贝市场销售降至“冰点” 料商直言“有货难出” 黄金税收新政之下商家迎“大考”|传真",
-          "url": "https://www.cls.cn/detail/2198040",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 15时18分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月11日（周二）晚盘收盘下跌0.39%报942.19元/克；<br/>上海黄金交易所白银T+D 11月11日（周二）晚盘收盘上涨0.12%报11909.0元/千克。",
@@ -182,7 +183,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -194,8 +195,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 15时18分]"
+          "appearance_count": 22,
+          "time_info": "[00时22分 ~ 16时24分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -258,6 +259,17 @@
           "time_info": "[03时14分 ~ 04时19分]"
         },
         {
+          "title": "鸿海：将于下周公布与OpenAI合作的具体细节。",
+          "url": "https://wallstreetcn.com/livenews/3003282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "AMD(AMD.O)CEO：（谈OpenAI）我不会押注他们失败。",
           "url": "https://flash.jin10.com/detail/20251112060435250800",
           "source": "金十数据",
@@ -267,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "鸿海：我们将于下周发布与OpenAI相关的公告。",
+          "url": "https://flash.jin10.com/detail/20251112154841373800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
@@ -286,9 +309,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "鸿海：我们当然会与OpenAI合作。",
+          "url": "https://flash.jin10.com/detail/20251112154635082800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
@@ -370,7 +404,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -378,11 +412,12 @@
           "source": "微博",
           "ranks": [
             7,
-            1
+            1,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 15时18分]"
+          "appearance_count": 5,
+          "time_info": "[14时26分 ~ 16时24分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -395,6 +430,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 14时27分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时23分 ~ 16时24分]"
         }
       ]
     }
