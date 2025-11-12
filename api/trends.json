@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T14:27:11.106074+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2025-11-12T15:18:22.578388+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 15时18分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月11日（周二）晚盘收盘下跌0.39%报942.19元/克；<br/>上海黄金交易所白银T+D 11月11日（周二）晚盘收盘上涨0.12%报11909.0元/千克。",
@@ -96,7 +97,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -118,7 +119,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -140,7 +141,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -181,7 +182,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -193,8 +194,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 14时27分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 15时18分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -206,8 +207,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时16分 ~ 14时27分]"
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 15时18分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -277,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "市场消息：三菱日联金融集团与OpenAI达成战略合作。",
+          "url": "https://flash.jin10.com/detail/20251112144050948800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
@@ -328,7 +340,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -361,6 +373,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26flag%3D1%26dgr%3D0%26band_rank%3D7%26q%3D%2523%25E5%2589%258DDeepSeek%25E7%25A0%2594%25E7%25A9%25B6%25E5%2591%2598%25E7%25BD%2597%25E7%25A6%258F%25E8%258E%2589%25E5%25B7%25B2%25E5%258A%25A0%25E5%2585%25A5%25E5%25B0%258F%25E7%25B1%25B3%2523%26filter_type%3Drealtimehot%26realpos%3D7%26c_type%3D31%26pos%3D8%26display_time%3D1762928706%26pre_seqid%3D1762928706249026303112&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 15时18分]"
+        },
+        {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
           "url": "https://wallstreetcn.com/livenews/3003176",
           "source": "华尔街见闻-快讯",
@@ -371,17 +395,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 14时27分]"
-        },
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26stream_entry_id%3D31%26flag%3D1%26dgr%3D0%26band_rank%3D7%26q%3D%2523%25E5%2589%258DDeepSeek%25E7%25A0%2594%25E7%25A9%25B6%25E5%2591%2598%25E7%25BD%2597%25E7%25A6%258F%25E8%258E%2589%25E5%25B7%25B2%25E5%258A%25A0%25E5%2585%25A5%25E5%25B0%258F%25E7%25B1%25B3%2523%26filter_type%3Drealtimehot%26realpos%3D7%26c_type%3D31%26pos%3D8%26display_time%3D1762928706%26pre_seqid%3D1762928706249026303112&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
         }
       ]
     }
