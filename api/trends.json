@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-13T07:17:38.270261+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2025-11-13T09:18:17.601156+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3759214",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.28吨，当前持仓量为1046.64吨。",
           "url": "https://flash.jin10.com/detail/20251113070609217800",
@@ -14,9 +25,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月13日（周四）早盘盘初上涨1.66%报960.0元/克；<br/>上海黄金交易所白银T+D 11月13日（周四）早盘盘初上涨4.29%报12462.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251113090138790800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "现货黄金站上4200美元/盎司，为10月21日以来首次，目前涨1.8%。",
@@ -49,7 +71,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -90,8 +112,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI发布GPT-5.1",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
+        },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
           "url": "https://flash.jin10.com/detail/20251113050804559800",
@@ -133,7 +166,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         }
@@ -187,11 +220,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31948143",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时18分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -219,7 +253,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         }
