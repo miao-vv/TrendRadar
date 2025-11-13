@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T20:38:30.583680+08:00",
-  "total_titles_processed": 1850,
+  "generated_at": "2025-11-13T21:32:03.993562+08:00",
+  "total_titles_processed": 1964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股再度下挫，道指四连涨创新高，AMD大涨9%，黄金四连涨，原油重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时17分 ~ 20时38分]"
+          "appearance_count": 14,
+          "time_info": "[09时17分 ~ 21时32分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.28吨，当前持仓量为1046.64吨。",
@@ -90,13 +90,24 @@
           "time_info": "[13时18分 ~ 14时27分]"
         },
         {
+          "title": "黄金拉升大涨",
+          "url": "https://www.douyin.com/hot/2304388",
+          "source": "抖音",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 11月13日（周四）晚盘盘初上涨0.69%报961.0元/克；<br/>上海黄金交易所白银T+D 11月13日（周四）晚盘盘初上涨0.51%报12533.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251113200139635800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -121,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "俄罗斯至11月7日当周央行黄金和外汇储备 7198亿美元，前值7258亿美元。",
+          "url": "https://flash.jin10.com/detail/20251113210003439800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "金十图示：2025年11月13日（周四）黄金ETF持仓报告",
@@ -217,6 +239,17 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时16分 ~ 21时32分]"
+        },
+        {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
@@ -227,17 +260,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时23分 ~ 18时20分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时38分]"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -275,6 +297,18 @@
           "time_info": "14时27分"
         },
         {
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时20分 ~ 21时32分]"
+        },
+        {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
           "url": "https://flash.jin10.com/detail/20251113060235382800",
           "source": "金十数据",
@@ -287,16 +321,16 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时38分]"
+          "time_info": "[20时38分 ~ 21时32分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -342,17 +376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -444,7 +467,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -455,7 +478,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
