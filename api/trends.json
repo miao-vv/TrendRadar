@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T01:15:58.863336+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2025-11-15T02:24:47.356462+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
+        },
+        {
+          "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
+          "url": "https://wallstreetcn.com/articles/3759354",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时15分]"
+          "time_info": "[01时15分 ~ 02时24分]"
         },
         {
           "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达跌超3%，币圈连崩，黄金跳水",
@@ -30,15 +41,15 @@
           "time_info": "00时22分"
         },
         {
-          "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
-          "url": "https://wallstreetcn.com/articles/3759354",
-          "source": "华尔街见闻",
+          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1972596571733497781",
+          "source": "知乎",
           "ranks": [
-            2
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         },
         {
           "title": "瑞士经济事务官员：瑞士黄金精炼企业有意在美国投资。瑞士黄金精炼厂的利润空间很小，但美国加强其黄金市场非常重要。",
@@ -53,15 +64,15 @@
           "time_info": "[00时22分 ~ 01时15分]"
         },
         {
-          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1972596571733497781",
-          "source": "知乎",
+          "title": "美国白宫：瑞士对美投资将涉及制药、机械、医疗设备、航空航天、建筑、先进制造业、黄金制造和能源基础设施。",
+          "url": "https://flash.jin10.com/detail/20251115013813477800",
+          "source": "金十数据",
           "ranks": [
-            15
+            17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         }
       ]
     },
@@ -77,8 +88,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时24分]"
         }
       ]
     }
