@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T02:24:47.356462+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2025-11-15T03:14:33.715449+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时15分 ~ 02时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 03时14分]"
         },
         {
           "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达跌超3%，币圈连崩，黄金跳水",
@@ -41,6 +41,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 11月14日（周五）晚盘收盘下跌2.27%报933.0元/克；<br/>上海黄金交易所白银T+D 11月14日（周五）晚盘收盘下跌3.42%报11989.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251115023014845800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1972596571733497781",
           "source": "知乎",
@@ -48,8 +59,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时14分]"
         },
         {
           "title": "瑞士经济事务官员：瑞士黄金精炼企业有意在美国投资。瑞士黄金精炼厂的利润空间很小，但美国加强其黄金市场非常重要。",
@@ -68,11 +79,12 @@
           "url": "https://flash.jin10.com/detail/20251115013813477800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时14分]"
         }
       ]
     },
@@ -85,11 +97,12 @@
           "url": "https://wallstreetcn.com/articles/3759409",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时14分]"
         }
       ]
     }
