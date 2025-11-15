@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T18:16:58.037504+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2025-11-15T19:13:24.464955+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时05分 ~ 18时16分]"
+          "appearance_count": 10,
+          "time_info": "[11时05分 ~ 19时13分]"
+        },
+        {
+          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
+          "url": "https://www.cls.cn/detail/2201480",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时05分 ~ 19时13分]"
         },
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -33,22 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 18时16分]"
-        },
-        {
-          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
-          "url": "https://www.cls.cn/detail/2201480",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时05分 ~ 18时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 19时13分]"
         },
         {
           "title": "印度官员：谷歌预计将把印度数据中心项目投资金额提高至逾150亿美元",
@@ -56,11 +57,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时13分]"
         },
         {
           "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
@@ -198,8 +200,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 18时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 19时13分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
