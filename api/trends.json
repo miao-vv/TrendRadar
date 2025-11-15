@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T05:14:24.455801+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2025-11-16T06:13:21.165690+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3759450",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -28,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时13分]"
         },
         {
           "title": "我国探明新中国成立后首个千吨级金矿，黄金资源量 1444.49 吨，千吨级是何概念？对黄金有哪些影响？",
@@ -39,8 +40,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时13分]"
         }
       ]
     },
@@ -49,22 +50,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
-          "url": "https://wallstreetcn.com/articles/3759431",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时14分]"
-        },
-        {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
           "url": "https://www.cls.cn/detail/2201480",
           "source": "财联社热门",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 06时13分]"
+        },
+        {
+          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
+          "url": "https://wallstreetcn.com/articles/3759431",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
