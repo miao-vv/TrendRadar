@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T15:15:49.224446+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2025-11-15T16:20:34.319389+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 15时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 16时20分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时05分 ~ 15时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时05分 ~ 16时20分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -40,11 +40,12 @@
           "ranks": [
             8,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时05分 ~ 15时15分]"
+          "appearance_count": 7,
+          "time_info": "[11时05分 ~ 16时20分]"
         },
         {
           "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
@@ -182,8 +183,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 15时15分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 16时20分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -205,11 +206,12 @@
           "ranks": [
             1,
             5,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时20分]"
         },
         {
           "title": "除了美债、原油都在跌！美股科技股继续被砸，英伟达跌超3%，币圈连崩，黄金跳水",
@@ -308,11 +310,12 @@
             2,
             9,
             13,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时05分 ~ 15时15分]"
+          "appearance_count": 6,
+          "time_info": "[11时05分 ~ 16时20分]"
         }
       ]
     }
