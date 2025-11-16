@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T19:13:34.023488+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2025-11-16T20:31:10.010948+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时18分 ~ 19时13分]"
+          "appearance_count": 28,
+          "time_info": "[00时18分 ~ 20时31分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -37,11 +38,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 19时13分]"
+          "appearance_count": 8,
+          "time_info": "[16时20分 ~ 20时31分]"
         }
       ]
     },
