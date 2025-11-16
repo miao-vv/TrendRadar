@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T01:14:32.681571+08:00",
-  "total_titles_processed": 336,
+  "generated_at": "2025-11-17T02:23:08.724079+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
+        },
+        {
+          "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
+          "url": "https://www.zhihu.com/question/1973043161929577003",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "time_info": "[02时22分 ~ 02时23分]"
         }
       ]
     }
