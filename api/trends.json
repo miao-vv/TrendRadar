@@ -1,93 +1,22 @@
 {
-  "generated_at": "2025-11-16T23:15:46.275988+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2025-11-17T00:19:20.932373+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            4,
-            3
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时20分 ~ 23时15分]"
-        },
-        {
-          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
-          "url": "https://www.cls.cn/detail/2201480",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时18分 ~ 20时31分]"
-        },
-        {
-          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
-          "url": "https://wallstreetcn.com/articles/3759431",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 05时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "黄金、科技股都有人抄底，只有比特币“一蹶不振”",
-          "url": "https://wallstreetcn.com/articles/3759450",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 11时17分]"
-        },
-        {
-          "title": "我国探明新中国成立后首个千吨级金矿，黄金资源量 1444.49 吨，千吨级是何概念？对黄金有哪些影响？",
-          "url": "https://www.zhihu.com/question/1972584313942963690",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 09时21分]"
-        },
-        {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 06时13分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     }
