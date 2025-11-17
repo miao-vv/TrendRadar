@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T12:24:31.312590+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2025-11-17T13:18:50.535839+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 11月17日（周一）早盘盘初下跌2.38%报932.0元/克；<br/>上海黄金交易所白银T+D 11月17日（周一）早盘盘初下跌3.33%报12001.0元/千克。",
@@ -29,6 +29,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 12时24分]"
+        },
+        {
+          "title": "印尼财政部：印尼计划对黄金产品出口征收7.5-15%的出口税。",
+          "url": "https://wallstreetcn.com/livenews/3005588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
+          "title": "印尼计划在2026年对黄金出口征税",
+          "url": "https://flash.jin10.com/detail/20251117124832788800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "中金：本轮黄金牛市可能尚未结束 不排除明年突破5000美元",
@@ -71,8 +93,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 12时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 13时18分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -93,7 +115,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         }
