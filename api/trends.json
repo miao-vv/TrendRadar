@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T19:16:07.289085+08:00",
-  "total_titles_processed": 1509,
+  "generated_at": "2025-11-17T20:36:04.374426+08:00",
+  "total_titles_processed": 1584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 11月17日（周一）早盘盘初下跌2.38%报932.0元/克；<br/>上海黄金交易所白银T+D 11月17日（周一）早盘盘初下跌3.33%报12001.0元/千克。",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时18分 ~ 14时27分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月17日（周一）晚盘盘初上涨0.11%报930.22元/克；<br/>上海黄金交易所白银T+D 11月17日（周一）晚盘盘初上涨0.09%报11969.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251117200057370800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "印尼财政部：印尼计划对黄金产品出口征收7.5-15%的出口税。",
@@ -131,6 +142,20 @@
           "time_info": "[00时19分 ~ 15时18分]"
         },
         {
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时24分 ~ 20时36分]"
+        },
+        {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
           "url": "https://www.zhihu.com/question/1973043161929577003",
           "source": "知乎",
@@ -141,19 +166,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时22分 ~ 09时18分]"
-        },
-        {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 19时16分]"
         },
         {
           "title": "美股盘前，部分明星科技股走强，谷歌A(GOOGL.O)涨5.4%，此前巴菲特首次建仓谷歌。特斯拉(TSLA.O)涨1.2%、美光科技(MU.O)涨2.3%。热门中概股方面，阿里巴巴(BABA.N)涨3.3%。",
