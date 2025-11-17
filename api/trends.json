@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T20:36:04.374426+08:00",
-  "total_titles_processed": 1584,
+  "generated_at": "2025-11-17T21:30:56.876502+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
@@ -49,7 +49,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -152,8 +152,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时24分 ~ 20时36分]"
+          "appearance_count": 12,
+          "time_info": "[12时24分 ~ 21时30分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
