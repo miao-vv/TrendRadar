@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T01:17:54.779363+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-11-18T02:25:24.605580+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时25分]"
         },
         {
           "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时25分]"
         },
         {
           "title": "谷歌：将投资建设两个面向跨印度洋地区的全新连接枢纽。",
@@ -48,7 +48,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
