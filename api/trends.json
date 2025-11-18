@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T16:23:51.630597+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2025-11-18T17:19:56.674993+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时10分 ~ 17时19分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时16分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 17时19分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月18日（周二）早盘盘初下跌0.68%报922.93元/克；<br/>上海黄金交易所白银T+D 11月18日（周二）早盘盘初下跌1.07%报11830.0元/千克。",
@@ -118,7 +119,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -129,7 +130,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -151,7 +152,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -206,7 +207,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         }
