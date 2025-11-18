@@ -1,25 +1,11 @@
 {
-  "generated_at": "2025-11-18T22:21:37.162513+08:00",
-  "total_titles_processed": 1826,
-  "failed_sources": [
-    "toutiao",
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper",
-    "bilibili-hot-search",
-    "cls-hot",
-    "ifeng",
-    "jin10",
-    "wallstreetcn-quick",
-    "tieba",
-    "weibo",
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2025-11-18T23:21:13.027431+08:00",
+  "total_titles_processed": 1948,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -44,8 +30,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时16分 ~ 20时36分]"
+          "appearance_count": 15,
+          "time_info": "[09时16分 ~ 23时21分]"
+        },
+        {
+          "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月18日（周二）早盘盘初下跌0.68%报922.93元/克；<br/>上海黄金交易所白银T+D 11月18日（周二）早盘盘初下跌1.07%报11830.0元/千克。",
@@ -126,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "市场消息：激进投资公司埃利奥特已持有巴里克黄金(GOLD.N)的大量股份。此前，由于运营受挫和成本超支，这家黄金生产商在金价飙升之际落后于同行。",
+          "url": "https://flash.jin10.com/detail/20251118224254818800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "现货黄金跌破4000美元/盎司",
@@ -352,7 +360,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "网络安全公司Cloudflare发生故障 ChatGPT、X等网站访问受阻",
@@ -388,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
+        },
+        {
+          "title": "Intuit将斥资超过1亿美元与OpenAI签订一份多年期合同，旨在将这家ChatGPT开发商的人工智能模型进一步整合到TurboTax等金融应用程序中。",
+          "url": "https://flash.jin10.com/detail/20251118222128333800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     },
