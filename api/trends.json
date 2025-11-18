@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T06:18:34.610201+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2025-11-19T07:21:45.122631+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             3,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时25分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[02时25分 ~ 07时21分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -30,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时21分]"
         },
         {
           "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
@@ -88,7 +89,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         },
@@ -99,7 +100,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         }
@@ -107,8 +108,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 07时21分]"
+        },
         {
           "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
           "url": "https://wallstreetcn.com/articles/3759603",
@@ -121,15 +133,15 @@
           "time_info": "[00时23分 ~ 06时18分]"
         },
         {
-          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
-          "url": "https://wallstreetcn.com/articles/3759576",
+          "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币黄金走强",
+          "url": "https://wallstreetcn.com/articles/3759603",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月18日（周二）晚盘收盘上涨0.94%报928.23元/克；<br/>上海黄金交易所白银T+D 11月18日（周二）晚盘收盘上涨1.09%报11931.0元/千克。",
@@ -177,11 +189,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 07时21分]"
         }
       ]
     }
