@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T07:16:47.624920+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2025-11-18T09:16:56.568274+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2202991",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时16分]"
+        },
+        {
           "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
           "url": "https://wallstreetcn.com/articles/3759493",
           "source": "华尔街见闻",
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2202991",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -101,8 +102,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 11月18日（周二）早盘盘初下跌0.68%报922.93元/克；<br/>上海黄金交易所白银T+D 11月18日（周二）早盘盘初下跌1.07%报11830.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251118090200688800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
         {
           "title": "周一（11月17日）纽约尾盘，现货黄金跌1.00%，报4043.38美元/盎司，北京时间07:23微涨至4106.74美元刷新日高，随后持续微幅走弱，03:09跌穿4060美元，之后快速走低，04:00刷新日低至4007.09美元。 COMEX黄金期货跌1.23%，报4043.80美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3006076",
@@ -137,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         },
         {
           "title": "现货黄金跌势难止，向下触及4020美元/盎司，日内跌1.60%。",
