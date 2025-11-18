@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T00:23:57.473849+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-19T01:17:35.419091+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://flash.jin10.com/detail/20251119000857307800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
           "url": "https://wallstreetcn.com/livenews/3006643",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "谷歌：即日起，美国地区的Google AI Pro和Ultra订阅用户可以使用Gemini 3 Pro。",
           "url": "https://flash.jin10.com/detail/20251119000659140800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -48,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         }
       ]
     },
@@ -65,8 +68,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -76,8 +79,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
         },
         {
           "title": "黄金矿商巴里克挣扎之际，“野蛮人”艾略特购入大量股份",
