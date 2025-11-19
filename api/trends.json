@@ -1,11 +1,50 @@
 {
-  "generated_at": "2025-11-19T23:19:47.853159+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2025-11-20T00:23:14.964140+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
+        },
+        {
+          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
+        },
+        {
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
-      "match_count": 21,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
@@ -15,569 +54,47 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时16分 ~ 23时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
-          "url": "https://wallstreetcn.com/articles/3759576",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时21分]"
-        },
-        {
-          "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
-          "url": "https://wallstreetcn.com/articles/3759603",
-          "source": "华尔街见闻",
+          "title": "40万的嫁衣是用黄金做的吗",
+          "url": "https://search.bilibili.com/all?keyword=40%E4%B8%87%E7%9A%84%E5%AB%81%E8%A1%A3%E6%98%AF%E7%94%A8%E9%BB%84%E9%87%91%E5%81%9A%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 06时18分]"
-        },
-        {
-          "title": "如何看待梁家辉称香港电影的黄金时代在未来，关锦鹏认为是 70 年代末到 90 年代？有哪些优秀代表作？",
-          "url": "https://www.zhihu.com/question/1972279810744120096",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时21分 ~ 19时16分]"
-        },
-        {
-          "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币黄金走强",
-          "url": "https://wallstreetcn.com/articles/3759603",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月18日（周二）晚盘收盘上涨0.94%报928.23元/克；<br/>上海黄金交易所白银T+D 11月18日（周二）晚盘收盘上涨1.09%报11931.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251119023018710800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "现货黄金站上4080美元/盎司，日内涨0.31%。",
-          "url": "https://flash.jin10.com/detail/20251119104831068800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "A股黄金股持续走强，中金黄金触及涨停，晓程科技、赤峰黄金、兴业银锡、山东黄金、山金国际均涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3006995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "分析师：黄金期货或迎来短期反弹",
-          "url": "https://flash.jin10.com/detail/20251119141727322800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时18分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "美银证券最新的月度调查发现：30%的受访者选择日元。 26%看好黄金。 美元和欧元都在14%。 瑞郎占比7%。 英镑为3%。",
-          "url": "https://wallstreetcn.com/livenews/3006714",
+          "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3007293",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 06时18分]"
-        },
-        {
-          "title": "金十图示：2025年11月19日（周三）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251119115205356800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时18分]"
-        },
-        {
-          "title": "现货黄金日内大涨50.08美元，现报4117.34美元/盎司，涨幅1.23%。",
-          "url": "https://flash.jin10.com/detail/20251119180633719800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "多家黄金珠宝品牌单克足金饰品价格重回1290元上方",
-          "url": "https://wallstreetcn.com/livenews/3006991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月19日（周三）收盘上涨1.56%报933.9元/克；<br/>上海黄金交易所白银T+D 11月19日（周三）收盘上涨2.96%报12151.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251119153012279800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "现货黄金突破4110美元/盎司，日内涨1.05%。",
-          "url": "https://flash.jin10.com/detail/20251119175651286800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "现货黄金日内涨幅达1.00%，现报4107.98美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251119175355294800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "现货黄金重回4100美元上方，日内涨0.85%。 现货白银向上触及52美元/盎司，日内涨2.58%。",
-          "url": "https://wallstreetcn.com/livenews/3007110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月19日（周三）晚盘盘初上涨0.98%报939.9元/克；<br/>上海黄金交易所白银T+D 11月19日（周三）晚盘盘初上涨2.46%报12294.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251119200244479800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "现货黄金站上4090美元/盎司，日内涨0.56%。",
-          "url": "https://flash.jin10.com/detail/20251119132613149800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "现货黄金向上触及4120美元/盎司，日内涨1.30%，较日低回升逾60美元。",
-          "url": "https://flash.jin10.com/detail/20251119225555011800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            23
           ],
           "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "黄金矿商巴里克挣扎之际，“野蛮人”艾略特购入大量股份",
-          "url": "https://wallstreetcn.com/livenews/3006624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时16分 ~ 23时19分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时10分 ~ 23时19分]"
-        },
-        {
-          "title": "谷歌正式发布Gemini3",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            3,
-            16,
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时25分 ~ 09时16分]"
-        },
-        {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 16时24分]"
-        },
-        {
-          "title": "Gemini3为何是目前最强AI",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            12,
-            13,
-            6,
-            7,
-            19,
-            20,
-            28,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时10分 ~ 21时31分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            18,
-            21,
-            23,
-            24,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时17分 ~ 23时19分]"
-        },
-        {
-          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
-          "url": "https://www.cls.cn/detail/2204017",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 07时21分]"
-        },
-        {
-          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
-          "url": "https://www.cls.cn/detail/2204346",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 13时18分]"
-        },
-        {
-          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
-          "url": "https://www.zhihu.com/question/1974273046480184125",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时30分 ~ 23时19分]"
-        },
-        {
-          "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1974260216498500253",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
-          "url": "https://wallstreetcn.com/livenews/3006981",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时18分]"
-        },
-        {
-          "title": "特朗普称沙特将获得F-35战机 谷歌推出新一代AI模型Gemini 3 | 环球市场",
-          "url": "https://www.cls.cn/detail/2204388",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 15时18分]"
-        },
-        {
-          "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
-          "url": "https://flash.jin10.com/detail/20251119000857307800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
-          "url": "https://wallstreetcn.com/livenews/3006643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "谷歌：即日起，美国地区的Google AI Pro和Ultra订阅用户可以使用Gemini 3 Pro。",
-          "url": "https://flash.jin10.com/detail/20251119000659140800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
-          "url": "https://wallstreetcn.com/livenews/3006669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时15分]"
-        },
-        {
-          "title": "谷歌A涨约6%创历史新高，纳指涨超1%，半导体指数涨超2%",
-          "url": "https://wallstreetcn.com/livenews/3007282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "谷歌计划在澳大利亚的圣诞岛建设数据中心",
-          "url": "https://wallstreetcn.com/livenews/3006723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "谷歌计划在澳大利亚的圣诞岛建设数据中心",
-          "url": "https://flash.jin10.com/detail/20251119044837907800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
           "url": "https://wallstreetcn.com/articles/3759654",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时16分 ~ 23时19分]"
-        },
-        {
-          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
-          "url": "https://wallstreetcn.com/livenews/3007227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时31分 ~ 22时17分]"
-        },
-        {
-          "title": "在爱泼斯坦丑闻曝光后，拉里·萨默斯辞去了OpenAI董事会职务。",
-          "url": "https://flash.jin10.com/detail/20251119200941299800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "OpenAI与Target公司宣布合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3007199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金价格下跌 国内投资者怎么办",
-          "url": "https://www.toutiao.com/trending/7574003822264061446/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            29,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 07时21分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     }
