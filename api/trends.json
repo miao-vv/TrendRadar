@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T13:18:29.700695+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2025-11-19T14:25:53.998753+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "谷歌正式发布Gemini3",
@@ -47,15 +47,15 @@
           "time_info": "[09时16分 ~ 13时18分]"
         },
         {
-          "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1974260216498500253",
-          "source": "知乎",
+          "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
+          "url": "https://wallstreetcn.com/livenews/3006981",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "14时25分"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -67,8 +67,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 14时25分]"
         },
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -78,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 14时25分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -88,11 +88,23 @@
           "ranks": [
             4,
             12,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 14时25分]"
+        },
+        {
+          "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1974260216498500253",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -103,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时10分 ~ 14时25分]"
         },
         {
           "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
@@ -191,7 +203,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -223,8 +235,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 14时25分]"
         },
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币黄金走强",
@@ -236,6 +248,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "分析师：黄金期货或迎来短期反弹",
+          "url": "https://flash.jin10.com/detail/20251119141727322800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月18日（周二）晚盘收盘上涨0.94%报928.23元/克；<br/>上海黄金交易所白银T+D 11月18日（周二）晚盘收盘上涨1.09%报11931.0元/千克。",
@@ -272,6 +295,19 @@
           "time_info": "[04时21分 ~ 06时18分]"
         },
         {
+          "title": "如何看待梁家辉称香港电影的黄金时代在未来，关锦鹏认为是 70 年代末到 90 年代？有哪些优秀代表作？",
+          "url": "https://www.zhihu.com/question/1972279810744120096",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时25分]"
+        },
+        {
           "title": "金十图示：2025年11月19日（周三）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251119115205356800",
           "source": "金十数据",
@@ -284,16 +320,15 @@
           "time_info": "[12时21分 ~ 13时18分]"
         },
         {
-          "title": "如何看待梁家辉称香港电影的黄金时代在未来，关锦鹏认为是 70 年代末到 90 年代？有哪些优秀代表作？",
-          "url": "https://www.zhihu.com/question/1972279810744120096",
-          "source": "知乎",
+          "title": "现货黄金站上4090美元/盎司，日内涨0.56%。",
+          "url": "https://flash.jin10.com/detail/20251119132613149800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            12
+            22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "黄金矿商巴里克挣扎之际，“野蛮人”艾略特购入大量股份",
@@ -321,8 +356,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 14时25分]"
         }
       ]
     },
