@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T18:20:03.592922+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2025-11-19T19:16:29.516962+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时16分 ~ 18时20分]"
+          "appearance_count": 13,
+          "time_info": "[09时16分 ~ 19时16分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 18时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 19时16分]"
         },
         {
           "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币黄金走强",
@@ -140,7 +140,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -173,7 +173,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -184,7 +184,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -195,7 +195,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -233,11 +233,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时16分 ~ 18时20分]"
+          "appearance_count": 13,
+          "time_info": "[09时16分 ~ 19时16分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -246,11 +247,12 @@
           "ranks": [
             10,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时10分 ~ 18时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时10分 ~ 19时16分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -279,11 +281,12 @@
             7,
             19,
             20,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时10分 ~ 18时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时10分 ~ 19时16分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -330,11 +333,12 @@
           "ranks": [
             9,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时17分 ~ 18时20分]"
+          "appearance_count": 8,
+          "time_info": "[15时17分 ~ 19时16分]"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -453,11 +457,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 18时20分]"
+          "appearance_count": 11,
+          "time_info": "[09时16分 ~ 19时16分]"
         }
       ]
     },
