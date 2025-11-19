@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T00:23:14.964140+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-20T01:17:23.619751+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -26,19 +26,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
+          "url": "https://flash.jin10.com/detail/20251120005103639800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         },
         {
           "title": "Gemini3是目前最强AI吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
+        },
+        {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时17分"
         }
       ]
     },
@@ -54,19 +77,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "40万的嫁衣是用黄金做的吗",
           "url": "https://search.bilibili.com/all?keyword=40%E4%B8%87%E7%9A%84%E5%AB%81%E8%A1%A3%E6%98%AF%E7%94%A8%E9%BB%84%E9%87%91%E5%81%9A%E7%9A%84%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
@@ -75,7 +99,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
         }
@@ -93,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 01时17分]"
         }
       ]
     }
