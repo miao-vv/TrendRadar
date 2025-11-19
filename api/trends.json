@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T03:15:22.489813+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2025-11-20T04:17:52.880035+08:00",
+  "total_titles_processed": 523,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时17分]"
         },
         {
           "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时17分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -35,11 +35,26 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时17分]"
+        },
+        {
+          "title": "Gemini3有哪些新功能",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 04时17分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -53,28 +68,16 @@
           "time_info": "01时17分"
         },
         {
-          "title": "Gemini3有哪些新功能",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时17分 ~ 03时15分]"
-        },
-        {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
           "url": "https://wallstreetcn.com/articles/3759713",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 03时15分]"
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 04时17分]"
         }
       ]
     },
@@ -87,11 +90,12 @@
           "url": "https://wallstreetcn.com/articles/3759654",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时17分]"
         },
         {
           "title": "OpenAI：隆重推出GPT‑5.1-CODEX-MAX，今日已在CODEX上架 。",
@@ -110,11 +114,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[02时26分 ~ 04时17分]"
         },
         {
           "title": "OpenAI：推出面向教师的ChatGPT，并将其免费开放至2027年6月。2027年6月之后可能会调整定价，但目标是让面向教师的ChatGPT对教育工作者来说仍然负担得起。",
@@ -135,7 +140,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         }
@@ -153,8 +158,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时17分]"
         },
         {
           "title": "40万的嫁衣是用黄金做的吗",
@@ -164,11 +169,12 @@
             1,
             10,
             22,
-            11
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时17分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月19日（周三）晚盘收盘上涨0.39%报934.44元/克；<br/>上海黄金交易所白银T+D 11月19日（周三）晚盘收盘上涨0.33%报12038.0元/千克。",
@@ -177,7 +183,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
