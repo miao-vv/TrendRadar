@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T15:17:51.469941+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2025-11-20T16:24:22.560403+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 15时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 16时24分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -62,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时17分 ~ 15时17分]"
+          "appearance_count": 18,
+          "time_info": "[01时17分 ~ 16时24分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -73,11 +73,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时25分 ~ 15时17分]"
+          "appearance_count": 17,
+          "time_info": "[02时25分 ~ 16时24分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -144,7 +145,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -217,8 +218,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 15时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 16时24分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：9月30日当周，投机者所持COMEX黄金净多头头寸减少9,305手合约，至149,311手合约。",
