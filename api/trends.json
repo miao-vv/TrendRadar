@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T12:20:12.903151+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2025-11-20T13:17:56.965963+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             5,
             8,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 12时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 13时17分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：9月30日当周，投机者所持COMEX黄金净多头头寸减少9,305手合约，至149,311手合约。",
@@ -77,22 +78,24 @@
           "url": "https://flash.jin10.com/detail/20251120115159185800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时17分]"
         },
         {
           "title": "美联储10月会议纪要显示，许多与会者反对12月再次降息。英伟达强劲业绩和乐观展望缓解人工智能泡沫担忧。纳指隔夜收涨近0.6%，现货黄金早盘一度走高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251120114107161800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时17分]"
         },
         {
           "title": "周三（11月19日）纽约尾盘，现货黄金涨0.28%，报4078.59美元/盎司，亚太盘初以来持续走高，北京时间23:15刷新日高至4132.86美元，之后快速回吐涨幅，并逼近10:04刷新的日低4055.68美元。 COMEX黄金期货涨0.36%，报4081.10美元/盎司，23:15也曾刷新日高至4134.30美元。",
@@ -214,8 +217,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 12时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 13时17分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -229,8 +232,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时17分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[01时17分 ~ 13时17分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -243,8 +246,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时25分 ~ 12时20分]"
+          "appearance_count": 14,
+          "time_info": "[02时25分 ~ 13时17分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -269,6 +272,18 @@
           "time_info": "09时15分"
         },
         {
+          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
+          "url": "https://www.zhihu.com/question/1974483598263476355",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 13时17分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 谷歌创新高",
           "url": "https://flash.jin10.com/detail/20251120050112244800",
           "source": "金十数据",
@@ -279,17 +294,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时17分]"
-        },
-        {
-          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
-          "url": "https://www.zhihu.com/question/1974483598263476355",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
         },
         {
           "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
