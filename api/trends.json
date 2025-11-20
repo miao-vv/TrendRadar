@@ -1,11 +1,181 @@
 {
-  "generated_at": "2025-11-20T11:08:33.835459+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2025-11-20T12:20:12.903151+08:00",
+  "total_titles_processed": 1014,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "黄金",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 06时17分]"
+        },
+        {
+          "title": "40万的嫁衣是用黄金做的吗",
+          "url": "https://search.bilibili.com/all?keyword=40%E4%B8%87%E7%9A%84%E5%AB%81%E8%A1%A3%E6%98%AF%E7%94%A8%E9%BB%84%E9%87%91%E5%81%9A%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            10,
+            22,
+            11,
+            4,
+            5,
+            8,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 12时20分]"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：9月30日当周，投机者所持COMEX黄金净多头头寸减少9,305手合约，至149,311手合约。",
+          "url": "https://wallstreetcn.com/livenews/3007406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 11月19日（周三）晚盘收盘上涨0.39%报934.44元/克；<br/>上海黄金交易所白银T+D 11月19日（周三）晚盘收盘上涨0.33%报12038.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251120023105297800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "上海黄金交易所发布关于继续做好近期市场风险控制工作的通知",
+          "url": "https://wallstreetcn.com/livenews/3007611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时08分 ~ 12时20分]"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251120115159185800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "美联储10月会议纪要显示，许多与会者反对12月再次降息。英伟达强劲业绩和乐观展望缓解人工智能泡沫担忧。纳指隔夜收涨近0.6%，现货黄金早盘一度走高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251120114107161800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
+          "title": "周三（11月19日）纽约尾盘，现货黄金涨0.28%，报4078.59美元/盎司，亚太盘初以来持续走高，北京时间23:15刷新日高至4132.86美元，之后快速回吐涨幅，并逼近10:04刷新的日低4055.68美元。 COMEX黄金期货涨0.36%，报4081.10美元/盎司，23:15也曾刷新日高至4134.30美元。",
+          "url": "https://wallstreetcn.com/livenews/3007429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至9月30日当周，COMEX黄金期货投机性净多头头寸减少9305手，149311手。",
+          "url": "https://flash.jin10.com/detail/20251120043340080800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "现货黄金持续走弱，短线再跌20美元，失守4050美元/盎司，日内跌幅0.74%。",
+          "url": "https://flash.jin10.com/detail/20251120102051374800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "现货黄金突破4100美元/盎司",
+          "url": "https://wallstreetcn.com/livenews/3007486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3007293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "现货黄金短线下挫逾20美元，跌破4060美元/盎司，日内跌0.44%。现货白银向下触及51美元/盎司，日内跌0.70%。",
+          "url": "https://flash.jin10.com/detail/20251120100914770800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
+          "title": "现货黄金站上4100美元/盎司，日内涨0.55%。",
+          "url": "https://flash.jin10.com/detail/20251120074731652800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -40,11 +210,12 @@
             4,
             5,
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 11时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 12时20分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -58,8 +229,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时17分 ~ 11时08分]"
+          "appearance_count": 14,
+          "time_info": "[01时17分 ~ 12时20分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -68,11 +239,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时25分 ~ 11时08分]"
+          "appearance_count": 13,
+          "time_info": "[02时25分 ~ 12时20分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -109,13 +281,24 @@
           "time_info": "[05时14分 ~ 06时17分]"
         },
         {
+          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
+          "url": "https://www.zhihu.com/question/1974483598263476355",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 12时20分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
           "url": "https://flash.jin10.com/detail/20251120104126755800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -126,7 +309,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
         },
@@ -145,152 +328,6 @@
           "title": "王自如深度体验谷歌AI",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
           "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "英伟达财报前市场情绪谨慎，标普连跌四日，科技股重挫，比特币、现货黄金反弹",
-          "url": "https://wallstreetcn.com/articles/3759603",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时17分]"
-        },
-        {
-          "title": "40万的嫁衣是用黄金做的吗",
-          "url": "https://search.bilibili.com/all?keyword=40%E4%B8%87%E7%9A%84%E5%AB%81%E8%A1%A3%E6%98%AF%E7%94%A8%E9%BB%84%E9%87%91%E5%81%9A%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            10,
-            22,
-            11,
-            4,
-            5,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 11时08分]"
-        },
-        {
-          "title": "上海黄金交易所发布关于继续做好近期市场风险控制工作的通知",
-          "url": "https://wallstreetcn.com/livenews/3007611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：9月30日当周，投机者所持COMEX黄金净多头头寸减少9,305手合约，至149,311手合约。",
-          "url": "https://wallstreetcn.com/livenews/3007406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 11月19日（周三）晚盘收盘上涨0.39%报934.44元/克；<br/>上海黄金交易所白银T+D 11月19日（周三）晚盘收盘上涨0.33%报12038.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251120023105297800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "周三（11月19日）纽约尾盘，现货黄金涨0.28%，报4078.59美元/盎司，亚太盘初以来持续走高，北京时间23:15刷新日高至4132.86美元，之后快速回吐涨幅，并逼近10:04刷新的日低4055.68美元。 COMEX黄金期货涨0.36%，报4081.10美元/盎司，23:15也曾刷新日高至4134.30美元。",
-          "url": "https://wallstreetcn.com/livenews/3007429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至9月30日当周，COMEX黄金期货投机性净多头头寸减少9305手，149311手。",
-          "url": "https://flash.jin10.com/detail/20251120043340080800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时14分"
-        },
-        {
-          "title": "现货黄金持续走弱，短线再跌20美元，失守4050美元/盎司，日内跌幅0.74%。",
-          "url": "https://flash.jin10.com/detail/20251120102051374800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "现货黄金突破4100美元/盎司",
-          "url": "https://wallstreetcn.com/livenews/3007486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3007293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "现货黄金短线下挫逾20美元，跌破4060美元/盎司，日内跌0.44%。现货白银向下触及51美元/盎司，日内跌0.70%。",
-          "url": "https://flash.jin10.com/detail/20251120100914770800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        },
-        {
-          "title": "现货黄金站上4100美元/盎司，日内涨0.55%。",
-          "url": "https://flash.jin10.com/detail/20251120074731652800",
-          "source": "金十数据",
           "ranks": [
             30
           ],
