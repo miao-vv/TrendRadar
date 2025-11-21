@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T14:27:33.106794+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2025-11-21T15:18:17.170710+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,18 @@
           "time_info": "[11时09分 ~ 12时21分]"
         },
         {
+          "title": "鸿海董事长：若与OpenAI合作将先从加州实验室开始，然后可能扩展到在俄亥俄州的生产业务。",
+          "url": "https://wallstreetcn.com/livenews/3008440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时18分]"
+        },
+        {
           "title": "OpenAI被数字实验室APP开发商OverDrive起诉，自称“Sora”商标被Sam Altman公司的视频大模型Sora侵权。",
           "url": "https://wallstreetcn.com/livenews/3008088",
           "source": "华尔街见闻-快讯",
@@ -75,24 +87,13 @@
           "time_info": "07时16分"
         },
         {
-          "title": "鸿海董事长：若与OpenAI合作将先从加州实验室开始，然后可能扩展到在俄亥俄州的生产业务。",
-          "url": "https://wallstreetcn.com/livenews/3008440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
           "title": "鸿海董事长刘扬伟：与OpenAI的合作将从加州的一个实验室开始，随后可能扩展到俄亥俄州的制造业务。",
           "url": "https://flash.jin10.com/detail/20251121134910969800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -103,7 +104,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -114,7 +115,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -143,138 +144,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
-          "url": "https://www.zhihu.com/question/1974854700256944776",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 11时09分]"
-        },
-        {
-          "title": "谷歌发布新一代图像生成模型",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 09时15分]"
-        },
-        {
-          "title": "Gemini3",
-          "url": "https://s.weibo.com/weibo?q=Gemini3&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时25分 ~ 05时16分]"
-        },
-        {
-          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1974981372130116043",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时16分 ~ 09时15分]"
-        },
-        {
-          "title": "Gemini 3深度实测",
-          "url": "https://www.douyin.com/hot/2312679",
-          "source": "抖音",
-          "ranks": [
-            7,
-            4,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时09分 ~ 14时27分]"
-        },
-        {
-          "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
-          "url": "https://wallstreetcn.com/livenews/3008167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时17分]"
-        },
-        {
-          "title": "谷歌突破苹果生态壁垒 新款手机可实现跨生态文件共享",
-          "url": "https://flash.jin10.com/detail/20251121034642254800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时16分]"
-        },
-        {
-          "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
-          "url": "https://wallstreetcn.com/livenews/3008098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时15分]"
-        },
-        {
-          "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
-          "url": "https://wallstreetcn.com/livenews/3008082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "谷歌公司新推图像生成模型，名叫Nano Banana Pro",
-          "url": "https://wallstreetcn.com/livenews/3008055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "现货黄金短线走低15美元，跌破4060美元/盎司，日内跌0.43%。现货白银回落至50美元/盎司下方，日内跌1.32%。",
@@ -294,7 +165,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -374,9 +245,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "现货黄金日内跌50美元",
+          "url": "https://flash.jin10.com/detail/20251121150430683800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "周四（11月20日）纽约尾盘，现货黄金持平，报4077.91美元/盎司，北京时间08:01涨至4110.15美元刷新日高，10:00前后出现一波跳水行情，16:23刷新日低至4038.97美元，美股开盘前后出现一波冲高回落行情。 COMEX黄金期货跌0.16%，报4076.40美元/盎司。",
@@ -388,6 +270,158 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "现货黄金短线下挫超20美元，日内下跌超1%，逼近失守4030美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251121142927468800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
+          "url": "https://www.zhihu.com/question/1974854700256944776",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 11时09分]"
+        },
+        {
+          "title": "谷歌发布新一代图像生成模型",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时15分]"
+        },
+        {
+          "title": "Gemini3",
+          "url": "https://s.weibo.com/weibo?q=Gemini3&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时25分 ~ 05时16分]"
+        },
+        {
+          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1974981372130116043",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时16分 ~ 09时15分]"
+        },
+        {
+          "title": "Gemini 3深度实测",
+          "url": "https://www.douyin.com/hot/2312679",
+          "source": "抖音",
+          "ranks": [
+            7,
+            4,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 14时27分]"
+        },
+        {
+          "title": "意大利反垄断监管机构：在谷歌采取补救措施后，关闭于2024年7月启动的针对谷歌不当使用个人数据的调查。",
+          "url": "https://flash.jin10.com/detail/20251121150810136800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3008167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时17分]"
+        },
+        {
+          "title": "谷歌突破苹果生态壁垒 新款手机可实现跨生态文件共享",
+          "url": "https://flash.jin10.com/detail/20251121034642254800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时16分]"
+        },
+        {
+          "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
+          "url": "https://wallstreetcn.com/livenews/3008098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时15分]"
+        },
+        {
+          "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
+          "url": "https://wallstreetcn.com/livenews/3008082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "谷歌公司新推图像生成模型，名叫Nano Banana Pro",
+          "url": "https://wallstreetcn.com/livenews/3008055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
         }
       ]
     }
