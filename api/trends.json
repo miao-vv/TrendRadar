@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T09:15:57.926183+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2025-11-21T11:09:30.510382+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 09时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 11时09分]"
         },
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -95,6 +96,17 @@
           "time_info": "[02时26分 ~ 03时15分]"
         },
         {
+          "title": "Gemini 3深度实测",
+          "url": "https://www.douyin.com/hot/2312679",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
           "title": "比特币矿商Cipher Mining Inc.一度上涨大约20%，该公司与（谷歌支持的）数据中心运营商签署8.3亿美元协议。",
           "url": "https://wallstreetcn.com/livenews/3008082",
           "source": "华尔街见闻-快讯",
@@ -120,7 +132,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "鸿海与OpenAI合作，将共同设计数据中心的硬件",
@@ -140,7 +152,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -167,6 +179,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "OpenAI正式推出ChatGPT群聊功能",
+          "url": "https://wallstreetcn.com/livenews/3008363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
           "title": "富士康：富士康与OpenAI合作，以加强美国在人工智能供应链上的制造业实力。将在美国生产人工智能数据中心的关键设备。",
           "url": "https://flash.jin10.com/detail/20251121065116546800",
           "source": "金十数据",
@@ -187,13 +210,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "鸿海董事长刘扬伟：OpenAI是我们最新的合作伙伴之一。",
+          "url": "https://flash.jin10.com/detail/20251121102852952800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "现货黄金短线走低15美元，跌破4060美元/盎司，日内跌0.43%。现货白银回落至50美元/盎司下方，日内跌1.32%。",
+          "url": "https://flash.jin10.com/detail/20251121105700037800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
         {
           "title": "上海黄金交易所黄金T+D 11月20日（周四）晚盘收盘下跌0.46%报928.15元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）晚盘收盘下跌1.11%报11964.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251121023415812800",
@@ -225,7 +270,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -236,7 +281,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
