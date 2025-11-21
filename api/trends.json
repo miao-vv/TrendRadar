@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T12:21:15.754958+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2025-11-21T13:18:29.538384+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
@@ -66,11 +66,12 @@
           "ranks": [
             7,
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 13时18分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
@@ -255,6 +256,18 @@
           "time_info": "[03时15分 ~ 04时20分]"
         },
         {
+          "title": "金十图示：2025年11月21日（周五）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251121115433707800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时18分]"
+        },
+        {
           "title": "现货黄金重新转涨，现报4080美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251121032241025800",
           "source": "金十数据",
@@ -298,17 +311,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "金十图示：2025年11月21日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251121115433707800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         },
         {
           "title": "周四（11月20日）纽约尾盘，现货黄金持平，报4077.91美元/盎司，北京时间08:01涨至4110.15美元刷新日高，10:00前后出现一波跳水行情，16:23刷新日低至4038.97美元，美股开盘前后出现一波冲高回落行情。 COMEX黄金期货跌0.16%，报4076.40美元/盎司。",
