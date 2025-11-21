@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T07:16:47.302479+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2025-11-21T09:15:57.926183+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1974854700256944776",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时15分]"
         },
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -27,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 09时15分]"
         },
         {
           "title": "Gemini3",
@@ -50,11 +51,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时16分 ~ 07时16分]"
+          "appearance_count": 4,
+          "time_info": "[06时16分 ~ 09时15分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
@@ -118,7 +120,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "鸿海与OpenAI合作，将共同设计数据中心的硬件",
@@ -127,9 +129,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "台股鸿海盘初跌逾4%，此前公司宣布将与OpenAI共同在美国打造下一代AI基础设施硬体。",
+          "url": "https://flash.jin10.com/detail/20251121090147933800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         },
         {
           "title": "OpenAI被数字实验室APP开发商OverDrive起诉，自称“Sora”商标被Sam Altman公司的视频大模型Sora侵权。",
@@ -149,7 +162,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -160,7 +173,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -171,7 +184,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         }
@@ -179,7 +192,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 11月20日（周四）晚盘收盘下跌0.46%报928.15元/克；<br/>上海黄金交易所白银T+D 11月20日（周四）晚盘收盘下跌1.11%报11964.0元/千克。",
@@ -206,13 +219,35 @@
           "time_info": "[04时20分 ~ 05时16分]"
         },
         {
+          "title": "上海黄金交易所黄金T+D 11月21日（周五）早盘盘初下跌0.23%报930.3元/克；<br/>上海黄金交易所白银T+D 11月21日（周五）早盘盘初下跌1.39%报11930.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251121090044260800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "现货黄金失守4070美元/盎司，日内跌幅0.19%。",
+          "url": "https://flash.jin10.com/detail/20251121090028376800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4.29吨，当前持仓量为1039.43吨。",
           "url": "https://flash.jin10.com/detail/20251121065741022800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -223,7 +258,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         }
