@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T02:23:21.499176+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-11-22T03:15:35.639753+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "现货黄金持续走高，重回4100美元/盎司上方。",
@@ -19,6 +19,30 @@
           "time_info": "01时16分"
         },
         {
+          "title": "德银凭借丰厚盈利重返黄金交易舞台",
+          "url": "https://wallstreetcn.com/livenews/3008840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时15分]"
+        },
+        {
+          "title": "玻利维亚政府计划新成立一家黄金银行，利用公共资金和私人资本来确保可持续的矿业发展和市场活动。",
+          "url": "https://wallstreetcn.com/livenews/3008833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时15分]"
+        },
+        {
           "title": "俄央行首次出售实物黄金“弥补预算”",
           "url": "https://www.toutiao.com/trending/7575157215598743059/",
           "source": "今日头条",
@@ -28,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 01时16分]"
-        },
-        {
-          "title": "德银凭借丰厚盈利重返黄金交易舞台",
-          "url": "https://wallstreetcn.com/livenews/3008840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
         },
         {
           "title": "现货黄金短线拉升超10美元，突破4090美元/盎司，日内涨0.33%。",
@@ -52,15 +65,15 @@
           "time_info": "01时16分"
         },
         {
-          "title": "玻利维亚政府计划新成立一家黄金银行，利用公共资金和私人资本来确保可持续的矿业发展和市场活动。",
-          "url": "https://wallstreetcn.com/livenews/3008833",
-          "source": "华尔街见闻-快讯",
+          "title": "上海黄金交易所黄金T+D 11月21日（周五）晚盘收盘上涨0.49%报932.03元/克；<br/>上海黄金交易所白银T+D 11月21日（周五）晚盘收盘上涨0.51%报11890.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251122023034339800",
+          "source": "金十数据",
           "ranks": [
-            11
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "03时15分"
         }
       ]
     },
@@ -73,22 +86,24 @@
           "url": "https://flash.jin10.com/detail/20251122020035429800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时15分]"
         },
         {
           "title": "谷歌推出BigQuery AI",
           "url": "https://wallstreetcn.com/livenews/3008826",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时23分 ~ 03时15分]"
         },
         {
           "title": "谷歌：我们推出BigQuery AI。",
@@ -97,7 +112,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         }
