@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T03:13:23.573346+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2025-11-23T04:18:26.652522+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时18分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时22分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 04时18分]"
         }
       ]
     },
@@ -69,11 +69,12 @@
           "ranks": [
             13,
             14,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时18分]"
         }
       ]
     }
