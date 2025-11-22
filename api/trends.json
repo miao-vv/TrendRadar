@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-22T17:17:18.121815+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-11-22T18:17:14.177697+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
       "match_count": 11,
       "titles": [
+        {
+          "title": "黄金格局生变？俄央行首次出售实物黄金“弥补预算”，“稳定币老大”囤金规模逼近小央行",
+          "url": "https://wallstreetcn.com/articles/3759890",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 18时17分]"
+        },
         {
           "title": "现货黄金持续走高，重回4100美元/盎司上方。",
           "url": "https://flash.jin10.com/detail/20251122010009293800",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时17分 ~ 11时02分]"
-        },
-        {
-          "title": "黄金格局生变？俄央行首次出售实物黄金“弥补预算”，“稳定币老大”囤金规模逼近小央行",
-          "url": "https://wallstreetcn.com/articles/3759890",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 17时17分]"
         },
         {
           "title": "黄金跌势难止逼近关键关口",
@@ -150,11 +151,12 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 17时17分]"
+          "appearance_count": 14,
+          "time_info": "[09时13分 ~ 18时17分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -163,11 +165,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时02分 ~ 17时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时02分 ~ 18时17分]"
         },
         {
           "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
@@ -178,8 +181,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时16分 ~ 17时17分]"
+          "appearance_count": 10,
+          "time_info": "[13时16分 ~ 18时17分]"
         },
         {
           "title": "Gemini3玩法大全",
