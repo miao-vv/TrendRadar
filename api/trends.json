@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T21:22:13.205203+08:00",
-  "total_titles_processed": 1406,
+  "generated_at": "2025-11-22T22:14:50.719854+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,19 @@
           "time_info": "[13时16分 ~ 19时13分]"
         },
         {
+          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
+          "url": "https://wallstreetcn.com/articles/3759931",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时29分 ~ 22时14分]"
+        },
+        {
           "title": "Gemini3玩法大全",
           "url": "https://www.douyin.com/hot/2314134",
           "source": "抖音",
@@ -62,28 +75,17 @@
           "time_info": "[11时02分 ~ 15时15分]"
         },
         {
-          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
-          "url": "https://wallstreetcn.com/articles/3759931",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时29分 ~ 21时22分]"
-        },
-        {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
           "url": "https://wallstreetcn.com/articles/3759917",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时29分 ~ 21时22分]"
+          "appearance_count": 5,
+          "time_info": "[20时29分 ~ 22时14分]"
         },
         {
           "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
@@ -98,6 +100,18 @@
           "time_info": "[04时20分 ~ 05时16分]"
         },
         {
+          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
+          "url": "https://wallstreetcn.com/articles/3759896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 22时14分]"
+        },
+        {
           "title": "Gemini3适合用来编程吗",
           "url": "https://www.douyin.com/hot/2314319",
           "source": "抖音",
@@ -107,17 +121,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时13分 ~ 20时30分]"
-        },
-        {
-          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
-          "url": "https://wallstreetcn.com/articles/3759896",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
