@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T05:14:59.885358+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2025-11-23T06:16:09.326501+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -28,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时14分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -39,11 +40,12 @@
             23,
             29,
             26,
-            22
+            22,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 05时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时16分]"
         },
         {
           "title": "Gemini-3-pro 为什么提升那么大?",
@@ -51,11 +53,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时22分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[02时22分 ~ 06时16分]"
         }
       ]
     },
