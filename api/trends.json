@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T17:17:04.997138+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2025-11-23T18:17:08.769818+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
@@ -69,6 +69,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时19分 ~ 17时17分]"
+        },
+        {
+          "title": "Gemini3.0炸裂玩法合集",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
         }
       ]
     },
