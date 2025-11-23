@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T04:19:28.262164+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2025-11-24T05:15:28.036000+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             20,
             16,
             17,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 05时15分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -46,11 +47,12 @@
           "ranks": [
             8,
             9,
-            24
+            24,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 05时15分]"
         },
         {
           "title": "年轻人开始“整顿”黄金市场了吗",
