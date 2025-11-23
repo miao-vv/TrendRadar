@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T20:29:59.525841+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2025-11-23T21:22:08.716823+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时16分 ~ 20时29分]"
+          "appearance_count": 7,
+          "time_info": "[18时16分 ~ 21时22分]"
         }
       ]
     },
@@ -105,15 +105,28 @@
           "time_info": "[00时19分 ~ 07时16分]"
         },
         {
+          "title": "俄央行宣布出售实物黄金意味着什么",
+          "url": "https://www.toutiao.com/trending/7575865502568812073/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 21时22分]"
+        },
+        {
           "title": "黄金投资者周报上新！",
           "url": "https://flash.jin10.com/detail/20251123200000000800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时22分]"
         },
         {
           "title": "俄央行抛售黄金 金价会大跌吗",
@@ -125,17 +138,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
-        },
-        {
-          "title": "俄央行宣布出售实物黄金意味着什么",
-          "url": "https://www.toutiao.com/trending/7575865502568812073/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
         }
       ]
     }
