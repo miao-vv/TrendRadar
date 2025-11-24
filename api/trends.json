@@ -1,12 +1,129 @@
 {
-  "generated_at": "2025-11-25T06:17:02.340830+08:00",
-  "total_titles_processed": 593,
+  "generated_at": "2025-11-25T07:16:55.816840+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "黄金",
-      "match_count": 7,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 9,
       "titles": [
+        {
+          "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3009767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3009764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "英伟达盘后跌2%，报道称，Meta寻求为自家数据中心采用谷歌TPUs。",
+          "url": "https://wallstreetcn.com/livenews/3009800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
+          "url": "https://flash.jin10.com/detail/20251125052238827800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "谷歌A盘后涨1.9%，英伟达跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3009799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "Meta Platforms与谷歌公司洽谈，希望在自家数据中心利用后者的TPUs。 双方讨论的目标是，2027年落实。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3009797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
+          "url": "https://wallstreetcn.com/livenews/3009767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
+          "title": "谷歌云：Anthropico的全新Claude Opus 4.5现在Vertex AI上正式发布。",
+          "url": "https://flash.jin10.com/detail/20251125032925366800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        },
+        {
+          "title": "谷歌母公司Alphabet盘中涨超6%。",
+          "url": "https://flash.jin10.com/detail/20251124231115068800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
         {
           "title": "现货黄金短线拉升10余美元，日内涨超1.00%，现报4106.56美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251125023858420800",
@@ -17,17 +134,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        },
-        {
-          "title": "周一（11月24日）纽约尾盘，现货黄金涨1.80%，报4138.26美元/盎司，北京时间13:22微跌至4040.25美元刷新日低，随后持续、平滑地上涨。 COMEX黄金期货涨1.44%，报4138.00美元/盎司，日内交投区间为4036.40-4138.20美元。",
-          "url": "https://wallstreetcn.com/livenews/3009776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
         },
         {
           "title": "巴里克矿业：处置好与马里政府之间的分歧。 与该国黄金矿场相关的所有指控都将被撤销。",
@@ -41,6 +147,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 02时27分]"
+        },
+        {
+          "title": "周一（11月24日）纽约尾盘，现货黄金涨1.80%，报4138.26美元/盎司，北京时间13:22微跌至4040.25美元刷新日低，随后持续、平滑地上涨。 COMEX黄金期货涨1.44%，报4138.00美元/盎司，日内交投区间为4036.40-4138.20美元。",
+          "url": "https://wallstreetcn.com/livenews/3009776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
         },
         {
           "title": "现货黄金站上4100美元/盎司，日内涨0.84%。",
@@ -90,78 +208,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3009767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
-          "url": "https://flash.jin10.com/detail/20251125052238827800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3009764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
-          "url": "https://wallstreetcn.com/livenews/3009767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
-        {
-          "title": "谷歌云：Anthropico的全新Claude Opus 4.5现在Vertex AI上正式发布。",
-          "url": "https://flash.jin10.com/detail/20251125032925366800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        },
-        {
-          "title": "谷歌母公司Alphabet盘中涨超6%。",
-          "url": "https://flash.jin10.com/detail/20251124231115068800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
@@ -174,8 +220,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "OpenAI：还将在ChatGPT Pulse中提供购物搜索内容，目前该功能仅向ChatGPT专业版用户开放。",
