@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T20:36:24.771814+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2025-11-24T21:32:16.113815+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "俄央行宣布出售实物黄金意味着什么",
@@ -85,6 +85,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "美股期货延续涨势，欧股上涨，黄金下跌0.2%，比特币月内创三年最差表现",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
+        },
+        {
           "title": "自由港印尼首席执行官：计划2026年阴极铜产量达47.8万吨。计划2026年黄金产量达26吨。",
           "url": "https://flash.jin10.com/detail/20251124123744570800",
           "source": "金十数据",
@@ -113,7 +124,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
@@ -160,12 +171,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "现货黄金短线拉升近10美元，站上4080美元/盎司，美联储理事沃勒称支持在12月降息。",
+          "url": "https://flash.jin10.com/detail/20251124204508436800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -188,6 +210,17 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时19分 ~ 16时25分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet盘前涨幅扩大至高达4.1%。",
+          "url": "https://flash.jin10.com/detail/20251124211321112800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -261,8 +294,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 20时36分]"
+          "appearance_count": 7,
+          "time_info": "[17时21分 ~ 21时32分]"
         }
       ]
     }
