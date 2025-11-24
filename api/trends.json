@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T22:18:56.755641+08:00",
-  "total_titles_processed": 1731,
+  "generated_at": "2025-11-24T23:21:46.232096+08:00",
+  "total_titles_processed": 1832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "俄央行宣布出售实物黄金意味着什么",
@@ -37,6 +37,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时19分 ~ 07时16分]"
+        },
+        {
+          "title": "美股期货延续涨势，欧股上涨，黄金下跌0.2%，比特币月内创三年最差表现",
+          "url": "https://wallstreetcn.com/articles/3759998",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时31分 ~ 23时21分]"
         },
         {
           "title": "金十图示：2025年11月24日（周一）黄金ETF持仓报告",
@@ -85,15 +97,15 @@
           "time_info": "14时28分"
         },
         {
-          "title": "美股期货延续涨势，欧股上涨，黄金下跌0.2%，比特币月内创三年最差表现",
-          "url": "https://wallstreetcn.com/articles/3759998",
-          "source": "华尔街见闻",
+          "title": "现货黄金持续走高，向上触及4090美元/盎司，日内涨0.59%。",
+          "url": "https://flash.jin10.com/detail/20251124230607348800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "自由港印尼首席执行官：计划2026年阴极铜产量达47.8万吨。计划2026年黄金产量达26吨。",
@@ -292,11 +304,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时21分 ~ 22时18分]"
+          "appearance_count": 9,
+          "time_info": "[17时21分 ~ 23时21分]"
         }
       ]
     }
