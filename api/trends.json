@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T19:16:28.807951+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2025-11-24T20:36:24.771814+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "俄央行宣布出售实物黄金意味着什么",
@@ -107,6 +107,17 @@
           "time_info": "13时19分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 11月24日（周一）晚盘盘初上涨0.46%报929.47元/克；<br/>上海黄金交易所白银T+D 11月24日（周一）晚盘盘初上涨0.29%报11843.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251124200259997800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 11月24日（周一）收盘下跌0.16%报926.0元/克；<br/>上海黄金交易所白银T+D 11月24日（周一）收盘下跌0.02%报11828.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251124153440946800",
           "source": "金十数据",
@@ -146,7 +157,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
@@ -250,8 +261,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 20时36分]"
         }
       ]
     }
