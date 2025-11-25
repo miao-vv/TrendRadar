@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T17:21:19.720946+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2025-11-25T18:21:16.870732+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -27,11 +27,12 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 17时21分]"
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 18时21分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -67,6 +68,19 @@
           "time_info": "07时16分"
         },
         {
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 18时21分]"
+        },
+        {
           "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
           "url": "https://flash.jin10.com/detail/20251125052238827800",
           "source": "金十数据",
@@ -79,18 +93,6 @@
           "time_info": "[06时17分 ~ 07时16分]"
         },
         {
-          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
-          "url": "https://wallstreetcn.com/articles/3760047",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 17时21分]"
-        },
-        {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
           "url": "https://www.zhihu.com/question/1976223014631733240",
           "source": "知乎",
@@ -101,6 +103,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时16分 ~ 11时13分]"
+        },
+        {
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 18时21分]"
         },
         {
           "title": "详解Gemini3测试单",
@@ -227,7 +240,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "现货黄金短线走低10美元，回落至4120美元/盎司下方，日内跌0.34%。",
@@ -236,7 +249,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -313,6 +326,18 @@
           "time_info": "[12时24分 ~ 14时27分]"
         },
         {
+          "title": "现货白银日内跌幅达1%，报50.79美元/盎司；现货黄金日内跌幅达0.5%，报4109.57美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3010123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时21分]"
+        },
+        {
           "title": "澳大利亚Vault Minerals：宣布提前结算所有2026财年下半年黄金远期销售合同。",
           "url": "https://flash.jin10.com/detail/20251125113138551800",
           "source": "金十数据",
@@ -359,17 +384,6 @@
           "time_info": "03时12分"
         },
         {
-          "title": "现货白银日内跌幅达1%，报50.79美元/盎司；现货黄金日内跌幅达0.5%，报4109.57美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3010123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
           "title": "现货黄金站上4150美元/盎司，为11月14日以来首次，日内涨0.39%。",
           "url": "https://flash.jin10.com/detail/20251125104452668800",
           "source": "金十数据",
@@ -390,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "金十图示：2018年9月至2025年10月中国香港对内地黄金净出口量一览",
+          "url": "https://flash.jin10.com/detail/20251125175915254800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "现货黄金持续走高，向上触及4090美元/盎司，日内涨0.59%。",
