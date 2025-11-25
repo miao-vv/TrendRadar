@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T09:17:10.791918+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2025-11-25T11:13:30.126948+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2209592",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 09时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 11时13分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -68,11 +69,12 @@
           "url": "https://www.zhihu.com/question/1976223014631733240",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 09时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 11时13分]"
         },
         {
           "title": "详解Gemini3测试单",
@@ -136,7 +138,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -147,7 +149,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -158,7 +160,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -180,7 +182,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -191,7 +193,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         }
@@ -199,7 +201,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
@@ -267,7 +269,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -281,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "现货黄金站上4150美元/盎司，为11月14日以来首次，日内涨0.39%。",
+          "url": "https://flash.jin10.com/detail/20251125104452668800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时13分"
         },
         {
           "title": "市场消息：加拿大黄金矿业公司巴里克宣布结束与马里军政府的争端。",
@@ -311,7 +324,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -322,7 +335,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         }
@@ -388,8 +401,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 09时17分]"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 11时13分]"
         },
         {
           "title": "新一轮AI超级周期正在开启，汇丰预计OpenAI到2030年或需高达2070亿美元新融资",
