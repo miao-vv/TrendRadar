@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T21:32:43.089732+08:00",
-  "total_titles_processed": 1893,
+  "generated_at": "2025-11-25T22:18:41.186375+08:00",
+  "total_titles_processed": 1981,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 21时32分]"
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 22时18分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -60,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时18分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[15时18分 ~ 22时18分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -73,6 +73,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
+          "url": "https://www.cls.cn/detail/2210371",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时15分 ~ 22时18分]"
         },
         {
           "title": "标普500指数初步收涨1.5%，电信板块涨4.1%——成分股谷歌A涨6.5%，科技板块涨2.6%，可选消费板块涨约2%，能源板块大致持平。 纳斯达克100指数初步收涨2.6%，成分股中，博通初步收涨11.2%，迈威尔科技涨8.7%，美光科技涨8%，特斯拉涨7%，AMD涨5.9%，Adobe则跌1.7%，星巴克跌2.2%，康卡斯特跌4.5%，CPRT跌4.6%。 Merck初步收涨2.9%，亚马逊涨2.4%，IBM、高盛、英伟达至少涨约1.9%，领跑道指成分股，迪士尼、VZ、宝洁则跌超2%。",
@@ -97,17 +109,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
-          "url": "https://www.cls.cn/detail/2210371",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 21时32分]"
-        },
-        {
           "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
           "url": "https://flash.jin10.com/detail/20251125052238827800",
           "source": "金十数据",
@@ -130,6 +131,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时16分 ~ 11时13分]"
+        },
+        {
+          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
+          "url": "https://www.cls.cn/detail/2210485",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时18分]"
         },
         {
           "title": "英伟达美股盘前跌超4%，谷歌A盘前涨超4%，报道称Meta Platforms与谷歌公司洽谈，希望在自家数据中心利用后者的TPUs。 双方讨论的目标是，2027年落实。",
@@ -187,17 +200,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
-          "url": "https://www.cls.cn/detail/2210485",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
         },
         {
           "title": "谷歌据悉与Meta就芯片问题进行谈判，推动Alphabet股价盘前上涨",
@@ -324,7 +326,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "现货黄金短线走低10美元，回落至4120美元/盎司下方，日内跌0.34%。",
@@ -490,6 +492,17 @@
           "time_info": "20时37分"
         },
         {
+          "title": "美国数据公布后，现货黄金短线上扬7美元，报4147.21美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251125213221379800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "市场消息：加拿大黄金矿业公司巴里克宣布结束与马里军政府的争端。",
           "url": "https://flash.jin10.com/detail/20251125011643190800",
           "source": "金十数据",
@@ -510,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "现货黄金持续回升，现报4141美元/盎司，已抹去此前俄乌取得进展消息公布后的全部跌幅。",
+          "url": "https://flash.jin10.com/detail/20251125212924897800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "现货黄金持续走高，向上触及4090美元/盎司，日内涨0.59%。",
