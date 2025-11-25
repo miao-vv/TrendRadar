@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T12:24:34.727206+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2025-11-25T13:18:44.784335+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 13时18分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -108,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
@@ -204,17 +215,6 @@
       "match_count": 15,
       "titles": [
         {
-          "title": "金十图示：2025年11月25日（周二）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251125115245525800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        },
-        {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
           "url": "https://wallstreetcn.com/articles/3759998",
           "source": "华尔街见闻",
@@ -250,6 +250,18 @@
           "time_info": "[00时20分 ~ 02时27分]"
         },
         {
+          "title": "金十图示：2025年11月25日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251125115245525800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 13时18分]"
+        },
+        {
           "title": "周一（11月24日）纽约尾盘，现货黄金涨1.80%，报4138.26美元/盎司，北京时间13:22微跌至4040.25美元刷新日低，随后持续、平滑地上涨。 COMEX黄金期货涨1.44%，报4138.00美元/盎司，日内交投区间为4036.40-4138.20美元。",
           "url": "https://wallstreetcn.com/livenews/3009776",
           "source": "华尔街见闻-快讯",
@@ -260,6 +272,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "多家黄金珠宝品牌足金饰品价格升至1315元/克左右",
+          "url": "https://wallstreetcn.com/livenews/3009962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 13时18分]"
+        },
+        {
+          "title": "澳大利亚Vault Minerals：宣布提前结算所有2026财年下半年黄金远期销售合同。",
+          "url": "https://flash.jin10.com/detail/20251125113138551800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 13时18分]"
         },
         {
           "title": "现货黄金站上4100美元/盎司，日内涨0.84%。",
@@ -305,28 +341,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
-        },
-        {
-          "title": "多家黄金珠宝品牌足金饰品价格升至1315元/克左右",
-          "url": "https://wallstreetcn.com/livenews/3009962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        },
-        {
-          "title": "澳大利亚Vault Minerals：宣布提前结算所有2026财年下半年黄金远期销售合同。",
-          "url": "https://flash.jin10.com/detail/20251125113138551800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
         },
         {
           "title": "市场消息：加拿大黄金矿业公司巴里克宣布结束与马里军政府的争端。",
