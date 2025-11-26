@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T15:18:12.005021+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2025-11-26T16:24:32.073421+08:00",
+  "total_titles_processed": 1409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时17分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时17分 ~ 16时24分]"
         },
         {
           "title": "美股收盘：纳指逆转1%跌幅收涨 谷歌创新高市值逼近4万亿美元",
@@ -101,19 +101,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时17分 ~ 15时18分]"
-        },
-        {
-          "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
-          "url": "https://wallstreetcn.com/articles/3760076",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时13分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时17分 ~ 16时24分]"
         },
         {
           "title": "一文读懂“谷歌链”：AI全栈式创新，TPU+OCS共塑下一代智算网络",
@@ -122,7 +111,19 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时13分 ~ 16时24分]"
+        },
+        {
+          "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
+          "url": "https://wallstreetcn.com/articles/3760076",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -171,11 +172,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时27分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[14时27分 ~ 16时24分]"
         },
         {
           "title": "英伟达“市值神话”为何被谷歌击穿",
@@ -218,11 +220,34 @@
           "url": "https://www.cls.cn/detail/2211111",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 16时24分]"
+        },
+        {
+          "title": "谷歌AI平台全球第一 火山引擎中国第一",
+          "url": "https://www.toutiao.com/trending/7576941585242505243/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时18分"
+          "time_info": "16时24分"
+        },
+        {
+          "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
+          "url": "https://flash.jin10.com/detail/20251126154853273800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         },
         {
           "title": "如何评价谷歌 TPU 业务？",
@@ -239,7 +264,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "金十图示：2025年11月26日（周三）黄金ETF持仓报告",
@@ -357,6 +382,17 @@
           "time_info": "09时17分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 11月26日（周三）收盘上涨0.12%报941.1元/克；<br/>上海黄金交易所白银T+D 11月26日（周三）收盘上涨0.67%报12210.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251126153103001800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "现货黄金短线上涨13美元，现报4163.21美元/盎司，创11月14日以来新高，日内涨0.78%。",
           "url": "https://flash.jin10.com/detail/20251126102653245800",
           "source": "金十数据",
@@ -371,7 +407,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",
@@ -418,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "软银股价较峰值下滑40%，显示市场对OpenAI的担忧",
+          "url": "https://flash.jin10.com/detail/20251126153143429800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
         }
       ]
     },
