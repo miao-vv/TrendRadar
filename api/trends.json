@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T04:17:29.770391+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2025-11-28T05:16:06.530646+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "四川发现81吨特大金矿 探矿权人背后现紫金矿业身影 四川黄金实控人有注入承诺",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "津巴布韦推出新的黄金特许权使用费结构，以从市场上涨中获利",
@@ -52,11 +52,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时17分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时16分]"
         }
       ]
     },
@@ -73,8 +74,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -85,8 +86,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         }
       ]
     },
@@ -104,8 +105,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -115,8 +116,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         }
       ]
     },
@@ -132,8 +133,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         }
       ]
     }
