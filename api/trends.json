@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-27T16:25:17.678058+08:00",
-  "total_titles_processed": 1454,
+  "generated_at": "2025-11-27T17:20:21.885740+08:00",
+  "total_titles_processed": 1534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
+          "url": "https://wallstreetcn.com/articles/3760164",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时16分 ~ 17时20分]"
+        },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
           "url": "https://wallstreetcn.com/articles/3760086",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 07时16分]"
-        },
-        {
-          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
-          "url": "https://wallstreetcn.com/articles/3760164",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时16分 ~ 16时25分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -76,8 +76,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 17时20分]"
+        },
+        {
+          "title": "【长盈精密：与谷歌合作十年 正配合开发新品】长盈精密在互动平台表示，谷歌是公司前十大客户，公司已与其合作十年。目前正积极配合客户开发新品，鉴于保密原因不方便透露具体项目。",
+          "url": "https://wallstreetcn.com/livenews/3011463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -138,11 +149,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时28分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 17时20分]"
         },
         {
           "title": "周三（11月26日）纽约尾盘，现货黄金涨0.80%，报4163.78美元/盎司，日内交投于4129.91-4173.42美元，大部分时间高位震荡。 COMEX黄金期货涨0.46%，报4158.90美元/盎司；2月合约涨0.74%，报4196.40美元。",
@@ -174,7 +186,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -196,7 +208,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -284,8 +296,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 17时20分]"
         }
       ]
     },
