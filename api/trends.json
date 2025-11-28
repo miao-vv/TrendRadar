@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T20:35:21.257115+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2025-11-28T21:29:45.188506+08:00",
+  "total_titles_processed": 1806,
   "failed_sources": [],
   "trends": [
     {
@@ -149,7 +149,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -247,7 +247,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -313,8 +313,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时16分 ~ 20时35分]"
+          "appearance_count": 16,
+          "time_info": "[07时16分 ~ 21时29分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -356,8 +356,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时17分 ~ 20时35分]"
+          "appearance_count": 10,
+          "time_info": "[15时17分 ~ 21时29分]"
         },
         {
           "title": "DeepSeek推出新模型",
