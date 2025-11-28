@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T19:16:23.166657+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2025-11-28T20:35:21.257115+08:00",
+  "total_titles_processed": 1719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "黄金真正的“大庄家”：“稳定币老大”Tether",
@@ -143,6 +143,17 @@
           "time_info": "15时18分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 11月28日（周五）晚盘盘初下跌0.19%报945.5元/克；<br/>上海黄金交易所白银T+D 11月28日（周五）晚盘盘初上涨0.6%报12644.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251128200612989800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "现货黄金短线走高逾10美元，突破4180美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251128083530863800",
           "source": "金十数据",
@@ -168,7 +179,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -230,6 +241,17 @@
           "time_info": "[17时18分 ~ 17时19分]"
         },
         {
+          "title": "印度阿达尼集团首席财务官：阿达尼集团将投资50亿美元于谷歌数据中心。",
+          "url": "https://flash.jin10.com/detail/20251128200630059800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "市场消息：谷歌撤回了针对微软(MSFT.O)云业务做法的欧盟反垄断投诉。",
           "url": "https://flash.jin10.com/detail/20251128180023594800",
           "source": "金十数据",
@@ -273,11 +295,12 @@
           "url": "https://www.zhihu.com/question/1977462001522450495",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时15分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时15分 ~ 20时35分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -286,11 +309,12 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时16分 ~ 19时16分]"
+          "appearance_count": 15,
+          "time_info": "[07时16分 ~ 20时35分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -332,8 +356,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时17分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[15时17分 ~ 20时35分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -353,7 +377,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
