@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T21:29:45.188506+08:00",
-  "total_titles_processed": 1806,
+  "generated_at": "2025-11-28T22:18:22.294198+08:00",
+  "total_titles_processed": 1881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "黄金真正的“大庄家”：“稳定币老大”Tether",
@@ -67,6 +67,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "现货黄金短线走高近10美元，现报4182.23美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251128215810703800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "上海黄金交易所黄金T+D 11月27日（周四）晚盘收盘上涨0.13%报942.34元/克；<br/>上海黄金交易所白银T+D 11月27日（周四）晚盘收盘上涨0.69%报12453.0元/千克。",
@@ -313,8 +324,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时16分 ~ 21时29分]"
+          "appearance_count": 17,
+          "time_info": "[07时16分 ~ 22时18分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -353,11 +364,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时17分 ~ 21时29分]"
+          "appearance_count": 11,
+          "time_info": "[15时17分 ~ 22时18分]"
         },
         {
           "title": "DeepSeek推出新模型",
