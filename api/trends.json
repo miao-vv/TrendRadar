@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T11:10:17.152108+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2025-11-29T12:21:06.553818+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             1,
             9,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 11时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 12时21分]"
         },
         {
           "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
@@ -41,11 +42,12 @@
           "ranks": [
             3,
             12,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 11时10分]"
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 12时21分]"
         },
         {
           "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1045.43吨，较前一个交易日维持不变。",
@@ -53,11 +55,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 11时10分]"
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 12时21分]"
         },
         {
           "title": "黄金加速上涨",
@@ -100,11 +103,12 @@
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 11时10分]"
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 12时21分]"
         }
       ]
     },
