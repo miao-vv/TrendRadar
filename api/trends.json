@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T12:32:30.687744+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2025-11-30T13:17:32.892406+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时17分]"
         }
       ]
     },
@@ -61,11 +61,12 @@
             3,
             2,
             8,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时17分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -93,11 +94,12 @@
           "ranks": [
             7,
             12,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 13时17分]"
         },
         {
           "title": "黄金再次反弹 为何华尔街坚定看涨",
