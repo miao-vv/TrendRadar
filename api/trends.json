@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T06:16:39.308438+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2025-12-01T07:16:30.531001+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -31,8 +31,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -49,6 +49,45 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现货黄金短线下挫20美元，回落至4210美元/盎司下方，日内跌0.19%。",
+          "url": "https://flash.jin10.com/detail/20251201070913508800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "周一现货黄金小幅高开，现报4228美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251201070141229800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251201064232545800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -60,8 +99,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时16分]"
         }
       ]
     },
@@ -77,8 +116,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时16分]"
         }
       ]
     }
