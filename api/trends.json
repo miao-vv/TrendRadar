@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-01T04:19:13.906547+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2025-12-01T05:16:02.551780+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
-        {
-          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
-          "url": "https://flash.jin10.com/detail/20251130233204525800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时19分]"
-        },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
           "url": "https://www.cls.cn/detail/2215087",
@@ -26,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时16分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -41,8 +30,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时16分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
+          "url": "https://flash.jin10.com/detail/20251130233204525800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时16分]"
         }
       ]
     },
@@ -58,8 +59,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时16分]"
         }
       ]
     },
@@ -75,8 +76,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 05时16分]"
         }
       ]
     }
