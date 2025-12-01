@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T07:16:30.531001+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2025-12-01T09:30:50.368899+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时30分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -28,11 +29,12 @@
             20,
             23,
             21,
-            22
+            22,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时30分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -59,7 +61,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -70,7 +72,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         },
@@ -81,7 +83,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
         }
@@ -96,11 +98,12 @@
           "url": "https://www.zhihu.com/question/1923520417756321577",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时30分]"
         }
       ]
     },
@@ -116,8 +119,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时30分]"
         }
       ]
     }
