@@ -1,8 +1,118 @@
 {
-  "generated_at": "2025-12-02T11:17:09.696799+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2025-12-02T12:28:54.508240+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "黄金",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "一图看懂|“蹦”的比黄金还高，白银的“天花板”在哪？",
+          "url": "https://www.cls.cn/detail/2216138",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 07时17分]"
+        },
+        {
+          "title": "土耳其央行调整外汇和黄金存款账户存款准备金率。",
+          "url": "https://wallstreetcn.com/livenews/3013466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
+          "title": "现货黄金回落至4220美元/盎司下方，日内跌0.29%。",
+          "url": "https://flash.jin10.com/detail/20251202090243711800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月2日（周二）早盘盘初下跌0.06%报956.1元/克；<br/>上海黄金交易所白银T+D 12月2日（周二）早盘盘初上涨1.6%报13498.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251202090152901800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "巴里克矿业考虑将旗下北美黄金资产IPO。",
+          "url": "https://wallstreetcn.com/livenews/3013152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时19分]"
+        },
+        {
+          "title": "深夜，白银迭创新高！黄金也突破近6周高点",
+          "url": "https://www.cls.cn/detail/2216478",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 11时17分]"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1050.01吨，较前一个交易日增加4.58吨。",
+          "url": "https://flash.jin10.com/detail/20251202115053253800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月1日（周一）晚盘收盘上涨0.19%报958.5元/克；<br/>上海黄金交易所白银T+D 12月1日（周一）晚盘收盘上涨3.27%报13720.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251202023119793800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "周一（12月1日）纽约尾盘，现货黄金跌0.18%，报4231.34美元/盎司，亚太盘初跌至4206.05美元刷新日低，之后反弹，美股开盘之前涨至4264.62美元刷新日高，之后走低。 COMEX黄金期货涨0.30%，报4267.60美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3013226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 8,
@@ -17,19 +127,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 11时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 12时28分]"
         },
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
           "url": "https://www.cls.cn/detail/2216587",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 11时17分]"
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 12时28分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -95,7 +206,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
         }
@@ -114,11 +225,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 11时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 12时28分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -130,8 +242,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 11时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 12时28分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -168,8 +280,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 11时17分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 12时28分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
@@ -177,11 +289,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 11时17分]"
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 12时28分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -192,96 +305,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 11时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "一图看懂|“蹦”的比黄金还高，白银的“天花板”在哪？",
-          "url": "https://www.cls.cn/detail/2216138",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时17分]"
-        },
-        {
-          "title": "现货黄金回落至4220美元/盎司下方，日内跌0.29%。",
-          "url": "https://flash.jin10.com/detail/20251202090243711800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月2日（周二）早盘盘初下跌0.06%报956.1元/克；<br/>上海黄金交易所白银T+D 12月2日（周二）早盘盘初上涨1.6%报13498.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251202090152901800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "巴里克矿业考虑将旗下北美黄金资产IPO。",
-          "url": "https://wallstreetcn.com/livenews/3013152",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            25,
-            30
-          ],
-          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时19分]"
-        },
-        {
-          "title": "深夜，白银迭创新高！黄金也突破近6周高点",
-          "url": "https://www.cls.cn/detail/2216478",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 11时17分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月1日（周一）晚盘收盘上涨0.19%报958.5元/克；<br/>上海黄金交易所白银T+D 12月1日（周一）晚盘收盘上涨3.27%报13720.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251202023119793800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "周一（12月1日）纽约尾盘，现货黄金跌0.18%，报4231.34美元/盎司，亚太盘初跌至4206.05美元刷新日低，之后反弹，美股开盘之前涨至4264.62美元刷新日高，之后走低。 COMEX黄金期货涨0.30%，报4267.60美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3013226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "[09时18分 ~ 12时28分]"
         }
       ]
     },
@@ -311,8 +336,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 11时17分]"
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 12时28分]"
         },
         {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
