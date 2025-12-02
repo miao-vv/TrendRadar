@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-03T02:28:34.718737+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2025-12-03T03:18:22.385804+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时18分]"
+        },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
           "url": "https://flash.jin10.com/detail/20251203000100879800",
@@ -19,17 +32,15 @@
           "time_info": "00时24分"
         },
         {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
+          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
+          "url": "https://www.cls.cn/detail/2217188",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            11,
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 03时18分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -54,17 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
-          "url": "https://www.cls.cn/detail/2217188",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时28分"
         }
       ]
     },
@@ -72,6 +72,20 @@
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
+        {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时18分]"
+        },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
           "url": "https://www.cls.cn/detail/2217435",
@@ -81,8 +95,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时18分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -94,8 +108,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时18分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -106,21 +120,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
-        },
-        {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时18分]"
         }
       ]
     },
@@ -137,8 +138,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 03时18分]"
         },
         {
           "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
@@ -156,7 +157,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现货黄金短线跌势延续，最低跌至4163美元/盎司，日内跌约1.5%。",
@@ -168,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月2日（周二）晚盘收盘下跌0.74%报948.61元/克；<br/>上海黄金交易所白银T+D 12月2日（周二）晚盘收盘上涨1.42%报13605.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251203023035420800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         }
       ]
     }
