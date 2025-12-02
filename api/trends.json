@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T03:18:22.385804+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-12-03T04:22:20.887470+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -39,8 +40,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[02时28分 ~ 04时22分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -83,8 +84,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -95,8 +96,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -108,8 +109,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -120,8 +121,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时22分]"
         }
       ]
     },
@@ -138,8 +139,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
@@ -160,6 +161,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "上海黄金交易所黄金T+D 12月2日（周二）晚盘收盘下跌0.74%报948.61元/克；<br/>上海黄金交易所白银T+D 12月2日（周二）晚盘收盘上涨1.42%报13605.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251203023035420800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时18分 ~ 04时22分]"
+        },
+        {
           "title": "现货黄金短线跌势延续，最低跌至4163美元/盎司，日内跌约1.5%。",
           "url": "https://flash.jin10.com/detail/20251202235944168800",
           "source": "金十数据",
@@ -169,17 +182,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月2日（周二）晚盘收盘下跌0.74%报948.61元/克；<br/>上海黄金交易所白银T+D 12月2日（周二）晚盘收盘上涨1.42%报13605.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251203023035420800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
         }
       ]
     }
