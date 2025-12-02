@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T22:19:58.328303+08:00",
-  "total_titles_processed": 1864,
+  "generated_at": "2025-12-02T23:20:25.926443+08:00",
+  "total_titles_processed": 1951,
   "failed_sources": [],
   "trends": [
     {
@@ -262,11 +262,12 @@
             5,
             7,
             8,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时18分 ~ 22时19分]"
+          "appearance_count": 18,
+          "time_info": "[09时18分 ~ 23时20分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -280,8 +281,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时18分 ~ 22时19分]"
+          "appearance_count": 18,
+          "time_info": "[09时18分 ~ 23时20分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -319,8 +320,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 22时19分]"
+          "appearance_count": 5,
+          "time_info": "[20时37分 ~ 23时20分]"
         },
         {
           "title": "2025 年 12 月 1 日，DeepSeek 正式发布 V3.2 和 V3.2-Speciale，如何评价该模型？",
@@ -339,11 +340,12 @@
           "url": "https://www.cls.cn/detail/2217435",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时20分]"
         }
       ]
     },
@@ -394,8 +396,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时18分 ~ 22时19分]"
+          "appearance_count": 14,
+          "time_info": "[13时18分 ~ 23时20分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -469,7 +471,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
@@ -482,8 +484,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时16分 ~ 22时19分]"
+          "appearance_count": 17,
+          "time_info": "[11时16分 ~ 23时20分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -509,6 +511,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时19分 ~ 06时16分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：截至2026年，英伟达在Blackwell和Rubin AI芯片上的订单总额达5000亿美元，但这“并不包括我们目前与OpenAI协议下的下一阶段正在进行的任何工作”。",
+          "url": "https://flash.jin10.com/detail/20251202225631707800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：目前仍未与OpenAI达成最终协议。",
+          "url": "https://flash.jin10.com/detail/20251202225350484800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
