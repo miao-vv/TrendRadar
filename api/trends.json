@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T17:22:37.935346+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2025-12-03T18:21:19.983889+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
@@ -40,7 +40,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -162,8 +162,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时18分 ~ 17时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时18分 ~ 18时21分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -176,8 +176,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时27分 ~ 17时22分]"
+          "appearance_count": 10,
+          "time_info": "[12时27分 ~ 18时21分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
