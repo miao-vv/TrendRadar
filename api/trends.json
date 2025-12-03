@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-12-03T14:28:26.744026+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2025-12-03T15:20:07.325206+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
       "match_count": 10,
       "titles": [
+        {
+          "title": "大冰回应“黄金左脸”：曾被打聋右耳",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%86%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E9%BB%84%E9%87%91%E5%B7%A6%E8%84%B8%E2%80%9D%EF%BC%9A%E6%9B%BE%E8%A2%AB%E6%89%93%E8%81%8B%E5%8F%B3%E8%80%B3",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            23,
+            18,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 15时20分]"
+        },
         {
           "title": "现货黄金向上触及4220美元/盎司，日内涨0.34%。",
           "url": "https://flash.jin10.com/detail/20251203090854514800",
@@ -17,20 +32,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "大冰回应“黄金左脸”：曾被打聋右耳",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%86%B0%E5%9B%9E%E5%BA%94%E2%80%9C%E9%BB%84%E9%87%91%E5%B7%A6%E8%84%B8%E2%80%9D%EF%BC%9A%E6%9B%BE%E8%A2%AB%E6%89%93%E8%81%8B%E5%8F%B3%E8%80%B3",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            23,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 14时28分]"
         },
         {
           "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1048.3吨，较前一个交易日减少1.71吨。",
@@ -109,7 +110,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -139,8 +140,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时18分 ~ 14时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时18分 ~ 15时20分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -156,6 +157,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 07时16分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 15时20分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -178,18 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 14时28分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
