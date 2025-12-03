@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T19:17:55.123959+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2025-12-03T20:37:52.483013+08:00",
+  "total_titles_processed": 1783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "大冰回应“黄金左脸”：曾被打聋右耳",
@@ -104,6 +104,17 @@
           "time_info": "13时18分"
         },
         {
+          "title": "欧洲央行敦促意大利重审将黄金储备归为人民财产的计划 此举或使其售储",
+          "url": "https://wallstreetcn.com/livenews/3014448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "现货黄金短线跌势延续，最低跌至4163美元/盎司，日内跌约1.5%。",
           "url": "https://flash.jin10.com/detail/20251202235944168800",
           "source": "金十数据",
@@ -137,6 +148,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "摩根大通：维持对黄金的多年看涨前景，预计到2026年，持续强劲的央行和投资者需求将推动金价升至每盎司5000美元。",
+          "url": "https://flash.jin10.com/detail/20251203201015420800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 12月3日（周三）收盘下跌0.59%报949.99元/克；<br/>上海黄金交易所白银T+D 12月3日（周三）收盘上涨0.92%报13538.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251203153012132800",
           "source": "金十数据",
@@ -146,6 +168,157 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "欧洲央行要求意大利政府重新审视黄金储备提案",
+          "url": "https://flash.jin10.com/detail/20251203200318876800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月3日（周三）晚盘盘初下跌0.21%报951.0元/克；<br/>上海黄金交易所白银T+D 12月3日（周三）晚盘盘初下跌0.04%报13637.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251203200132614800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 05时18分]"
+        },
+        {
+          "title": "OpenAI：面向企业及商用客户的ChatGPT服务当前出现错误率升高。",
+          "url": "https://wallstreetcn.com/livenews/3014402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
+          "url": "https://wallstreetcn.com/livenews/3013805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "OpenAI：我们已全面恢复运营，目前未发现任何影响系统的故障。",
+          "url": "https://flash.jin10.com/detail/20251203185658782800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "OpenAI：企业及机构在使用ChatGPT时遭遇对话错误；已采取缓解措施并持续监控恢复情况。",
+          "url": "https://flash.jin10.com/detail/20251203185148537800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "OpenAI：目前出现了一些问题。",
+          "url": "https://flash.jin10.com/detail/20251203185037298800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "OpenAI：ChatGPT在商业和企业领域出现较高错误率。",
+          "url": "https://flash.jin10.com/detail/20251203184353377800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "英伟达CFO：OpenAI千亿大单尚未敲定 领先优势“绝对没缩小”",
+          "url": "https://www.cls.cn/detail/2217688",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "部分用户无法访问ChatGPT，OpenAI称已采取应对措施",
+          "url": "https://flash.jin10.com/detail/20251203044535141800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "OpenAI：我们已全面恢复营运。 我们未发现任何影响我们系统的问题。",
+          "url": "https://wallstreetcn.com/livenews/3014409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "OpenAI：目前遭遇-一些问题。 ChatGPT的商务和企业聊天功能遭遇错误；已实施缓解措施和监控复原。",
+          "url": "https://wallstreetcn.com/livenews/3014402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
@@ -162,8 +335,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时18分 ~ 19时17分]"
+          "appearance_count": 15,
+          "time_info": "[09时18分 ~ 20时37分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -176,8 +349,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时27分 ~ 19时17分]"
+          "appearance_count": 12,
+          "time_info": "[12时27分 ~ 20时37分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -212,7 +385,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -261,113 +434,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 05时18分]"
-        },
-        {
-          "title": "OpenAI：面向企业及商用客户的ChatGPT服务当前出现错误率升高。",
-          "url": "https://wallstreetcn.com/livenews/3014402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
-          "url": "https://wallstreetcn.com/livenews/3013805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
-        },
-        {
-          "title": "OpenAI：我们已全面恢复运营，目前未发现任何影响系统的故障。",
-          "url": "https://flash.jin10.com/detail/20251203185658782800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "OpenAI：企业及机构在使用ChatGPT时遭遇对话错误；已采取缓解措施并持续监控恢复情况。",
-          "url": "https://flash.jin10.com/detail/20251203185148537800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "OpenAI：目前出现了一些问题。",
-          "url": "https://flash.jin10.com/detail/20251203185037298800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "OpenAI：ChatGPT在商业和企业领域出现较高错误率。",
-          "url": "https://flash.jin10.com/detail/20251203184353377800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "英伟达CFO：OpenAI千亿大单尚未敲定 领先优势“绝对没缩小”",
-          "url": "https://www.cls.cn/detail/2217688",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "部分用户无法访问ChatGPT，OpenAI称已采取应对措施",
-          "url": "https://flash.jin10.com/detail/20251203044535141800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
         }
       ]
     },
