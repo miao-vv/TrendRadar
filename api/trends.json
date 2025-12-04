@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-04T22:19:57.738671+08:00",
-  "total_titles_processed": 1927,
+  "generated_at": "2025-12-04T23:21:06.292295+08:00",
+  "total_titles_processed": 2020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "40岁后微胖才是长寿“黄金体重”",
+          "url": "https://www.baidu.com/s?wd=40%E5%B2%81%E5%90%8E%E5%BE%AE%E8%83%96%E6%89%8D%E6%98%AF%E9%95%BF%E5%AF%BF%E2%80%9C%E9%BB%84%E9%87%91%E4%BD%93%E9%87%8D%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
         {
           "title": "上海黄金交易所黄金T+D 12月3日（周三）晚盘收盘下跌0.3%报950.2元/克；<br/>上海黄金交易所白银T+D 12月3日（周三）晚盘收盘下跌0.54%报13568.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251204023019079800",
@@ -21,6 +32,17 @@
           "time_info": "[03时16分 ~ 05时17分]"
         },
         {
+          "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
+          "url": "https://wallstreetcn.com/articles/3760712",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时19分 ~ 23时21分]"
+        },
+        {
           "title": "周三（12月3日）纽约尾盘，现货黄金大致持平，报4207.07美元/盎司，日内呈现出M形走势，交投于4241.50-4194.65美元区间。 COMEX黄金期货涨0.44%，报4239.30美元/盎司，交投于4273.30-4225.10美元区间。",
           "url": "https://wallstreetcn.com/livenews/3014644",
           "source": "华尔街见闻-快讯",
@@ -31,6 +53,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时15分]"
+        },
+        {
+          "title": "首申数据超预期回落，美股指集体高开，黄金短线走低，现货白银跌3%，铜价高位回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.72吨，当前持仓量为1046.58吨。",
@@ -65,17 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
-        },
-        {
-          "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
-          "url": "https://wallstreetcn.com/articles/3760712",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
         },
         {
           "title": "印度央行发布黄金抵押贷款（GML）计划修订案。",
@@ -128,7 +150,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -150,7 +172,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -172,7 +194,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -344,8 +366,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 22时19分]"
+          "appearance_count": 9,
+          "time_info": "[17时22分 ~ 23时21分]"
         }
       ]
     }
