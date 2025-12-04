@@ -1,11 +1,86 @@
 {
-  "generated_at": "2025-12-04T07:15:14.815660+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2025-12-04T09:19:24.751971+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "黄金",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "上海黄金交易所黄金T+D 12月3日（周三）晚盘收盘下跌0.3%报950.2元/克；<br/>上海黄金交易所白银T+D 12月3日（周三）晚盘收盘下跌0.54%报13568.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251204023019079800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时17分]"
+        },
+        {
+          "title": "周三（12月3日）纽约尾盘，现货黄金大致持平，报4207.07美元/盎司，日内呈现出M形走势，交投于4241.50-4194.65美元区间。 COMEX黄金期货涨0.44%，报4239.30美元/盎司，交投于4273.30-4225.10美元区间。",
+          "url": "https://wallstreetcn.com/livenews/3014644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时15分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月4日（周四）早盘盘初上涨0.01%报953.09元/克；<br/>上海黄金交易所白银T+D 12月4日（周四）早盘盘初上涨0.03%报13646.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251204090048740800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "高盛资产配置主管Christian Mueller-Glissmann：在过去两年金价强劲上涨的背景下，回过头看，最优的黄金配置比例应远高于大多数投资者实际持有的水平。",
+          "url": "https://flash.jin10.com/detail/20251204082809199800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "洪灏：已在4500美元高位清仓黄金",
+          "url": "https://www.toutiao.com/trending/7579431810869706793/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "开源证券：情绪消费时代，关注高端黄金和时尚黄金品牌",
+          "url": "https://flash.jin10.com/detail/20251204081751971800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
@@ -54,48 +129,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "金十数据整理：今年OpenAI收购/整合动作频频 战略布局持续扩展加深",
+          "url": "https://flash.jin10.com/detail/20251204084109046800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "上海黄金交易所黄金T+D 12月3日（周三）晚盘收盘下跌0.3%报950.2元/克；<br/>上海黄金交易所白银T+D 12月3日（周三）晚盘收盘下跌0.54%报13568.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251204023019079800",
-          "source": "金十数据",
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            15,
-            29
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时16分 ~ 05时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时21分]"
         },
         {
-          "title": "周三（12月3日）纽约尾盘，现货黄金大致持平，报4207.07美元/盎司，日内呈现出M形走势，交投于4241.50-4194.65美元区间。 COMEX黄金期货涨0.44%，报4239.30美元/盎司，交投于4273.30-4225.10美元区间。",
-          "url": "https://wallstreetcn.com/livenews/3014644",
-          "source": "华尔街见闻-快讯",
+          "title": "钎城 Gemini",
+          "url": "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%20Gemini&t=31&band_rank=5&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            24
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时15分]"
-        },
-        {
-          "title": "洪灏：已在4500美元高位清仓黄金",
-          "url": "https://www.toutiao.com/trending/7579431810869706793/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "09时19分"
         }
       ]
     },
@@ -110,29 +183,12 @@
           "ranks": [
             4,
             3,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 07时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时25分 ~ 04时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 09时19分]"
         }
       ]
     }
