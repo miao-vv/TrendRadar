@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T02:23:56.480069+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2025-12-06T03:15:27.759950+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "现货黄金短线下挫27美元，现报4219美元/盎司；现货白银短线下挫近0.8美元，现报58.43美元/盎司。",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时23分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月5日（周五）晚盘收盘上涨0.2%报954.99元/克；<br/>上海黄金交易所白银T+D 12月5日（周五）晚盘收盘上涨1.91%报13756.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251206023100086800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         },
         {
           "title": "伦敦金银市场协会（LBMA）：截至2025年11月底，伦敦金库中的黄金持有量为8907吨（较上月增加0.55%）。",
