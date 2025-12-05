@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T19:17:54.838042+08:00",
-  "total_titles_processed": 1649,
+  "generated_at": "2025-12-05T20:37:07.919210+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -153,6 +153,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "上海黄金交易所黄金T+D 12月5日（周五）晚盘盘初上涨0.21%报955.03元/克；<br/>上海黄金交易所白银T+D 12月5日（周五）晚盘盘初上涨0.9%报13620.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251205200220069800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "多国抛售黄金 黄金行情要结束了吗",
           "url": "https://www.toutiao.com/trending/7580201737684782633/",
           "source": "今日头条",
@@ -185,11 +196,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3%20DeepThink%20%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 20时37分]"
         },
         {
           "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
