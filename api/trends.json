@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T09:15:19.619451+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2025-12-06T11:08:17.103139+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "上海黄金交易所黄金T+D 12月5日（周五）晚盘收盘上涨0.2%报954.99元/克；<br/>上海黄金交易所白银T+D 12月5日（周五）晚盘收盘上涨1.91%报13756.0元/千克。",
@@ -44,6 +44,18 @@
           "time_info": "[05时16分 ~ 06时17分]"
         },
         {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.33吨，当前持仓量为1050.25吨。",
+          "url": "https://flash.jin10.com/detail/20251206083416851800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 11时08分]"
+        },
+        {
           "title": "现货白银涨穿59美元，刷新历史高位至59.0697美元，当前涨幅3.4%。 纽约黄金日内涨幅达1.0%，报4285.5美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3016040",
           "source": "华尔街见闻-快讯",
@@ -80,17 +92,6 @@
           "time_info": "[01时17分 ~ 02时23分]"
         },
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少0.33吨，当前持仓量为1050.25吨。",
-          "url": "https://flash.jin10.com/detail/20251206083416851800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
           "title": "伦敦金银市场协会（LBMA）：截至2025年11月底，伦敦金库中的黄金持有量为8907吨（较上月增加0.55%）。",
           "url": "https://flash.jin10.com/detail/20251206001256027800",
           "source": "金十数据",
@@ -113,13 +114,24 @@
           "time_info": "00时22分"
         },
         {
+          "title": "大佬密集预警，黄金涨势会刹车吗？",
+          "url": "https://flash.jin10.com/detail/20251206094911412800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时08分"
+        },
+        {
           "title": "从“隐形地图”到“黄金窗口期”，上海张江AI小镇底气何在？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32113562",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         }
@@ -193,8 +205,20 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI最快将于下周发布GPT-5.2",
+          "url": "https://flash.jin10.com/detail/20251206082425729800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 11时08分]"
+        },
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
           "url": "https://wallstreetcn.com/livenews/3016097",
@@ -208,15 +232,15 @@
           "time_info": "[04时20分 ~ 05时16分]"
         },
         {
-          "title": "OpenAI最快将于下周发布GPT-5.2",
-          "url": "https://flash.jin10.com/detail/20251206082425729800",
+          "title": "ChatGPT产品负责人回应广告传闻",
+          "url": "https://flash.jin10.com/detail/20251206101132584800",
           "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "11时08分"
         }
       ]
     }
