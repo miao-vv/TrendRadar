@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T17:17:28.446964+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-12-06T18:17:31.400554+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
@@ -152,7 +152,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -164,8 +164,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时19分 ~ 17时17分]"
+          "appearance_count": 10,
+          "time_info": "[12时19分 ~ 18时17分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -226,6 +226,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 09时15分]"
+        },
+        {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时17分"
         }
       ]
     },
@@ -239,11 +250,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时19分 ~ 17时17分]"
+          "appearance_count": 10,
+          "time_info": "[12时19分 ~ 18时17分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
