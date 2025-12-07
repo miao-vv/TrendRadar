@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T21:23:49.078431+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2025-12-07T22:15:52.282202+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时16分 ~ 21时23分]"
+          "appearance_count": 11,
+          "time_info": "[15时16分 ~ 22时15分]"
         },
         {
           "title": "中国央行连续第13个月增持黄金",
@@ -52,17 +52,6 @@
           "time_info": "[11时25分 ~ 18时16分]"
         },
         {
-          "title": "大佬密集预警，黄金涨势会刹车吗？",
-          "url": "https://flash.jin10.com/detail/20251207202650333800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
           "title": "金十图示：中国2016年至今外汇、黄金储备规模及变化情况",
           "url": "https://flash.jin10.com/detail/20251207101618516800",
           "source": "金十数据",
@@ -75,6 +64,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时25分 ~ 14时24分]"
+        },
+        {
+          "title": "大佬密集预警，黄金涨势会刹车吗？",
+          "url": "https://flash.jin10.com/detail/20251207202650333800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 22时15分]"
         },
         {
           "title": "中国央行连续第13个月增持黄金",
