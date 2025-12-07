@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T17:17:06.022955+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2025-12-07T18:16:58.700023+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,24 @@
             15,
             16,
             17,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时25分 ~ 17时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时25分 ~ 18时16分]"
+        },
+        {
+          "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
+          "url": "https://wallstreetcn.com/articles/3760861",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 18时16分]"
         },
         {
           "title": "金十图示：中国2016年至今外汇、黄金储备规模及变化情况",
@@ -49,18 +62,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时25分 ~ 14时24分]"
-        },
-        {
-          "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
-          "url": "https://wallstreetcn.com/articles/3760861",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时16分 ~ 17时17分]"
         },
         {
           "title": "中国央行连续第13个月增持黄金",
@@ -141,11 +142,12 @@
           "source": "澎湃新闻",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 17时17分]"
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 18时16分]"
         }
       ]
     },
