@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T00:19:45.972201+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-08T01:14:37.891403+08:00",
+  "total_titles_processed": 340,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
         },
         {
           "title": "大佬密集预警，黄金涨势会刹车吗？",
@@ -37,8 +37,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时14分]"
         }
       ]
     }
