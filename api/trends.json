@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T18:16:58.700023+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2025-12-07T19:14:23.639864+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时16分 ~ 18时16分]"
+          "appearance_count": 7,
+          "time_info": "[15时16分 ~ 19时14分]"
         },
         {
           "title": "金十图示：中国2016年至今外汇、黄金储备规模及变化情况",
@@ -143,11 +144,12 @@
           "ranks": [
             5,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时24分 ~ 18时16分]"
+          "appearance_count": 8,
+          "time_info": "[14时24分 ~ 19时14分]"
         }
       ]
     },
