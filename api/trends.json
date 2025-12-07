@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:21:31.197341+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2025-12-07T17:17:06.022955+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时16分 ~ 17时17分]"
         },
         {
           "title": "中国央行连续第13个月增持黄金",
@@ -29,11 +29,12 @@
             14,
             15,
             16,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时25分 ~ 16时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时25分 ~ 17时17分]"
         },
         {
           "title": "金十图示：中国2016年至今外汇、黄金储备规模及变化情况",
@@ -58,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 16时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时16分 ~ 17时17分]"
         },
         {
           "title": "中国央行连续第13个月增持黄金",
@@ -143,8 +144,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 17时17分]"
         }
       ]
     },
