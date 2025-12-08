@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T05:15:55.168709+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2025-12-09T06:17:55.016112+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时17分]"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -32,6 +33,18 @@
           "time_info": "[04时20分 ~ 05时15分]"
         },
         {
+          "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
+          "url": "https://wallstreetcn.com/livenews/3017156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时17分]"
+        },
+        {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
           "url": "https://wallstreetcn.com/livenews/3017098",
           "source": "华尔街见闻-快讯",
@@ -42,17 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时15分]"
-        },
-        {
-          "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
-          "url": "https://wallstreetcn.com/livenews/3017156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
         },
         {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
@@ -66,13 +68,24 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3017167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
           "url": "https://flash.jin10.com/detail/20251209041755526800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -135,18 +148,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "欧洲央行批评意大利修订黄金储备提案，担忧央行独立性受损",
           "url": "https://flash.jin10.com/detail/20251209045034099800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时17分]"
         },
         {
           "title": "现货黄金短线从4210美元上方跳水至4176.42美元，刷新日低，日内整体跌超0.2%。",
@@ -159,6 +173,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "周一（12月8日）纽约尾盘，现货黄金跌0.19%，报4189.69美元/盎司，日内交投于4218.96-4176.42美元区间。 COMEX黄金期货跌0.56%，报4219.20美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3017175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月8日（周一）晚盘收盘下跌0.34%报950.15元/克；<br/>上海黄金交易所白银T+D 12月8日（周一）晚盘收盘下跌0.1%报13596.0元/千克。",
@@ -200,6 +225,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "梁文锋入选《自然》年度十大科学人物",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E5%85%A5%E9%80%89%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时17分]"
+        },
+        {
           "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
           "url": "https://tech.ifeng.com/c/8ovZfiG4ies",
           "source": "凤凰网",
@@ -207,21 +246,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时15分]"
-        },
-        {
-          "title": "梁文锋入选《自然》年度十大科学人物",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E5%85%A5%E9%80%89%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时15分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时17分]"
         }
       ]
     },
