@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T16:27:56.581074+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2025-12-08T17:26:01.013334+08:00",
+  "total_titles_processed": 1287,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 17时26分]"
         },
         {
           "title": "大佬密集预警，黄金涨势会刹车吗？",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时15分]"
+        },
+        {
+          "title": "金十图示：2025年12月08日（周一）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20251208170043666800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "金十图示：2025年12月08日（周一）黄金ETF持仓报告",
@@ -121,7 +132,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -143,7 +154,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }
@@ -162,11 +173,12 @@
             11,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 16时27分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 17时26分]"
         },
         {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
@@ -198,7 +210,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         }
