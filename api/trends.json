@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T21:33:37.931960+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2025-12-08T22:20:05.078846+08:00",
+  "total_titles_processed": 1704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "中国11月外汇储备规模环比上涨0.09%，央行连续第13个月增持黄金",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "国际清算银行：黄金已更大程度上成为投机资产 散户驱动了近期飙升",
+          "url": "https://wallstreetcn.com/livenews/3017023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "金十图示：2025年12月08日（周一）黄金ETF持仓报告",
@@ -173,7 +184,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
@@ -214,6 +225,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时16分]"
+        },
+        {
+          "title": "谷歌云与NextEra Energy达成协议 开发配套电力设施的数据中心园区",
+          "url": "https://flash.jin10.com/detail/20251208214111777800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
