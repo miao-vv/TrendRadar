@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T21:35:07.150434+08:00",
-  "total_titles_processed": 1965,
+  "generated_at": "2025-12-09T22:21:01.375674+08:00",
+  "total_titles_processed": 2035,
   "failed_sources": [],
   "trends": [
     {
@@ -258,7 +258,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "所有商品都将“像黄金一样”！美银Hartnett：做多大宗商品是明年最佳“火热交易”",
@@ -308,6 +308,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时17分]"
+        },
+        {
+          "title": "美利率决议前市场谨慎，美股指期货集体转跌，欧美债市承压，英伟达涨幅收窄，现货黄金重新站上4200美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
         },
         {
           "title": "周一（12月8日）纽约尾盘，现货黄金跌0.19%，报4189.69美元/盎司，日内交投于4218.96-4176.42美元区间。 COMEX黄金期货跌0.56%，报4219.20美元/盎司。",
@@ -426,7 +437,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
@@ -466,6 +477,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时17分]"
+        },
+        {
+          "title": "梁文锋杜梦然入选《自然》杂志十大科学人物，这对于中国科学界意味着什么？",
+          "url": "https://www.zhihu.com/question/1981511843768968003",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 22时21分]"
         }
       ]
     },
