@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T16:26:33.095006+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2025-12-09T17:22:01.150942+08:00",
+  "total_titles_processed": 1551,
   "failed_sources": [],
   "trends": [
     {
@@ -54,18 +54,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
-          "url": "https://flash.jin10.com/detail/20251209161413716800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -82,6 +71,18 @@
           "time_info": "[04时20分 ~ 05时15分]"
         },
         {
+          "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
+          "url": "https://flash.jin10.com/detail/20251209161413716800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时22分]"
+        },
+        {
           "title": "谷歌与XREAL联合发布Project Aura",
           "url": "https://wallstreetcn.com/livenews/3017367",
           "source": "华尔街见闻-快讯",
@@ -92,6 +93,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 13时18分]"
+        },
+        {
+          "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
+          "url": "https://flash.jin10.com/detail/20251209161206794800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时22分]"
+        },
+        {
+          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
+          "url": "https://flash.jin10.com/detail/20251209161139815800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时22分]"
         },
         {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
@@ -128,28 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时15分]"
-        },
-        {
-          "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
-          "url": "https://flash.jin10.com/detail/20251209161206794800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
-          "url": "https://flash.jin10.com/detail/20251209161139815800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         },
         {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
@@ -232,7 +235,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "所有商品都将“像黄金一样”！美银Hartnett：做多大宗商品是明年最佳“火热交易”",
@@ -317,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "现货黄金短线走高，站上4200美元/盎司，日内涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3017545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "深交所：港股通标的证券名单发生调整并自2025年12月09日起生效，调入万国黄金集团。",
@@ -410,11 +424,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时28分 ~ 16时26分]"
+          "appearance_count": 5,
+          "time_info": "[14时28分 ~ 17时22分]"
         }
       ]
     },
