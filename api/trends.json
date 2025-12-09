@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T04:19:04.434584+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2025-12-10T05:15:26.760766+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
@@ -114,7 +114,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "国际清算银行警告「黄金与股市走势趋同，可能是泡沫信号，要警惕市场突然回调」，对此你怎么看？",
@@ -125,8 +125,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时15分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -161,6 +161,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时34分 ~ 03时14分]"
+        },
+        {
+          "title": "美国商品期货交易委员会：截至11月4日当周，COMEX白银投机者将净多头仓位削减3,119手，降至19,577手。COMEX黄金投机者将净多头仓位削减4,079手，降至101,556手。COMEX铜期货投机者净多头持仓减少4,155手，降至62,397手。",
+          "url": "https://flash.jin10.com/detail/20251210043147408800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     },
@@ -216,11 +227,12 @@
             9,
             8,
             5,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时15分]"
         }
       ]
     }
