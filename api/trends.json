@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T17:22:01.150942+08:00",
-  "total_titles_processed": 1551,
+  "generated_at": "2025-12-09T18:22:03.476842+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -129,6 +129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时17分]"
+        },
+        {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
@@ -300,6 +311,18 @@
           "time_info": "[00时24分 ~ 01时18分]"
         },
         {
+          "title": "现货黄金短线走高，站上4200美元/盎司，日内涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3017545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 18时22分]"
+        },
+        {
           "title": "金十图示：2025年12月09日（周二）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251209115300645800",
           "source": "金十数据",
@@ -320,17 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
-        },
-        {
-          "title": "现货黄金短线走高，站上4200美元/盎司，日内涨0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3017545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "深交所：港股通标的证券名单发生调整并自2025年12月09日起生效，调入万国黄金集团。",
@@ -394,6 +406,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
+          "url": "https://www.zhihu.com/question/1981658527434053567",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时28分 ~ 18时22分]"
+        },
+        {
           "title": "梁文锋入选《自然》年度十大科学人物",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E5%85%A5%E9%80%89%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9",
           "source": "百度热搜",
@@ -417,19 +443,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时17分]"
-        },
-        {
-          "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
-          "url": "https://www.zhihu.com/question/1981658527434053567",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 17时22分]"
         }
       ]
     },
