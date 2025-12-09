@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T18:22:03.476842+08:00",
-  "total_titles_processed": 1655,
+  "generated_at": "2025-12-09T19:17:23.783927+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
@@ -83,6 +83,18 @@
           "time_info": "[16时26分 ~ 17时22分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 19时17分]"
+        },
+        {
           "title": "谷歌与XREAL联合发布Project Aura",
           "url": "https://wallstreetcn.com/livenews/3017367",
           "source": "华尔街见闻-快讯",
@@ -129,17 +141,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时17分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
@@ -416,8 +417,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时28分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[14时28分 ~ 19时17分]"
         },
         {
           "title": "梁文锋入选《自然》年度十大科学人物",
