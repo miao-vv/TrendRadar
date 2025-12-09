@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T20:37:55.093089+08:00",
-  "total_titles_processed": 1872,
+  "generated_at": "2025-12-09T21:35:07.150434+08:00",
+  "total_titles_processed": 1965,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 13时18分]"
+        },
+        {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 21时35分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
@@ -81,18 +93,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时26分 ~ 17时22分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 20时37分]"
         },
         {
           "title": "谷歌与XREAL联合发布Project Aura",
@@ -195,7 +195,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -293,7 +293,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
