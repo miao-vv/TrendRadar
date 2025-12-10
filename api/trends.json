@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T13:19:42.867027+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2025-12-10T14:29:22.213284+08:00",
+  "total_titles_processed": 1339,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
+        },
+        {
+          "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
+          "url": "https://wallstreetcn.com/articles/3761054",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 14时29分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -79,18 +92,6 @@
           "time_info": "[02时34分 ~ 03时14分]"
         },
         {
-          "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
-          "url": "https://wallstreetcn.com/articles/3761054",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 13时19分]"
-        },
-        {
           "title": "金十图示：2025年12月10日（周三）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251210115102300800",
           "source": "金十数据",
@@ -109,7 +110,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -272,8 +273,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时40分 ~ 13时19分]"
+          "appearance_count": 8,
+          "time_info": "[07时40分 ~ 14时29分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
