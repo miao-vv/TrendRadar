@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T14:29:22.213284+08:00",
-  "total_titles_processed": 1339,
+  "generated_at": "2025-12-10T15:21:47.291271+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,20 @@
           "time_info": "[00时24分 ~ 09时21分]"
         },
         {
+          "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
+          "url": "https://wallstreetcn.com/articles/3761054",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 15时21分]"
+        },
+        {
           "title": "美国就业数据呈现矛盾信号，特朗普称“立即降息”是美联储主席人选硬指标，支撑美联储降息预期。美联储利率决议今晚重磅来袭，黄金多空争夺激烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
           "url": "https://flash.jin10.com/detail/20251210104414511800",
           "source": "金十数据",
@@ -32,19 +46,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
-        },
-        {
-          "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
-          "url": "https://wallstreetcn.com/articles/3761054",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时21分 ~ 14时29分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
@@ -273,8 +274,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时40分 ~ 14时29分]"
+          "appearance_count": 9,
+          "time_info": "[07时40分 ~ 15时21分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
