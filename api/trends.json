@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T03:16:51.364138+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2025-12-11T04:21:40.711545+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -88,18 +88,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
           "url": "https://wallstreetcn.com/articles/3761054",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时21分]"
         },
         {
           "title": "阿姨1984年花两千多买了50克黄金",
@@ -111,8 +112,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 04时21分]"
         },
         {
           "title": "美联储12月利率决议声明发布前，标普大致持平，道指涨0.34%，纳指跌0.37%，银行指数涨1.15%。 美元指数跌0.29%，暂报98.95点；美元兑日元跌0.31%，欧元兑美元涨0.28%，英镑兑美元涨0.32%，澳元兑美元持平。 现货黄金跌0.29%，暂报4195.92美元；现货白银跌0.36%，报60.42美元。 美国10年期国债收益率跌2.34个基点，暂报4.1644%，持稳于日低4.1566%附近；两年期美债收益率跌2.67个基点，暂报3.5859%，也持稳于日低3.5817%附近。",
@@ -121,7 +122,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -154,9 +155,37 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "现货黄金上下扫荡，短线再次走高超20美元，现报4209美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251211035722395800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
+          "url": "https://flash.jin10.com/detail/20251211040355307800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
         }
       ]
     }
