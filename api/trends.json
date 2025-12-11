@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T16:26:34.232957+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2025-12-11T17:24:02.533046+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,20 @@
           "time_info": "09时21分"
         },
         {
+          "title": "东北阿姨1984年买的黄金一克47元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E9%98%BF%E5%A7%A81984%E5%B9%B4%E4%B9%B0%E7%9A%84%E9%BB%84%E9%87%91%E4%B8%80%E5%85%8B47%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            10,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 17时24分]"
+        },
+        {
           "title": "阿姨1984年花两千多买了50克黄金",
           "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A7%A81984%E5%B9%B4%E8%8A%B1%E4%B8%A4%E5%8D%83%E5%A4%9A%E4%B9%B0%E4%BA%8650%E5%85%8B%E9%BB%84%E9%87%91%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -55,19 +69,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时21分 ~ 11时23分]"
-        },
-        {
-          "title": "东北阿姨1984年买的黄金一克47元",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E5%8C%97%E9%98%BF%E5%A7%A81984%E5%B9%B4%E4%B9%B0%E7%9A%84%E9%BB%84%E9%87%91%E4%B8%80%E5%85%8B47%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时26分]"
         },
         {
           "title": "美联储如期降息25基点，道指扩大涨幅，黄金宽幅震荡，原油V形反转",
@@ -189,7 +190,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
