@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T20:39:17.905411+08:00",
-  "total_titles_processed": 1964,
+  "generated_at": "2025-12-11T21:37:22.372971+08:00",
+  "total_titles_processed": 2059,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "涨势远超黄金！白银史上首次站上60美元，发生了什么？",
@@ -67,7 +67,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时39分"
         },
@@ -217,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "俄罗斯至12月5日当周央行黄金和外汇储备 7415亿美元，前值7334亿美元。",
+          "url": "https://flash.jin10.com/detail/20251211210003495800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "现货黄金突破4240美元/盎司，日内涨0.28%。",
