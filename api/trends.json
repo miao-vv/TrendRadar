@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T16:26:52.016185+08:00",
-  "total_titles_processed": 1513,
+  "generated_at": "2025-12-12T17:22:41.124870+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 17时22分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -280,11 +280,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 16时26分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 17时22分]"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -437,7 +438,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -484,6 +485,18 @@
           "time_info": "09时21分"
         },
         {
+          "title": "独家｜知名黄金企业金雅福部分理财产品兑付延期，已引发多宗诉讼",
+          "url": "https://www.cls.cn/detail/2227559",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时26分 ~ 17时22分]"
+        },
+        {
           "title": "周四（12月11日）纽约尾盘，现货黄金涨1.27%，报4282.49美元/盎司，全天呈现出U形反转，北京时间21:00过后从4210美元下方持续反弹。 COMEX黄金期货涨2.01%，报4309.70美元/盎司，全天处于上涨状态，21:00过后也出现一波持续上涨的行情。",
           "url": "https://wallstreetcn.com/livenews/3019425",
           "source": "华尔街见闻-快讯",
@@ -508,15 +521,26 @@
           "time_info": "[12时32分 ~ 13时19分]"
         },
         {
-          "title": "独家｜知名黄金企业金雅福部分理财产品兑付延期，已引发多宗诉讼",
-          "url": "https://www.cls.cn/detail/2227559",
-          "source": "财联社热门",
+          "title": "现货黄金重回4300美元关口",
+          "url": "https://flash.jin10.com/detail/20251212163856972800",
+          "source": "金十数据",
           "ranks": [
-            12
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "17时22分"
+        },
+        {
+          "title": "现货黄金站上4300美元/盎司，为10月21日以来首次，日内涨0.47%。",
+          "url": "https://wallstreetcn.com/livenews/3019775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "现货黄金日内涨超1.00%，现报4270.95美元/盎司。",
