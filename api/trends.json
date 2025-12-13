@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T01:15:38.211870+08:00",
-  "total_titles_processed": 344,
+  "generated_at": "2025-12-14T02:23:04.313393+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时23分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -26,14 +26,14 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时23分]"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "4斤黄金凤冠在免费展上被毁",
@@ -43,8 +43,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时20分 ~ 02时23分]"
+        },
+        {
+          "title": "黄金时隔近两月再次涨超 4300 美元，受哪些因素影响？这次能站稳并继续冲高吗？",
+          "url": "https://www.zhihu.com/question/1982857770605757310",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
         }
       ]
     }
