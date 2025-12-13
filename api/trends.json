@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T20:33:04.982722+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2025-12-13T21:25:41.548736+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时17分 ~ 20时33分]"
+          "appearance_count": 17,
+          "time_info": "[07时17分 ~ 21时25分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -219,11 +219,12 @@
           "source": "微博",
           "ranks": [
             11,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时14分 ~ 20时33分]"
+          "appearance_count": 4,
+          "time_info": "[19时14分 ~ 21时25分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.29吨，当前持仓量为1053.12吨。",
