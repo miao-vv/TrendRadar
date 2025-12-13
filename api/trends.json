@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T12:23:55.438679+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2025-12-13T13:18:46.863142+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时22分 ~ 12时23分]"
+        },
+        {
+          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
+          "url": "https://www.cls.cn/detail/2228537",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时17分 ~ 13时18分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -45,20 +59,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时20分 ~ 09时16分]"
-        },
-        {
-          "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
-          "url": "https://www.cls.cn/detail/2228537",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时17分 ~ 12时23分]"
         },
         {
           "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
