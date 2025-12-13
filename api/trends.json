@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T05:15:57.295239+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-12-14T06:16:45.174189+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时16分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         }
       ]
     },
@@ -44,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时16分]"
         },
         {
           "title": "黄金时隔近两月再次涨超 4300 美元，受哪些因素影响？这次能站稳并继续冲高吗？",
@@ -54,11 +54,12 @@
           "ranks": [
             6,
             12,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时22分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[02时22分 ~ 06时16分]"
         }
       ]
     }
