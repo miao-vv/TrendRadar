@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T18:17:42.597317+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2025-12-13T19:14:46.979485+08:00",
+  "total_titles_processed": 1312,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时17分 ~ 18时17分]"
+          "appearance_count": 14,
+          "time_info": "[07时17分 ~ 19时14分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -145,7 +145,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "高盛：明年黄金目标价看至4900美元",
@@ -247,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "张凯毅称4斤黄金凤冠被毁未索赔",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E6%AF%85%E7%A7%B04%E6%96%A4%E9%BB%84%E9%87%91%E5%87%A4%E5%86%A0%E8%A2%AB%E6%AF%81%E6%9C%AA%E7%B4%A2%E8%B5%94%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "消息人士：马里法官已将3吨被扣押黄金归还巴里克矿业。",
