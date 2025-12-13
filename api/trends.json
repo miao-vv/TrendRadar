@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T13:18:46.863142+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2025-12-13T14:26:19.843500+08:00",
+  "total_titles_processed": 1010,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             12,
             9,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时17分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[07时17分 ~ 14时26分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
