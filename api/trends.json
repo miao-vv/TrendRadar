@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T22:16:38.552336+08:00",
-  "total_titles_processed": 1385,
+  "generated_at": "2025-12-14T23:16:45.975110+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时20分 ~ 13时18分]"
+        },
+        {
+          "title": "网红博主4斤重黄金凤冠被男童损毁，律师：责任或应分属监护与策展方",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32174134",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时22分 ~ 23时16分]"
         },
         {
           "title": "4斤黄金凤冠展出时被毁谁来赔",
@@ -51,19 +64,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时18分 ~ 21时26分]"
-        },
-        {
-          "title": "网红博主4斤重黄金凤冠被男童损毁，律师：责任或应分属监护与策展方",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32174134",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时22分 ~ 22时16分]"
         },
         {
           "title": "黄金时隔近两月再次涨超 4300 美元，受哪些因素影响？这次能站稳并继续冲高吗？",
@@ -129,8 +129,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时26分 ~ 22时16分]"
+          "appearance_count": 3,
+          "time_info": "[21时26分 ~ 23时16分]"
         },
         {
           "title": "美术馆回应4斤黄金凤冠被男童损毁",
