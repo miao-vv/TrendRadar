@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T06:16:26.503361+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2025-12-15T07:16:41.337832+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "网红博主4斤重黄金凤冠被男童损毁，律师：责任或应分属监护与策展方",
@@ -26,11 +26,34 @@
           "ranks": [
             16,
             18,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 07时16分]"
+        },
+        {
+          "title": "现货黄金小幅低开，报4296美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251215070145469800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "金十图示：2025年12月15日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251215064306388800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     }
