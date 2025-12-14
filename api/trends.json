@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T16:22:40.117973+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2025-12-14T17:18:02.429851+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,20 @@
           "time_info": "[02时22分 ~ 07时16分]"
         },
         {
+          "title": "4斤黄金凤冠展出时被毁谁来赔",
+          "url": "https://www.baidu.com/s?wd=4%E6%96%A4%E9%BB%84%E9%87%91%E5%87%A4%E5%86%A0%E5%B1%95%E5%87%BA%E6%97%B6%E8%A2%AB%E6%AF%81%E8%B0%81%E6%9D%A5%E8%B5%94",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            18,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 17时18分]"
+        },
+        {
           "title": "4斤黄金凤冠在免费展上被毁",
           "url": "https://www.baidu.com/s?wd=4%E6%96%A4%E9%BB%84%E9%87%91%E5%87%A4%E5%86%A0%E5%9C%A8%E5%85%8D%E8%B4%B9%E5%B1%95%E4%B8%8A%E8%A2%AB%E6%AF%81",
           "source": "百度热搜",
@@ -67,28 +81,16 @@
           "time_info": "[09时26分 ~ 14时26分]"
         },
         {
-          "title": "4斤黄金凤冠展出时被毁谁来赔",
-          "url": "https://www.baidu.com/s?wd=4%E6%96%A4%E9%BB%84%E9%87%91%E5%87%A4%E5%86%A0%E5%B1%95%E5%87%BA%E6%97%B6%E8%A2%AB%E6%AF%81%E8%B0%81%E6%9D%A5%E8%B5%94",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时22分]"
-        },
-        {
           "title": "网红博主4斤重黄金凤冠被男童损毁，律师：责任或应分属监护与策展方",
           "url": "https://m.thepaper.cn/newsDetail_forward_32174134",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 17时18分]"
         }
       ]
     },
