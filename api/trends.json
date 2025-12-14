@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T00:21:15.193498+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-15T01:15:08.791389+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "网红博主4斤重黄金凤冠被男童损毁，律师：责任或应分属监护与策展方",
           "url": "https://m.thepaper.cn/newsDetail_forward_32174134",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 00时21分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 01时15分]"
         }
       ]
     }
