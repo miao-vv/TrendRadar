@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T21:39:22.646383+08:00",
-  "total_titles_processed": 1720,
+  "generated_at": "2025-12-15T22:23:31.858775+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时22分 ~ 21时39分]"
+          "appearance_count": 7,
+          "time_info": "[18时22分 ~ 22时23分]"
         },
         {
           "title": "现货黄金小幅低开，报4296美元/盎司。",
@@ -101,11 +101,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 22时23分]"
         },
         {
           "title": "网红张凯毅开班免费艺术展，有孩子将其丈夫亲手打造的 4 斤重的黄金凤冠碰触倒地，导致损伤，此事该如何评价？",
@@ -116,8 +117,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 22时23分]"
         },
         {
           "title": "黄金疯涨为何买金者卖金者都受伤",
@@ -221,6 +222,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
+        },
+        {
+          "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2230200",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "印度贸易秘书：11月份黄金进口下降约60%。",
@@ -390,7 +402,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         }
