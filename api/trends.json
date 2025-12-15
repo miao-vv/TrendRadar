@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T11:28:49.402920+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2025-12-15T12:38:24.042847+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 11时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 12时38分]"
         },
         {
           "title": "网红博主4斤重黄金凤冠被男童损毁，律师：责任或应分属监护与策展方",
@@ -61,11 +62,12 @@
           "url": "https://flash.jin10.com/detail/20251215064306388800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 12时38分]"
         },
         {
           "title": "美术馆回应黄金凤冠被男童触碰损坏",
@@ -85,7 +87,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         },
@@ -96,7 +98,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }
@@ -113,7 +115,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }
