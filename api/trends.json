@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T09:23:39.458047+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2025-12-15T11:28:49.402920+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 09时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时28分]"
         },
         {
           "title": "网红博主4斤重黄金凤冠被男童损毁，律师：责任或应分属监护与策展方",
@@ -27,11 +27,12 @@
             16,
             18,
             17,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 09时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 11时28分]"
         },
         {
           "title": "现货黄金小幅低开，报4296美元/盎司。",
@@ -51,7 +52,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
         },
@@ -73,9 +74,48 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "降息预期升温下，黄金逐步走出盘整区间，白银不断创新高；日本央行本周加息迫在眉睫，多个货币兑日元空头占比接近90%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251215103748862800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "泰国央行周一表示，已指示金融机构加强对黄金交易商远期外汇交易的管控。",
+          "url": "https://wallstreetcn.com/livenews/3020617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "传联发科拿下两代谷歌TPU定制大单",
+          "url": "https://flash.jin10.com/detail/20251215105959893800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     }
