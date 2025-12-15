@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T03:57:57.077551+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2025-12-16T04:21:29.114637+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 04时21分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月15日（周一）晚盘收盘下跌0.49%报970.28元/克；<br/>上海黄金交易所白银T+D 12月15日（周一）晚盘收盘下跌0.05%报14661.0元/千克。",
@@ -38,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 04时21分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -50,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 04时21分]"
         },
         {
           "title": "网红张凯毅开班免费艺术展，有孩子将其丈夫亲手打造的 4 斤重的黄金凤冠碰触倒地，导致损伤，此事该如何评价？",
@@ -61,8 +62,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 04时21分]"
         },
         {
           "title": "现货黄金跌破4290美元/盎司，日内跌0.25%。",
@@ -101,8 +102,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时56分 ~ 03时57分]"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 04时21分]"
         },
         {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
