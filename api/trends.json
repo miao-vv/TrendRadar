@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T07:16:41.337832+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2025-12-15T09:23:39.458047+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时23分]"
         },
         {
           "title": "网红博主4斤重黄金凤冠被男童损毁，律师：责任或应分属监护与策展方",
@@ -30,8 +30,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时23分]"
         },
         {
           "title": "现货黄金小幅低开，报4296美元/盎司。",
@@ -40,9 +40,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月15日（周一）早盘盘初上涨0.99%报971.2元/克；<br/>上海黄金交易所白银T+D 12月15日（周一）早盘盘初下跌2.3%报14503.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251215090207039800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "金十图示：2025年12月15日（周一）黄金ETF持仓报告",
@@ -51,9 +62,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美术馆回应黄金凤冠被男童触碰损坏",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%9C%AF%E9%A6%86%E5%9B%9E%E5%BA%94%E9%BB%84%E9%87%91%E5%87%A4%E5%86%A0%E8%A2%AB%E7%94%B7%E7%AB%A5%E8%A7%A6%E7%A2%B0%E6%8D%9F%E5%9D%8F%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     }
