@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T15:21:48.454601+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2025-12-16T16:26:52.025529+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
@@ -174,6 +174,17 @@
           "time_info": "14时29分"
         },
         {
+          "title": "黄金只是“开路先锋”？知名策略师：2026将是“大宗商品之年”！",
+          "url": "https://www.cls.cn/detail/2230617",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "现货黄金短线跳水13美元，跌破4290美元/盎司；现货白银失守63美元/盎司，日内跌幅1.74%。",
           "url": "https://flash.jin10.com/detail/20251216105904427800",
           "source": "金十数据",
@@ -227,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月16日（周二）收盘下跌1.07%报964.7元/克；<br/>上海黄金交易所白银T+D 12月16日（周二）收盘下跌0.13%报14650.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251216153151580800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "美国非农今晚登场，市场倾向于预期数据恶化，进一步强化美联储降息预期，黄金多头或借机突破，美元却难破困局？后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
