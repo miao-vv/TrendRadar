@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T19:17:29.985755+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2025-12-16T20:39:06.648190+08:00",
+  "total_titles_processed": 1811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
@@ -181,7 +181,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -206,6 +206,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月16日（周二）晚盘盘初下跌0.45%报964.03元/克；<br/>上海黄金交易所白银T+D 12月16日（周二）晚盘盘初下跌0.23%报14640.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251216200243836800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "现货黄金短线跳水13美元，跌破4290美元/盎司；现货白银失守63美元/盎司，日内跌幅1.74%。",
@@ -332,7 +343,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -380,6 +391,17 @@
           "time_info": "[14时29分 ~ 15时21分]"
         },
         {
+          "title": "加拿大蒙特利尔银行：将谷歌(GOOG.O)目标价从340美元上调至343美元。",
+          "url": "https://flash.jin10.com/detail/20251216195848833800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
           "url": "https://flash.jin10.com/detail/20251216015417172800",
           "source": "金十数据",
@@ -397,7 +419,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
