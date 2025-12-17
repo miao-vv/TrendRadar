@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T12:31:38.016566+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2025-12-17T13:20:48.896757+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
@@ -111,7 +111,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
@@ -131,11 +131,12 @@
           "source": "百度热搜",
           "ranks": [
             23,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 13时20分]"
         },
         {
           "title": "金十图示：2025年12月17日（周三）黄金ETF持仓报告",
@@ -144,9 +145,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
+        },
+        {
+          "title": "现货黄金短线走高10美元，向上触及4330美元/盎司，日内涨0.64%。",
+          "url": "https://flash.jin10.com/detail/20251217124242311800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月16日（周二）晚盘收盘上涨0.07%报969.0元/克；<br/>上海黄金交易所白银T+D 12月16日（周二）晚盘收盘上涨0.18%报14700.0元/千克。",
