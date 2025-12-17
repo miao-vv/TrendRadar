@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T15:21:11.661521+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2025-12-17T16:26:32.108299+08:00",
+  "total_titles_processed": 1497,
   "failed_sources": [],
   "trends": [
     {
@@ -134,11 +134,12 @@
             20,
             13,
             8,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 16时26分]"
         },
         {
           "title": "现货黄金向上触及4340美元/盎司，日内涨0.88%。",
