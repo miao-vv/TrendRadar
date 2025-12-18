@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T19:17:34.811496+08:00",
-  "total_titles_processed": 1736,
+  "generated_at": "2025-12-18T20:37:28.183921+08:00",
+  "total_titles_processed": 1858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX黄金投机者将净多头头寸增加11,832手，至119,808手。",
@@ -112,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月18日（周四）晚盘盘初下跌0.12%报973.5元/克；<br/>上海黄金交易所白银T+D 12月18日（周四）晚盘盘初下跌0.14%报15442.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251218200434392800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "泰国央行提议对黄金交易实施管制，并已做好进一步降息的准备",
@@ -234,8 +245,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 19时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 20时37分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
@@ -309,8 +320,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时28分 ~ 19时17分]"
+          "appearance_count": 8,
+          "time_info": "[14时28分 ~ 20时37分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
