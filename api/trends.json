@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T20:37:28.183921+08:00",
-  "total_titles_processed": 1858,
+  "generated_at": "2025-12-18T21:35:21.598015+08:00",
+  "total_titles_processed": 1955,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月2日当周，COMEX黄金投机者将净多头头寸增加11,832手，至119,808手。",
@@ -120,7 +120,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -145,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "俄罗斯至12月12日当周央行黄金和外汇储备 7410亿美元，前值7415亿美元。",
+          "url": "https://flash.jin10.com/detail/20251218210103426800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "泰国央行行长：黄金交易正影响泰铢。",
@@ -320,8 +331,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时28分 ~ 20时37分]"
+          "appearance_count": 9,
+          "time_info": "[14时28分 ~ 21时35分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
