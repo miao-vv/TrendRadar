@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T21:31:53.659833+08:00",
-  "total_titles_processed": 2104,
+  "generated_at": "2025-12-19T22:19:18.018032+08:00",
+  "total_titles_processed": 2198,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 13时19分]"
+        },
+        {
+          "title": "欧股下跌，纳指100期货上涨，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 22时19分]"
         },
         {
           "title": "如何评价《崩坏：星穹铁道》3.8 版本活动「黄金嗷呜大师赛」？",
@@ -79,18 +92,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 07时18分]"
-        },
-        {
-          "title": "欧股下跌，纳指100期货上涨，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
-          "url": "https://wallstreetcn.com/articles/3761704",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时31分]"
         },
         {
           "title": "人到中年适当饿一饿或是抗衰黄金窗口",
