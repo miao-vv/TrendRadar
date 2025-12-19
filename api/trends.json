@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T03:15:38.567820+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2025-12-20T04:20:27.152811+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "男子用白鹿黄金海报炼10g金豆后破防",
@@ -28,11 +28,12 @@
             19,
             24,
             9,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "现货黄金突破4350美元/盎司，日内涨0.42%。",
@@ -52,7 +53,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -95,11 +96,12 @@
           "url": "https://wallstreetcn.com/articles/3761690",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 04时20分]"
         }
       ]
     },
@@ -114,7 +116,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         }
