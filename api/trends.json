@@ -1,12 +1,38 @@
 {
-  "generated_at": "2025-12-19T22:19:18.018032+08:00",
-  "total_titles_processed": 2198,
+  "generated_at": "2025-12-19T23:20:01.313315+08:00",
+  "total_titles_processed": 2307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "欧股下跌，纳指100期货上涨，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时36分 ~ 23时20分]"
+        },
+        {
+          "title": "现货黄金短线下挫15美元，最新报4324.74美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251219224937386800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
         {
           "title": "男子用白鹿黄金海报炼10g金豆却破防",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E7%99%BD%E9%B9%BF%E9%BB%84%E9%87%91%E6%B5%B7%E6%8A%A5%E7%82%BC10g%E9%87%91%E8%B1%86%E5%8D%B4%E7%A0%B4%E9%98%B2%23&t=31&band_rank=29&Refer=top",
@@ -33,19 +59,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 13时19分]"
-        },
-        {
-          "title": "欧股下跌，纳指100期货上涨，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
-          "url": "https://wallstreetcn.com/articles/3761704",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 22时19分]"
         },
         {
           "title": "如何评价《崩坏：星穹铁道》3.8 版本活动「黄金嗷呜大师赛」？",
@@ -116,6 +129,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时20分 ~ 16时25分]"
+        },
+        {
+          "title": "男子用白鹿黄金海报炼10g金豆后破防",
+          "url": "https://www.toutiao.com/trending/7585009866549248041/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时20分]"
+        },
+        {
+          "title": "美术馆创始人回应黄金凤冠事件",
+          "url": "https://www.douyin.com/hot/2341124",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时19分 ~ 23时20分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月19日（周五）早盘盘初下跌0.18%报972.89元/克；<br/>上海黄金交易所白银T+D 12月19日（周五）早盘盘初下跌1.61%报15215.0元/千克。",
@@ -409,7 +444,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "墨西哥反垄断委员会：谷歌将根据裁决取消其对移动设备制造商施加的某些合同限制。",
@@ -482,6 +517,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时16分]"
+        },
+        {
+          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
+          "url": "https://wallstreetcn.com/livenews/3024048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
