@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T15:16:28.753287+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2025-12-20T16:22:06.904650+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -61,6 +61,21 @@
           "time_info": "00时23分"
         },
         {
+          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
+          "url": "https://flash.jin10.com/detail/20251220113809000800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10,
+            12,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 16时22分]"
+        },
+        {
           "title": "Clocktower首席策略师王凯文：黄金牛市基础未变，白银潜在空间更为可观",
           "url": "https://wallstreetcn.com/livenews/3024216",
           "source": "华尔街见闻-快讯",
@@ -88,18 +103,16 @@
           "time_info": "[09时17分 ~ 11时14分]"
         },
         {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月9日当周，COMEX黄金投机者将净多头头寸增加4,829手，至124,637手。COMEX白银投机者将净多头头寸增加6,724手，至27,978手。",
-          "url": "https://flash.jin10.com/detail/20251220113809000800",
-          "source": "金十数据",
+          "title": "男子偷170万元黄金藏祖坟墓碑后",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7170%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%E8%97%8F%E7%A5%96%E5%9D%9F%E5%A2%93%E7%A2%91%E5%90%8E",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            10,
-            12,
-            17
+            18,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时24分 ~ 15时16分]"
+          "time_info": "[14时26分 ~ 16时22分]"
         },
         {
           "title": "周五（12月19日）纽约尾盘，现货黄金涨0.13%，报4338.32美元/盎司，本周累计上涨0.91%，整体震荡于4271.92-4374.65美元区间。 COMEX黄金期货涨0.08%，报4368.40美元/盎司，本周累涨0.92%。",
@@ -116,14 +129,14 @@
         },
         {
           "title": "男子偷170万元黄金藏祖坟墓碑后",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7170%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%E8%97%8F%E7%A5%96%E5%9D%9F%E5%A2%93%E7%A2%91%E5%90%8E",
-          "source": "百度热搜",
+          "url": "https://www.toutiao.com/trending/7585151455397642246/",
+          "source": "今日头条",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时16分]"
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月19日（周五）晚盘收盘上涨0.49%报978.9元/克；<br/>上海黄金交易所白银T+D 12月19日（周五）晚盘收盘上涨3.17%报15700.0元/千克。",
@@ -162,11 +175,12 @@
             13,
             16,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时14分 ~ 16时22分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
@@ -204,11 +218,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时18分 ~ 15时16分]"
+          "appearance_count": 11,
+          "time_info": "[06时18分 ~ 16时22分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
