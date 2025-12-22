@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T17:26:52.704811+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2025-12-22T18:20:24.413171+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时26分 ~ 17时26分]"
+          "appearance_count": 4,
+          "time_info": "[16时26分 ~ 18时20分]"
+        },
+        {
+          "title": "海南封关黄金被疯抢",
+          "url": "https://www.toutiao.com/trending/7586505964669373971/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            2,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 18时20分]"
         },
         {
           "title": "“降息预期+地缘冲突”推动，黄金站上4400，白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
@@ -31,18 +45,16 @@
           "time_info": "[14时31分 ~ 15时22分]"
         },
         {
-          "title": "海南封关黄金被疯抢",
-          "url": "https://www.toutiao.com/trending/7586505964669373971/",
-          "source": "今日头条",
+          "title": "黄金白银价格创新高",
+          "url": "https://www.douyin.com/hot/2344085",
+          "source": "抖音",
           "ranks": [
-            30,
-            2,
-            21,
-            22
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时22分 ~ 16时27分]"
+          "time_info": "[15时22分 ~ 18时20分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）黄金ETF持仓报告",
@@ -67,18 +79,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 17时26分]"
-        },
-        {
-          "title": "黄金白银价格创新高",
-          "url": "https://www.douyin.com/hot/2344085",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 17时26分]"
         },
         {
           "title": "黄金",
@@ -213,8 +213,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 17时26分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 18时20分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
