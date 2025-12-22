@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T16:27:14.953660+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2025-12-22T17:26:52.704811+08:00",
+  "total_titles_processed": 1355,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时26分]"
         },
         {
           "title": "“降息预期+地缘冲突”推动，黄金站上4400，白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
@@ -45,17 +45,6 @@
           "time_info": "[13时22分 ~ 16时27分]"
         },
         {
-          "title": "金十图示：2025年12月22日（周一）上海黄金交易所市场行情",
-          "url": "https://flash.jin10.com/detail/20251222160240413800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "金十图示：2025年12月22日（周一）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20251222064313510800",
           "source": "金十数据",
@@ -66,6 +55,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时16分 ~ 13时22分]"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20251222160240413800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时26分]"
+        },
+        {
+          "title": "黄金白银价格创新高",
+          "url": "https://www.douyin.com/hot/2344085",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 17时26分]"
         },
         {
           "title": "黄金",
@@ -80,18 +93,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时31分 ~ 15时22分]"
-        },
-        {
-          "title": "黄金白银价格创新高",
-          "url": "https://www.douyin.com/hot/2344085",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 16时27分]"
         },
         {
           "title": "海南封关免税黄金与热带鲜果成新宠",
@@ -212,8 +213,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 16时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时20分 ~ 17时26分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
