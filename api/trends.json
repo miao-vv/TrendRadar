@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T00:23:00.145216+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-23T01:17:15.669861+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
@@ -15,19 +15,31 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 01时17分]"
         },
         {
           "title": "现货黄金向上触及4430美元/盎司，日内涨2.11%。",
           "url": "https://flash.jin10.com/detail/20251222234509712800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "乌兹别克斯坦统计局：乌兹别克斯坦上个月未出口黄金。",
+          "url": "https://flash.jin10.com/detail/20251223002000031800",
+          "source": "金十数据",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时17分"
         },
         {
           "title": "黄金巨头金雅福70亿理财爆雷：危险的黄金委托、10%高收益背后的“拼单代持”与“名股实债”",
@@ -36,9 +48,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 01时17分]"
         }
       ]
     }
