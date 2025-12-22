@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-22T19:16:42.215057+08:00",
-  "total_titles_processed": 1532,
+  "generated_at": "2025-12-22T20:37:28.726582+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时26分 ~ 19时16分]"
+          "appearance_count": 6,
+          "time_info": "[16时26分 ~ 20时37分]"
         },
         {
           "title": "海南封关黄金被疯抢",
@@ -43,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时31分 ~ 15时22分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月22日（周一）晚盘盘初上涨0.56%报991.07元/克；<br/>上海黄金交易所白银T+D 12月22日（周一）晚盘盘初上涨0.95%报16223.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251222200308618800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "黄金白银价格创新高",
@@ -192,7 +204,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
