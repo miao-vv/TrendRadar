@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T19:17:13.039300+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2025-12-23T20:37:59.933682+08:00",
+  "total_titles_processed": 1781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "降息预期+地缘冲突推动资金涌向贵金属 黄金白银同日改写历史",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时21分 ~ 19时17分]"
+          "appearance_count": 15,
+          "time_info": "[09时21分 ~ 20时37分]"
         },
         {
           "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
@@ -143,6 +143,18 @@
           "time_info": "[03时16分 ~ 05时16分]"
         },
         {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 20时37分]"
+        },
+        {
           "title": "黄金大涨原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%A4%A7%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -154,18 +166,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时21分 ~ 12时36分]"
-        },
-        {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 19时17分]"
         },
         {
           "title": "现货黄金向上触及4430美元/盎司，日内涨2.11%。",
@@ -234,6 +234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 12月23日（周二）晚盘盘初上涨0.22%报1008.0元/克；<br/>上海黄金交易所白银T+D 12月23日（周二）晚盘盘初上涨0.63%报16512.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251223200403106800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "中金公司海外与港股策略首席分析师刘刚：黄金终极价值来自对美元信用的“局部替代”",
@@ -353,8 +364,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时16分 ~ 19时17分]"
+          "appearance_count": 25,
+          "time_info": "[01时16分 ~ 20时37分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
