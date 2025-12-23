@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T21:35:08.047827+08:00",
-  "total_titles_processed": 1867,
+  "generated_at": "2025-12-23T22:19:20.199941+08:00",
+  "total_titles_processed": 1956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "降息预期+地缘冲突推动资金涌向贵金属 黄金白银同日改写历史",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时21分 ~ 21时35分]"
+          "appearance_count": 18,
+          "time_info": "[09时21分 ~ 22时19分]"
         },
         {
           "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
@@ -83,6 +83,19 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时20分 ~ 22时19分]"
+        },
+        {
           "title": "泰国央行行长：黄金交易规模巨大。",
           "url": "https://flash.jin10.com/detail/20251223145305079800",
           "source": "金十数据",
@@ -105,18 +118,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时19分 ~ 09时21分]"
-        },
-        {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时20分 ~ 21时35分]"
         },
         {
           "title": "泰国央行行长：泰铢走强由黄金交易推动。",
@@ -168,6 +169,18 @@
           "time_info": "[09时21分 ~ 12时36分]"
         },
         {
+          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
+          "url": "https://www.zhihu.com/question/1986492553160311276",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时19分]"
+        },
+        {
           "title": "现货黄金向上触及4430美元/盎司，日内涨2.11%。",
           "url": "https://flash.jin10.com/detail/20251222234509712800",
           "source": "金十数据",
@@ -190,17 +203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时23分 ~ 18时20分]"
-        },
-        {
-          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
-          "url": "https://www.zhihu.com/question/1986492553160311276",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "现货黄金站上4480美元/盎司，日内涨0.83%。",
@@ -280,6 +282,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "美国GDP数据公布后，现货黄金短线走低5美元，现报4486.58美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251223213218634800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "才发现余额宝还可以攒黄金攒定期",
           "url": "https://s.weibo.com/weibo?q=%23%E6%89%8D%E5%8F%91%E7%8E%B0%E4%BD%99%E9%A2%9D%E5%AE%9D%E8%BF%98%E5%8F%AF%E4%BB%A5%E6%94%92%E9%BB%84%E9%87%91%E6%94%92%E5%AE%9A%E6%9C%9F%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -352,7 +365,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
