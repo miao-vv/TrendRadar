@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T22:19:20.199941+08:00",
-  "total_titles_processed": 1956,
+  "generated_at": "2025-12-23T23:19:40.641429+08:00",
+  "total_titles_processed": 2056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "降息预期+地缘冲突推动资金涌向贵金属 黄金白银同日改写历史",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时21分 ~ 22时19分]"
+          "appearance_count": 19,
+          "time_info": "[09时21分 ~ 23时19分]"
         },
         {
           "title": "现货黄金首次站上4400美元/盎司，今年迄今累涨逾67%",
@@ -72,6 +72,20 @@
           "time_info": "[12时36分 ~ 16时26分]"
         },
         {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 23时19分]"
+        },
+        {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
@@ -81,19 +95,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 22时19分]"
         },
         {
           "title": "泰国央行行长：黄金交易规模巨大。",
@@ -156,6 +157,18 @@
           "time_info": "[03时16分 ~ 05时16分]"
         },
         {
+          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
+          "url": "https://www.zhihu.com/question/1986492553160311276",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时34分 ~ 23时19分]"
+        },
+        {
           "title": "黄金大涨原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%A4%A7%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -167,18 +180,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时21分 ~ 12时36分]"
-        },
-        {
-          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
-          "url": "https://www.zhihu.com/question/1986492553160311276",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 22时19分]"
         },
         {
           "title": "现货黄金向上触及4430美元/盎司，日内涨2.11%。",
@@ -288,7 +289,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -346,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "现货金银短线走低，现货黄金短线下挫15美元，一度跌破4450美元/盎司，现货白银短线走低0.6美元，现报69.8美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251223223449453800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "连瑞银都不敢想的剧本：白银已破70，黄金4900还会远吗？",
