@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T12:34:30.379392+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2025-12-24T13:22:01.126377+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -45,15 +45,28 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
-          "title": "金十图示：2025年12月24日（周三）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251224120626366800",
+          "title": "白银首破70美元关口、黄金逼近4500 贵金属牛市继续扩散",
+          "url": "https://www.cls.cn/detail/2238199",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 13时22分]"
+        },
+        {
+          "title": "数据分析公司Crisil Coalition Greenwich的数据显示，在黄金和白银价格飙升的背景下，今年前九个月，主要银行贵金属交易部门的收入比2024年同期增长了50%。",
+          "url": "https://flash.jin10.com/detail/20251224130812700800",
           "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "13时22分"
         },
         {
           "title": "现货黄金创历史新高，距离4500美元就差临门一脚，纽约期金创历史新高后高位持稳",
@@ -66,6 +79,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
+        },
+        {
+          "title": "金十图示：2025年12月24日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251224120626366800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时22分]"
         },
         {
           "title": "现货黄金盘中转跌，现报4480.75美元/盎司，此前一度涨至4500美元上方。",
@@ -92,16 +117,29 @@
           "time_info": "[05时17分 ~ 06时17分]"
         },
         {
-          "title": "白银首破70美元关口、黄金逼近4500 贵金属牛市继续扩散",
-          "url": "https://www.cls.cn/detail/2238199",
+          "title": "什么信号？华尔街老兵大幅上调黄金目标价：明年将冲击6000美元大关！",
+          "url": "https://www.cls.cn/detail/2238315",
           "source": "财联社热门",
           "ranks": [
-            8,
-            6
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 13时22分]"
+        },
+        {
+          "title": "为什么 11 月以来白银涨的比黄金疯那么多? 大家会考虑囤白银吗？",
+          "url": "https://www.zhihu.com/question/1980280147111323031",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 13时22分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月23日（周二）晚盘收盘下跌0.06%报1005.21元/克；<br/>上海黄金交易所白银T+D 12月23日（周二）晚盘收盘上涨3.32%报16954.0元/千克。",
@@ -114,29 +152,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时19分]"
-        },
-        {
-          "title": "什么信号？华尔街老兵大幅上调黄金目标价：明年将冲击6000美元大关！",
-          "url": "https://www.cls.cn/detail/2238315",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时34分]"
-        },
-        {
-          "title": "为什么 11 月以来白银涨的比黄金疯那么多? 大家会考虑囤白银吗？",
-          "url": "https://www.zhihu.com/question/1980280147111323031",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时34分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月16日当周，COMEX黄金投机者将净多头头寸增加9,493份合约，至134,130份合约；COMEX白银投机者将净多头头寸削减3,681份合约，至24,297份合约；COMEX铜投机者将净多头头寸增加4,904份合约，至75,987份合约。",
