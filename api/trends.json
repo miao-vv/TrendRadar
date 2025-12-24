@@ -1,463 +1,105 @@
 {
-  "generated_at": "2025-12-24T23:19:17.887556+08:00",
-  "total_titles_processed": 1977,
+  "generated_at": "2025-12-25T00:22:24.827442+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 30,
+      "match_count": 7,
       "titles": [
         {
-          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
-          "url": "https://wallstreetcn.com/articles/3761868",
-          "source": "华尔街见闻",
+          "title": "涉黄金、白银，3只LOF明日开盘起停牌1小时",
+          "url": "https://www.cls.cn/detail/2239150",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
-        },
-        {
-          "title": "为什么 11 月以来白银涨的比黄金疯那么多? 大家会考虑囤白银吗？",
-          "url": "https://www.zhihu.com/question/1980280147111323031",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            12,
-            16,
-            5,
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时22分 ~ 19时17分]"
-        },
-        {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
-        },
-        {
-          "title": "什么信号？华尔街老兵大幅上调黄金目标价：明年将冲击6000美元大关！",
-          "url": "https://www.cls.cn/detail/2238315",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时22分 ~ 17时22分]"
-        },
-        {
-          "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
-          "url": "https://www.zhihu.com/question/1986492553160311276",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时17分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
           "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
           "url": "https://wallstreetcn.com/articles/3761967",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时17分 ~ 23时19分]"
-        },
-        {
-          "title": "涉黄金、白银，3只LOF明日开盘起停牌1小时",
-          "url": "https://www.cls.cn/detail/2239150",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时37分 ~ 23时19分]"
-        },
-        {
-          "title": "金十图示：2025年12月24日（周三）上海黄金交易所市场行情",
-          "url": "https://flash.jin10.com/detail/20251224170154204800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "白银首破70美元关口、黄金逼近4500 贵金属牛市继续扩散",
-          "url": "https://www.cls.cn/detail/2238199",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 13时22分]"
-        },
-        {
-          "title": "现货钯金跌穿1700美元/盎司关口，日内跌超8.6%，北京时间14:47涨至1962.42美元之后持续回撤。 现货铂金跌向2202美元，目前跌3.8%。 现货黄金跌超0.4%，逼近4460美元，09:25还曾涨至4525.77美元创历史新高。 现货白银跌穿71美元，跌幅0.6%，脱离09:53所创历史最高位72.70美元。",
-          "url": "https://wallstreetcn.com/livenews/3026266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "现货黄金创历史新高，距离4500美元就差临门一脚，纽约期金创历史新高后高位持稳",
-          "url": "https://wallstreetcn.com/livenews/3025782",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "金十图示：2025年12月24日（周三）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251224120626366800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 13时22分]"
-        },
-        {
-          "title": "现货黄金盘中转跌，现报4480.75美元/盎司，此前一度涨至4500美元上方。",
-          "url": "https://wallstreetcn.com/livenews/3025949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时34分]"
-        },
-        {
-          "title": "数据分析公司Crisil Coalition Greenwich的数据显示，在黄金和白银价格飙升的背景下，今年前九个月，主要银行贵金属交易部门的收入比2024年同期增长了50%。",
-          "url": "https://flash.jin10.com/detail/20251224130812700800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 14时29分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：12月16日当周，投机者所持COMEX黄金净多头头寸增加9,493份合约，至134,130份合约。 COMEX白银净多头头寸削减3,681份合约，至24,297份合约。 COMEX铜净多头头寸增加4,904份合约，至75,987份合约。 CBOT玉米净多头头寸下降62,390手合约。 NYMEX天然气净多头头寸下降34,860手合约。",
-          "url": "https://wallstreetcn.com/livenews/3025758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时17分]"
-        },
-        {
-          "title": "男子家中100克黄金被盗 小偷是发小",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD100%E5%85%8B%E9%BB%84%E9%87%91%E8%A2%AB%E7%9B%97+%E5%B0%8F%E5%81%B7%E6%98%AF%E5%8F%91%E5%B0%8F",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            25,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 21时31分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月23日（周二）晚盘收盘下跌0.06%报1005.21元/克；<br/>上海黄金交易所白银T+D 12月23日（周二）晚盘收盘上涨3.32%报16954.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251224023152940800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时19分]"
-        },
-        {
-          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
-          "url": "https://wallstreetcn.com/livenews/3026240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时18分 ~ 23时19分]"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至12月16日当周，COMEX黄金投机者将净多头头寸增加9,493份合约，至134,130份合约；COMEX白银投机者将净多头头寸削减3,681份合约，至24,297份合约；COMEX铜投机者将净多头头寸增加4,904份合约，至75,987份合约。",
-          "url": "https://flash.jin10.com/detail/20251224043300072800",
-          "source": "金十数据",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时17分"
+          "time_info": "00时22分"
         },
         {
-          "title": "现货铂金短线下挫大约20美元，刷新日低，逼近2220美元，日内跌幅超过2.3%。 现货黄金从4490美元下方不远处跌跌穿4470美元，刷新日低，日内跌超0.1%。 现货白银从72.2870美元下挫至71.5美元下方，日内再度转跌。",
-          "url": "https://wallstreetcn.com/livenews/3026261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 12月24日（周三）晚盘盘初下跌0.16%报1008.0元/克；<br/>上海黄金交易所白银T+D 12月24日（周三）晚盘盘初上涨2.01%报17670.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20251224200227809800",
+          "title": "现货黄金跌破4450美元",
+          "url": "https://flash.jin10.com/detail/20251224234419389800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "00时22分"
         },
         {
-          "title": "现货黄金跌破4480美元/盎司，短线跌幅扩大至逾30美元。",
-          "url": "https://flash.jin10.com/detail/20251224110016454800",
+          "title": "现货黄金跌破4460美元/盎司，日内跌0.58%。现货白银日内跌超1美元，现报70.42美元/盎司，跌幅1.45%。纽约期银日内下跌1.00%，现报70.42美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251224233737172800",
           "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时22分"
+          "time_info": "00时22分"
         },
         {
-          "title": "现货黄金短线走低逾10美元，跌破4500美元/盎司，现报4494.8美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251224105803016800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
-        },
-        {
-          "title": "初请数据公布后，现货黄金、美元指数DXY短线变动不大，美国股指期货保持稳定。",
-          "url": "https://flash.jin10.com/detail/20251224213209777800",
-          "source": "金十数据",
+          "title": "现货黄金突破4500美元创新高 避险共识下机构现分歧：到顶了还是仍看涨？",
+          "url": "https://www.cls.cn/detail/2239195",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时18分"
+          "time_info": "00时22分"
         },
         {
-          "title": "汇添富黄金LOF A类份额25日开市起至当日10:30停牌",
-          "url": "https://wallstreetcn.com/livenews/3026165",
+          "title": "现货钯金跌穿1700美元/盎司关口，日内跌超8.6%，北京时间14:47涨至1962.42美元之后持续回撤。 现货铂金跌向2202美元，目前跌3.8%。 现货黄金跌超0.4%，逼近4460美元，09:25还曾涨至4525.77美元创历史新高。 现货白银跌穿71美元，跌幅0.6%，脱离09:53所创历史最高位72.70美元。",
+          "url": "https://wallstreetcn.com/livenews/3026266",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "00时22分"
         },
         {
-          "title": "机构：黄金作为分散投资工具吸引力凸显",
-          "url": "https://flash.jin10.com/detail/20251224194453663800",
-          "source": "金十数据",
+          "title": "现货铂金短线下挫大约20美元，刷新日低，逼近2220美元，日内跌幅超过2.3%。 现货黄金从4490美元下方不远处跌跌穿4470美元，刷新日低，日内跌超0.1%。 现货白银从72.2870美元下挫至71.5美元下方，日内再度转跌。",
+          "url": "https://wallstreetcn.com/livenews/3026261",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "现货黄金回落至4470美元/盎司下方，日内跌0.34%。",
-          "url": "https://flash.jin10.com/detail/20251224224122054800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "现货黄金短线走低18美元，最低至4470.9美元/盎司。纽约期金向下触及4500美元/盎司，日内跌0.14%。",
-          "url": "https://flash.jin10.com/detail/20251224223917732800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "市场消息：加纳黄金精炼公司（Goldbod）已超过2025年100吨黄金出口目标。",
-          "url": "https://flash.jin10.com/detail/20251224212458250800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "发小盗走黄金 还热情陪失主报案",
-          "url": "https://www.toutiao.com/trending/7587029093075271721/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "OpenAI考虑在ChatGPT内植入广告。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3026250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "OpenAI、Anthropic、xAI 遭作家起诉版权侵权",
-          "url": "https://wallstreetcn.com/livenews/3025735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时17分]"
-        },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3026250",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯元宝DeepSeek模式使用量较年初增长超100倍",
-          "url": "https://wallstreetcn.com/livenews/3026145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜英伟达收涨3%，亚马逊、谷歌A至多涨超1.6%，特斯拉回撤超0.6%",
-          "url": "https://wallstreetcn.com/livenews/3025770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
-          "url": "https://wallstreetcn.com/livenews/3026125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时19分]"
+          "time_info": "00时22分"
         }
       ]
     }
