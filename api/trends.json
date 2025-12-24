@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T19:17:31.649794+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2025-12-24T20:37:25.100126+08:00",
+  "total_titles_processed": 1730,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -159,6 +159,19 @@
           "time_info": "[05时17分 ~ 06时17分]"
         },
         {
+          "title": "男子家中100克黄金被盗 小偷是发小",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD100%E5%85%8B%E9%BB%84%E9%87%91%E8%A2%AB%E7%9B%97+%E5%B0%8F%E5%81%B7%E6%98%AF%E5%8F%91%E5%B0%8F",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            25,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时37分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 12月23日（周二）晚盘收盘下跌0.06%报1005.21元/克；<br/>上海黄金交易所白银T+D 12月23日（周二）晚盘收盘上涨3.32%报16954.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251224023152940800",
           "source": "金十数据",
@@ -171,16 +184,27 @@
           "time_info": "[03时17分 ~ 04时19分]"
         },
         {
-          "title": "男子家中100克黄金被盗 小偷是发小",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD100%E5%85%8B%E9%BB%84%E9%87%91%E8%A2%AB%E7%9B%97+%E5%B0%8F%E5%81%B7%E6%98%AF%E5%8F%91%E5%B0%8F",
-          "source": "百度热搜",
+          "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
+          "url": "https://wallstreetcn.com/articles/3761967",
+          "source": "华尔街见闻",
           "ranks": [
-            29,
-            25
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时17分]"
+          "time_info": "[19时17分 ~ 20时37分]"
+        },
+        {
+          "title": "涉黄金、白银，3只LOF明日开盘起停牌1小时",
+          "url": "https://www.cls.cn/detail/2239150",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月16日当周，COMEX黄金投机者将净多头头寸增加9,493份合约，至134,130份合约；COMEX白银投机者将净多头头寸削减3,681份合约，至24,297份合约；COMEX铜投机者将净多头头寸增加4,904份合约，至75,987份合约。",
@@ -194,15 +218,15 @@
           "time_info": "05时17分"
         },
         {
-          "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
-          "url": "https://wallstreetcn.com/articles/3761967",
-          "source": "华尔街见闻",
+          "title": "上海黄金交易所黄金T+D 12月24日（周三）晚盘盘初下跌0.16%报1008.0元/克；<br/>上海黄金交易所白银T+D 12月24日（周三）晚盘盘初上涨2.01%报17670.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251224200227809800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "20时37分"
         },
         {
           "title": "现货黄金跌破4480美元/盎司，短线跌幅扩大至逾30美元。",
@@ -233,9 +257,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
+        },
+        {
+          "title": "机构：黄金作为分散投资工具吸引力凸显",
+          "url": "https://flash.jin10.com/detail/20251224194453663800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "发小盗走黄金 还热情陪失主报案",
