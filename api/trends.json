@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T20:37:25.100126+08:00",
-  "total_titles_processed": 1730,
+  "generated_at": "2025-12-24T21:31:37.743557+08:00",
+  "total_titles_processed": 1809,
   "failed_sources": [],
   "trends": [
     {
@@ -165,11 +165,36 @@
           "ranks": [
             29,
             25,
-            13
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时19分 ~ 21时31分]"
+        },
+        {
+          "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
+          "url": "https://wallstreetcn.com/articles/3761967",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时19分 ~ 20时37分]"
+          "time_info": "[19时17分 ~ 21时31分]"
+        },
+        {
+          "title": "涉黄金、白银，3只LOF明日开盘起停牌1小时",
+          "url": "https://www.cls.cn/detail/2239150",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时31分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月23日（周二）晚盘收盘下跌0.06%报1005.21元/克；<br/>上海黄金交易所白银T+D 12月23日（周二）晚盘收盘上涨3.32%报16954.0元/千克。",
@@ -182,29 +207,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时19分]"
-        },
-        {
-          "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
-          "url": "https://wallstreetcn.com/articles/3761967",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 20时37分]"
-        },
-        {
-          "title": "涉黄金、白银，3只LOF明日开盘起停牌1小时",
-          "url": "https://www.cls.cn/detail/2239150",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至12月16日当周，COMEX黄金投机者将净多头头寸增加9,493份合约，至134,130份合约；COMEX白银投机者将净多头头寸削减3,681份合约，至24,297份合约；COMEX铜投机者将净多头头寸增加4,904份合约，至75,987份合约。",
@@ -224,7 +226,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
@@ -268,7 +270,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
         },
