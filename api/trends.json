@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T22:18:09.739076+08:00",
-  "total_titles_processed": 1892,
+  "generated_at": "2025-12-24T23:19:17.887556+08:00",
+  "total_titles_processed": 1977,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -75,6 +75,32 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
+          "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
+          "url": "https://wallstreetcn.com/articles/3761967",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时17分 ~ 23时19分]"
+        },
+        {
+          "title": "涉黄金、白银，3只LOF明日开盘起停牌1小时",
+          "url": "https://www.cls.cn/detail/2239150",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时37分 ~ 23时19分]"
+        },
+        {
           "title": "金十图示：2025年12月24日（周三）上海黄金交易所市场行情",
           "url": "https://flash.jin10.com/detail/20251224170154204800",
           "source": "金十数据",
@@ -99,29 +125,15 @@
           "time_info": "[09时20分 ~ 13时22分]"
         },
         {
-          "title": "贵金属涨势如虹！黄金4500，铂金2300，白银72，齐创历史新高",
-          "url": "https://wallstreetcn.com/articles/3761967",
-          "source": "华尔街见闻",
+          "title": "现货钯金跌穿1700美元/盎司关口，日内跌超8.6%，北京时间14:47涨至1962.42美元之后持续回撤。 现货铂金跌向2202美元，目前跌3.8%。 现货黄金跌超0.4%，逼近4460美元，09:25还曾涨至4525.77美元创历史新高。 现货白银跌穿71美元，跌幅0.6%，脱离09:53所创历史最高位72.70美元。",
+          "url": "https://wallstreetcn.com/livenews/3026266",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 22时18分]"
-        },
-        {
-          "title": "涉黄金、白银，3只LOF明日开盘起停牌1小时",
-          "url": "https://www.cls.cn/detail/2239150",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 22时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "现货黄金创历史新高，距离4500美元就差临门一脚，纽约期金创历史新高后高位持稳",
@@ -210,6 +222,18 @@
           "time_info": "[03时17分 ~ 04时19分]"
         },
         {
+          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
+          "url": "https://wallstreetcn.com/livenews/3026240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时19分]"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：截至12月16日当周，COMEX黄金投机者将净多头头寸增加9,493份合约，至134,130份合约；COMEX白银投机者将净多头头寸削减3,681份合约，至24,297份合约；COMEX铜投机者将净多头头寸增加4,904份合约，至75,987份合约。",
           "url": "https://flash.jin10.com/detail/20251224043300072800",
           "source": "金十数据",
@@ -219,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "现货铂金短线下挫大约20美元，刷新日低，逼近2220美元，日内跌幅超过2.3%。 现货黄金从4490美元下方不远处跌跌穿4470美元，刷新日低，日内跌超0.1%。 现货白银从72.2870美元下挫至71.5美元下方，日内再度转跌。",
+          "url": "https://wallstreetcn.com/livenews/3026261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月24日（周三）晚盘盘初下跌0.16%报1008.0元/克；<br/>上海黄金交易所白银T+D 12月24日（周三）晚盘盘初上涨2.01%报17670.0元/千克。",
@@ -243,17 +278,6 @@
           "time_info": "11时22分"
         },
         {
-          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
-          "url": "https://wallstreetcn.com/livenews/3026240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
           "title": "现货黄金短线走低逾10美元，跌破4500美元/盎司，现报4494.8美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251224105803016800",
           "source": "金十数据",
@@ -271,7 +295,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -298,13 +322,35 @@
           "time_info": "20时37分"
         },
         {
+          "title": "现货黄金回落至4470美元/盎司下方，日内跌0.34%。",
+          "url": "https://flash.jin10.com/detail/20251224224122054800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "现货黄金短线走低18美元，最低至4470.9美元/盎司。纽约期金向下触及4500美元/盎司，日内跌0.14%。",
+          "url": "https://flash.jin10.com/detail/20251224223917732800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "市场消息：加纳黄金精炼公司（Goldbod）已超过2025年100吨黄金出口目标。",
           "url": "https://flash.jin10.com/detail/20251224212458250800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -323,7 +369,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。（The Information）",
@@ -332,7 +378,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -348,6 +394,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时17分 ~ 05时17分]"
+        },
+        {
+          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         }
       ]
     },
