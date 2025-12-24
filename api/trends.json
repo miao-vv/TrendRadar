@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T14:29:55.647624+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2025-12-24T15:22:09.904731+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
@@ -45,29 +45,17 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
-          "title": "白银首破70美元关口、黄金逼近4500 贵金属牛市继续扩散",
-          "url": "https://www.cls.cn/detail/2238199",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 13时22分]"
-        },
-        {
           "title": "什么信号？华尔街老兵大幅上调黄金目标价：明年将冲击6000美元大关！",
           "url": "https://www.cls.cn/detail/2238315",
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 14时29分]"
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 15时22分]"
         },
         {
           "title": "为什么 11 月以来白银涨的比黄金疯那么多? 大家会考虑囤白银吗？",
@@ -80,8 +68,21 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时22分 ~ 15时22分]"
+        },
+        {
+          "title": "白银首破70美元关口、黄金逼近4500 贵金属牛市继续扩散",
+          "url": "https://www.cls.cn/detail/2238199",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时22分 ~ 14时29分]"
+          "time_info": "[09时20分 ~ 13时22分]"
         },
         {
           "title": "现货黄金创历史新高，距离4500美元就差临门一脚，纽约期金创历史新高后高位持稳",
