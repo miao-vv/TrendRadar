@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T15:22:09.904731+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2025-12-24T16:26:06.964257+08:00",
+  "total_titles_processed": 1373,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -45,6 +45,21 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
+          "title": "为什么 11 月以来白银涨的比黄金疯那么多? 大家会考虑囤白银吗？",
+          "url": "https://www.zhihu.com/question/1980280147111323031",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15,
+            12,
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 16时26分]"
+        },
+        {
           "title": "什么信号？华尔街老兵大幅上调黄金目标价：明年将冲击6000美元大关！",
           "url": "https://www.cls.cn/detail/2238315",
           "source": "财联社热门",
@@ -54,22 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 15时22分]"
-        },
-        {
-          "title": "为什么 11 月以来白银涨的比黄金疯那么多? 大家会考虑囤白银吗？",
-          "url": "https://www.zhihu.com/question/1980280147111323031",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 15时22分]"
+          "appearance_count": 9,
+          "time_info": "[11时22分 ~ 16时26分]"
         },
         {
           "title": "白银首破70美元关口、黄金逼近4500 贵金属牛市继续扩散",
@@ -188,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "发小盗走黄金 还热情陪失主报案",
+          "url": "https://www.toutiao.com/trending/7587029093075271721/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         }
       ]
     },
