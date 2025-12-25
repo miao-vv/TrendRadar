@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T12:36:15.166694+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2025-12-25T13:22:26.495182+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,17 @@
           "time_info": "[00时22分 ~ 09时21分]"
         },
         {
+          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
+          "url": "https://wallstreetcn.com/articles/3761989",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时20分 ~ 13时22分]"
+        },
+        {
           "title": "涉黄金、白银，3只LOF明日开盘起停牌1小时",
           "url": "https://www.cls.cn/detail/2239150",
           "source": "财联社热门",
@@ -33,17 +44,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时22分 ~ 09时21分]"
-        },
-        {
-          "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
-          "url": "https://wallstreetcn.com/articles/3761989",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时20分 ~ 12时36分]"
         },
         {
           "title": "男子偷发小100克黄金淡定陪同报警",
@@ -90,11 +90,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 12时36分]"
+          "appearance_count": 5,
+          "time_info": "[11时24分 ~ 13时22分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月24日（周三）晚盘收盘下跌0.41%报1005.5元/克；<br/>上海黄金交易所白银T+D 12月24日（周三）晚盘收盘下跌0.64%报17210.0元/千克。",
@@ -152,7 +153,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
