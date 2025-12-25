@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T05:17:11.187722+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2025-12-26T06:17:53.678262+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 06时17分]"
         },
         {
           "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 06时17分]"
         },
         {
           "title": "圣诞美欧韩股休市，离岸人民币破7，黄金失守4500美元，沪银涨近4%续创新高",
@@ -48,11 +48,12 @@
           "ranks": [
             5,
             8,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时17分]"
+          "appearance_count": 4,
+          "time_info": "[03时14分 ~ 06时17分]"
         }
       ]
     },
@@ -68,8 +69,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 06时17分]"
         }
       ]
     },
@@ -85,8 +86,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 06时17分]"
         }
       ]
     }
