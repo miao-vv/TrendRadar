@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T04:20:19.076602+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-12-26T05:17:11.187722+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "贵金属集体回调！黄金失守4500，钯期货跌停，国投白银LOF跌10%触及跌停",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "圣诞美欧韩股休市，离岸人民币破7，黄金失守4500美元，沪银涨近4%续创新高",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 05时17分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月25日（周四）晚盘收盘上涨1.06%报1013.11元/克；<br/>上海黄金交易所白银T+D 12月25日（周四）晚盘收盘上涨5.09%报18118.0元/千克。",
@@ -47,11 +47,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时20分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时17分]"
         }
       ]
     },
@@ -67,8 +68,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 05时17分]"
         }
       ]
     },
@@ -84,8 +85,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 05时17分]"
         }
       ]
     }
