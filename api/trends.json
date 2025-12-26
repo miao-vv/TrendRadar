@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T11:23:19.165099+08:00",
-  "total_titles_processed": 814,
+  "generated_at": "2025-12-26T12:33:22.960752+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -81,16 +81,29 @@
           "time_info": "09时21分"
         },
         {
+          "title": "金十图示：2025年12月26日（周五）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251226064647716800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 12时33分]"
+        },
+        {
           "title": "价值40万元涉案黄金无人认领",
           "url": "https://www.baidu.com/s?wd=%E4%BB%B7%E5%80%BC40%E4%B8%87%E5%85%83%E6%B6%89%E6%A1%88%E9%BB%84%E9%87%91%E6%97%A0%E4%BA%BA%E8%AE%A4%E9%A2%86",
           "source": "百度热搜",
           "ranks": [
             16,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 11时23分]"
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时33分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -99,9 +112,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
         },
         {
           "title": "现货黄金再创新高",
@@ -113,17 +126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "金十图示：2025年12月26日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20251226064647716800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月26日（周五）早盘盘初上涨1.23%报1014.89元/克；<br/>上海黄金交易所白银T+D 12月26日（周五）早盘盘初上涨6.26%报18320.0元/千克。",
@@ -179,6 +181,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "跨省排队抢购胖东来黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B7%A8%E7%9C%81%E6%8E%92%E9%98%9F%E6%8A%A2%E8%B4%AD%E8%83%96%E4%B8%9C%E6%9D%A5%E9%BB%84%E9%87%91%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3026999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时23分 ~ 12时33分]"
+        },
+        {
+          "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
+          "url": "https://flash.jin10.com/detail/20251226112935984800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     },
@@ -196,8 +238,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 11时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 12时33分]"
         }
       ]
     },
@@ -215,23 +257,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 07时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3026999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时23分"
         }
       ]
     }
