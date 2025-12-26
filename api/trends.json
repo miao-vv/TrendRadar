@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T05:16:24.911776+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2025-12-27T06:18:36.409825+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时18分]"
         },
         {
           "title": "360克黄金无人认领 咨询电话被打爆",
@@ -27,11 +27,12 @@
             24,
             20,
             19,
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时18分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月26日（周五）晚盘收盘上涨0.16%报1012.2元/克；<br/>上海黄金交易所白银T+D 12月26日（周五）晚盘收盘上涨4.2%报19140.0元/千克。",
@@ -42,8 +43,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 06时18分]"
         },
         {
           "title": "现货白银涨穿76美元/盎司，年内涨幅扩大至超过160%。 现货黄金日内涨幅达1.5%，报4546.6美元/盎司。 沪银主力合约持续走高，夜盘涨幅大约4%，现报18836元/千克。",
