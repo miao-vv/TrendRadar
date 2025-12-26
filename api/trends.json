@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T15:20:33.315554+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2025-12-26T16:24:32.742927+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -51,8 +51,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时23分 ~ 15时20分]"
+          "appearance_count": 7,
+          "time_info": "[11时23分 ~ 16时24分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）黄金ETF持仓报告",
@@ -197,6 +197,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "泰国央行行长Vitai：由于与美国达成的协议，泰国央行不能操纵泰铢。 线上黄金交易推动泰铢上涨。",
+          "url": "https://wallstreetcn.com/livenews/3027117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
           "title": "现货黄金重回4500美元/盎司之上，日涨幅近0.5%。",
           "url": "https://flash.jin10.com/detail/20251226080706585800",
           "source": "金十数据",
@@ -265,8 +276,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 15时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 16时24分]"
         }
       ]
     },
