@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T22:18:19.964528+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2025-12-26T23:19:13.368092+08:00",
+  "total_titles_processed": 1833,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时20分 ~ 22时18分]"
+          "appearance_count": 11,
+          "time_info": "[17时20分 ~ 23时19分]"
         },
         {
           "title": "圣诞美欧韩股休市，离岸人民币破7，黄金失守4500美元，沪银涨近4%续创新高",
@@ -343,7 +343,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
