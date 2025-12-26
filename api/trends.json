@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T19:17:04.713476+08:00",
-  "total_titles_processed": 1499,
+  "generated_at": "2025-12-26T20:36:26.805935+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时23分 ~ 16时24分]"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时20分 ~ 20时36分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）黄金ETF持仓报告",
@@ -108,15 +119,15 @@
           "time_info": "17时20分"
         },
         {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
+          "title": "上海黄金交易所黄金T+D 12月26日（周五）晚盘盘初暂无成交；<br/>上海黄金交易所白银T+D 12月26日（周五）晚盘盘初下跌0.02%报18365.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20251226200511156800",
+          "source": "金十数据",
           "ranks": [
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时20分 ~ 19时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "现货黄金站上4530美元/盎司，日内涨1.13%。",
@@ -128,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "据媒体报道，乌兹别克斯坦计划到2030年将黄金产量提高至175吨。",
+          "url": "https://flash.jin10.com/detail/20251226195252104800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "现货黄金涨至4530美元/盎司上方，再创历史新高。 现货白银突破75美元/盎司，再创历史新高。",
@@ -192,7 +214,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -225,7 +247,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -258,7 +280,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
