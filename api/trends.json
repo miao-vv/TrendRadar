@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T00:21:26.700319+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-28T01:15:14.580222+08:00",
+  "total_titles_processed": 346,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "中产涌入海南抢黄金",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%BA%A7%E6%B6%8C%E5%85%A5%E6%B5%B7%E5%8D%97%E6%8A%A2%E9%BB%84%E9%87%91",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "金饰价格破1400元黄金回收加工却遇冷",
           "url": "https://www.toutiao.com/trending/7588294573819101226/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "全线爆发！黄金、白银、铂金齐创历史新高，贵金属走势为何这么牛？",
@@ -48,8 +50,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         },
         {
           "title": "中产涌入海南抢黄金",
@@ -59,8 +61,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时15分]"
         }
       ]
     }
