@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-27T17:18:26.183565+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2025-12-27T18:18:00.977230+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
       "match_count": 14,
       "titles": [
+        {
+          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时31分 ~ 18时18分]"
+        },
         {
           "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
           "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
@@ -33,20 +47,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时18分]"
-        },
-        {
-          "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32263936",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时31分 ~ 17时18分]"
         },
         {
           "title": "中国黄金集团内蒙古矿业有限公司“7.23”较大坠落事故调查报告公布。",
