@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-29T06:18:06.984776+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2025-12-29T07:17:32.002879+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "现货黄金周一高开，现报4548美元/盎司，逼近新高。",
+          "url": "https://flash.jin10.com/detail/20251229070258211800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
         {
           "title": "黄金投资者周报上新！",
           "url": "https://flash.jin10.com/detail/20251228200000001800",
@@ -18,6 +29,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 04时20分]"
+        },
+        {
+          "title": "金十图示：2025年12月29日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20251229064707729800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         }
       ]
     }
