@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T09:30:31.766391+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2025-12-28T11:45:48.704193+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             10,
             4,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 09时30分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 11时45分]"
         },
         {
           "title": "金饰价格破1400元黄金回收加工却遇冷",
@@ -53,11 +54,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 09时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 11时45分]"
         },
         {
           "title": "中产涌入海南抢黄金",
@@ -70,6 +72,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 03时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
+          "url": "https://flash.jin10.com/detail/20251228100400527800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         }
       ]
     }
