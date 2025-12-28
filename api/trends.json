@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T07:17:16.910936+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2025-12-28T09:30:31.766391+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 09时30分]"
         },
         {
           "title": "中产涌入海南抢黄金",
@@ -25,11 +26,12 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 07时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 09时30分]"
         },
         {
           "title": "金饰价格破1400元黄金回收加工却遇冷",
@@ -50,11 +52,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32263916",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 02时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 09时30分]"
         },
         {
           "title": "中产涌入海南抢黄金",
