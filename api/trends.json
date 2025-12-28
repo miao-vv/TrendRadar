@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T21:28:06.076368+08:00",
-  "total_titles_processed": 1209,
+  "generated_at": "2025-12-28T22:17:18.069944+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时34分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时34分 ~ 22时17分]"
         },
         {
           "title": "50万黄金无人领 民警电话被打爆",
