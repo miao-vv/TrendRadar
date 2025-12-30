@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T17:23:17.567142+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2025-12-30T18:20:43.084768+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
           "ranks": [
             11,
             15,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时22分 ~ 17时23分]"
+          "appearance_count": 8,
+          "time_info": "[13时22分 ~ 18时20分]"
         },
         {
           "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，沪金跌破千元关口",
@@ -98,7 +99,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
