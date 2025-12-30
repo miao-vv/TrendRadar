@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T15:21:04.867193+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2025-12-30T16:26:16.426644+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -79,6 +79,18 @@
           "time_info": "09时21分"
         },
         {
+          "title": "黄金白银或现更严重下跌",
+          "url": "https://www.douyin.com/hot/2351629",
+          "source": "抖音",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时22分 ~ 16时26分]"
+        },
+        {
           "title": "现货白银小幅上涨0.58%报72.56美元/盎司。现货黄金小幅上涨0.16%。",
           "url": "https://wallstreetcn.com/livenews/3028369",
           "source": "华尔街见闻-快讯",
@@ -112,17 +124,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时21分 ~ 11时26分]"
-        },
-        {
-          "title": "黄金白银或现更严重下跌",
-          "url": "https://www.douyin.com/hot/2351629",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 15时21分]"
         },
         {
           "title": "现货黄金重挫约4.5%，创10月下旬以来最大单日跌幅，逼近4300美元",
@@ -310,8 +311,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 15时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 16时26分]"
         }
       ]
     },
@@ -329,8 +330,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时37分 ~ 15时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时37分 ~ 16时26分]"
         }
       ]
     }
