@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T06:17:37.262117+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2025-12-31T07:17:19.650632+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -25,9 +25,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "现货黄金短线下挫15美元，最新报4351美元/盎司；现货白银短线走低0.8美元，报76.58美元/盎司。",
@@ -40,6 +51,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时18分]"
+        },
+        {
+          "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，矿业股普跌",
+          "url": "https://wallstreetcn.com/articles/3762216",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时17分]"
         },
         {
           "title": "现货黄金回落至4360美元下方，涨幅收窄至不足0.6%。",
@@ -63,17 +85,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时19分]"
-        },
-        {
-          "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，矿业股普跌",
-          "url": "https://wallstreetcn.com/articles/3762216",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月30日（周二）晚盘收盘上涨0.19%报984.0元/克；<br/>上海黄金交易所白银T+D 12月30日（周二）晚盘收盘上涨4.62%报18791.0元/千克。",
