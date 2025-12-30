@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T13:22:44.712045+08:00",
-  "total_titles_processed": 1101,
+  "generated_at": "2025-12-30T14:28:59.787150+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "黄金",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "金属全线回落，黄金跌破4500，白银跌超3.7%，现货钯金跌超11%，内盘碳酸锂、铂主力合约跌停",
@@ -53,8 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时28分]"
         },
         {
           "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，沪金跌破千元关口",
@@ -126,6 +126,17 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
+          "title": "黄金白银或现更严重下跌",
+          "url": "https://www.douyin.com/hot/2351629",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时28分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 12月29日（周一）晚盘收盘下跌3.33%报975.6元/克；<br/>上海黄金交易所白银T+D 12月29日（周一）晚盘收盘下跌10.45%报17351.0元/千克。",
           "url": "https://flash.jin10.com/detail/20251230023059202800",
           "source": "金十数据",
@@ -138,15 +149,15 @@
           "time_info": "[03时15分 ~ 04时21分]"
         },
         {
-          "title": "黄金白银或现更严重下跌",
-          "url": "https://www.douyin.com/hot/2351629",
-          "source": "抖音",
+          "title": "现货白银涨超4%至75.14美元/盎司。现货黄金涨超1%报4379美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028577",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "14时28分"
         },
         {
           "title": "现货黄金突破4350美元/盎司，日内涨0.43%。",
@@ -171,6 +182,28 @@
           "time_info": "11时26分"
         },
         {
+          "title": "现货黄金突破4380美元/盎司，日内涨1.12%。",
+          "url": "https://flash.jin10.com/detail/20251230134118575800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "现货黄金日内涨1%报4374美元/盎司，现货白银涨3.3%报74.57美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
           "title": "现货白银日内跌幅达10.0%，报71.26美元/盎司。 现货黄金日内跌幅达5.0%，报4302美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3028239",
           "source": "华尔街见闻-快讯",
@@ -180,6 +213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.86吨，当前持仓量为1071.99吨。",
@@ -202,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "现货黄金短线走高超10美元，现报4376.24美元/盎司，日内涨1%。",
+          "url": "https://flash.jin10.com/detail/20251230132605610800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "现货黄金短线下挫超15美元，失守4330美元/盎司。",
@@ -253,8 +308,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 13时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 14时28分]"
         }
       ]
     },
@@ -268,11 +323,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时22分]"
+          "appearance_count": 3,
+          "time_info": "[12时37分 ~ 14时28分]"
         }
       ]
     }
