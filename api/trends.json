@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T04:20:57.000393+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2025-12-31T05:18:25.029077+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 04时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 05时18分]"
+        },
+        {
+          "title": "现货黄金短线下挫15美元，最新报4351美元/盎司；现货白银短线走低0.8美元，报76.58美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251231035005635800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时18分]"
         },
         {
           "title": "现货黄金回落至4360美元下方，涨幅收窄至不足0.6%。",
@@ -40,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时19分]"
-        },
-        {
-          "title": "现货黄金短线下挫15美元，最新报4351美元/盎司；现货白银短线走低0.8美元，报76.58美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251231035005635800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月30日（周二）晚盘收盘上涨0.19%报984.0元/克；<br/>上海黄金交易所白银T+D 12月30日（周二）晚盘收盘上涨4.62%报18791.0元/千克。",
@@ -87,11 +88,12 @@
           "url": "https://flash.jin10.com/detail/20251231031255557800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时18分]"
         }
       ]
     },
