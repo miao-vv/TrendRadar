@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T15:22:07.623443+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2025-12-31T16:26:15.001232+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
@@ -86,8 +86,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时17分 ~ 15时22分]"
+          "appearance_count": 12,
+          "time_info": "[07时17分 ~ 16时26分]"
         },
         {
           "title": "金属走势分化，白银反弹，黄金涨幅显著收窄，伦铜涨近4%，伦镍创14个月最高水平",
@@ -98,8 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 15时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时22分 ~ 16时26分]"
         }
       ]
     }
