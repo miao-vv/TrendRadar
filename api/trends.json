@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T05:17:43.578614+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-01-02T06:17:56.373694+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 06时17分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -28,11 +28,12 @@
             17,
             16,
             15,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 06时17分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -43,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 06时17分]"
         }
       ]
     },
@@ -61,11 +62,12 @@
             12,
             17,
             19,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时17分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
