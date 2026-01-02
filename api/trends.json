@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T19:17:29.990938+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-01-02T20:35:57.294007+08:00",
+  "total_titles_processed": 1421,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             2,
             3,
             12,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时28分 ~ 19时17分]"
+          "appearance_count": 12,
+          "time_info": "[11时28分 ~ 20时35分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -58,11 +59,12 @@
             11,
             19,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时22分 ~ 19时17分]"
+          "appearance_count": 22,
+          "time_info": "[00时22分 ~ 20时35分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -103,6 +105,33 @@
           "time_info": "[00时23分 ~ 06时17分]"
         },
         {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 20时35分]"
+        },
+        {
+          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
+          "url": "https://wallstreetcn.com/articles/3762451",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 20时35分]"
+        },
+        {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
           "url": "https://flash.jin10.com/detail/20260101230819093800",
           "source": "金十数据",
@@ -117,18 +146,6 @@
           "time_info": "[00时23分 ~ 03时15分]"
         },
         {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 19时17分]"
-        },
-        {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
           "url": "https://flash.jin10.com/detail/20260101230736481800",
           "source": "金十数据",
@@ -141,19 +158,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 03时15分]"
-        },
-        {
-          "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
-          "url": "https://wallstreetcn.com/articles/3762451",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时22分 ~ 19时17分]"
         }
       ]
     },
@@ -206,11 +210,12 @@
             10,
             13,
             11,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时28分 ~ 19时17分]"
+          "appearance_count": 12,
+          "time_info": "[11时28分 ~ 20时35分]"
         }
       ]
     }
