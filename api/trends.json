@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T09:23:32.396847+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-01-02T11:28:49.926042+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 09时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 11时28分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -25,11 +25,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 09时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 11时28分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -46,6 +47,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时22分 ~ 07时18分]"
+        },
+        {
+          "title": "UP主解读DeepSeek梁文锋新论文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
+          "url": "https://www.zhihu.com/question/1990084005744362243",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
@@ -96,6 +119,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 03时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 电视剧 动画 综艺",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "香港著名演员袁祥仁逝世，电影《功夫》中推销《如来神掌》成为经典",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32301978",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     }
