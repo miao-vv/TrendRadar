@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T07:18:12.640882+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-01-02T09:23:32.396847+08:00",
+  "total_titles_processed": 609,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 09时23分]"
+        },
+        {
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时18分]"
+          "time_info": "[00时22分 ~ 09时23分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -33,18 +45,6 @@
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时18分]"
-        },
-        {
-          "title": "DeepSeek梁文锋又发论文了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
           "time_info": "[00时22分 ~ 07时18分]"
         }
       ]
