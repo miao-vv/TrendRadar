@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-01-05T23:21:41.241450+08:00",
-  "total_titles_processed": 1968,
+  "generated_at": "2026-01-06T00:25:26.025370+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "黄金",
+      "match_count": 1,
       "titles": [
         {
-          "title": "尽管有OpenAI融资利好 分析师仍警告CoreWeave股票价值或将清零",
-          "url": "https://flash.jin10.com/detail/20260105200457445800",
-          "source": "金十数据",
+          "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "OpenAI巨额融资预期利好CoreWeave 分析师大幅上调目标价至68美元",
-          "url": "https://flash.jin10.com/detail/20260105200103118800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         }
       ]
     }
