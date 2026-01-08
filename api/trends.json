@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T15:22:59.708236+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-01-08T16:27:16.451430+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+          "url": "https://wallstreetcn.com/articles/3762755",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 16时27分]"
         },
         {
           "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时17分]"
-        },
-        {
-          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
-          "url": "https://wallstreetcn.com/articles/3762755",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时22分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
@@ -130,7 +130,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
