@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T05:16:31.063364+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-01-11T06:17:51.836518+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -30,8 +30,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -43,8 +43,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -54,8 +54,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -64,11 +64,12 @@
           "ranks": [
             21,
             22,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时25分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[02时25分 ~ 06时17分]"
         }
       ]
     }
