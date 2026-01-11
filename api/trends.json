@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T12:45:23.395935+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-01-11T13:23:30.140930+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时23分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -44,8 +44,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时23分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -81,11 +81,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时47分 ~ 12时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时47分 ~ 13时23分]"
         }
       ]
     },
