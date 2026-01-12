@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T21:40:58.825539+08:00",
-  "total_titles_processed": 1693,
+  "generated_at": "2026-01-12T22:23:50.132594+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时25分 ~ 21时40分]"
+          "appearance_count": 10,
+          "time_info": "[15时25分 ~ 22时23分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
@@ -118,9 +118,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 22时23分]"
         }
       ]
     }
