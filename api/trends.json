@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T20:40:54.066119+08:00",
-  "total_titles_processed": 1820,
+  "generated_at": "2026-01-13T21:39:50.901956+08:00",
+  "total_titles_processed": 1928,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时20分 ~ 20时40分]"
+          "appearance_count": 14,
+          "time_info": "[09时20分 ~ 21时39分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时20分 ~ 20时40分]"
+          "appearance_count": 14,
+          "time_info": "[09时20分 ~ 21时39分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -151,6 +151,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时15分]"
+        },
+        {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "谷歌今年将在越南研发并生产高端手机。",
@@ -313,8 +324,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时26分 ~ 20时40分]"
+          "appearance_count": 13,
+          "time_info": "[11时26分 ~ 21时39分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -326,8 +337,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时27分 ~ 20时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时27分 ~ 21时39分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
