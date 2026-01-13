@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T03:19:08.536991+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-01-14T04:22:11.981339+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时22分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时22分]"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -39,19 +39,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时22分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
           "url": "https://www.zhihu.com/question/1990762235694434081",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时28分 ~ 04时22分]"
         }
       ]
     },
@@ -68,8 +69,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时22分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -80,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 04时22分]"
         }
       ]
     }
