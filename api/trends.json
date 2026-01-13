@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T18:21:42.212251+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2026-01-13T19:19:08.786920+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 18时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时20分 ~ 19时19分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时20分 ~ 18时21分]"
+          "appearance_count": 12,
+          "time_info": "[09时20分 ~ 19时19分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -309,11 +309,12 @@
             3,
             4,
             1,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时26分 ~ 18时21分]"
+          "appearance_count": 11,
+          "time_info": "[11时26分 ~ 19时19分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文",
@@ -350,8 +351,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 19时19分]"
         }
       ]
     },
