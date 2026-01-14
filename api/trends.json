@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T06:20:39.865411+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-01-15T07:16:48.091669+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
@@ -91,8 +91,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时16分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -102,8 +102,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 07时16分]"
         }
       ]
     },
