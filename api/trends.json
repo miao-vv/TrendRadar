@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T21:39:24.149334+08:00",
-  "total_titles_processed": 2017,
+  "generated_at": "2026-01-14T22:23:19.399919+08:00",
+  "total_titles_processed": 2126,
   "failed_sources": [],
   "trends": [
     {
@@ -126,11 +126,12 @@
           "url": "https://www.zhihu.com/question/1994233409871050526",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时39分]"
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时23分]"
         },
         {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
