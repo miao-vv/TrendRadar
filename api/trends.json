@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T14:31:14.430016+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2026-01-14T15:23:58.641548+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
             8,
             9,
             6,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 14时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 15时23分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -84,11 +85,12 @@
             15,
             17,
             13,
-            28
+            28,
+            26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 14时31分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 15时23分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -117,7 +119,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         }
