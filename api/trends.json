@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T13:23:19.471607+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-01-16T14:31:24.395815+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时23分]"
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 14时31分]"
         },
         {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
