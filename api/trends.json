@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T15:18:23.583285+08:00",
-  "total_titles_processed": 886,
+  "generated_at": "2026-01-18T16:23:23.081355+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 16时23分]"
         },
         {
           "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
@@ -41,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时27分 ~ 16时23分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
