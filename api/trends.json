@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:16:45.471098+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-01-18T23:17:28.618539+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时27分 ~ 22时16分]"
+          "appearance_count": 11,
+          "time_info": "[14时27分 ~ 23时17分]"
         },
         {
           "title": "解读ChatGPT加入广告背后",
@@ -95,8 +95,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时16分]"
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时17分]"
         }
       ]
     }
