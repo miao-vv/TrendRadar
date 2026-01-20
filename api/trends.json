@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-01-20T09:23:39.656881+08:00",
-  "total_titles_processed": 769,
+  "generated_at": "2026-01-20T11:42:06.701533+08:00",
+  "total_titles_processed": 920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
+          "url": "https://www.cls.cn/detail/2262848",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 11时42分]"
+        },
+        {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
+        },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
           "url": "https://www.zhihu.com/question/63359251",
@@ -17,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 07时19分]"
-        },
-        {
-          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
-          "url": "https://www.cls.cn/detail/2262848",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
         },
         {
           "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
