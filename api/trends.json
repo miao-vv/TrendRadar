@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T11:42:06.701533+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-01-20T12:43:08.655192+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,29 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 12时43分]"
+        },
+        {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
           "url": "https://www.cls.cn/detail/2262848",
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 11时42分]"
-        },
-        {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 12时43分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
