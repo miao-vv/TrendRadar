@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T14:32:32.463674+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-01-20T15:26:04.452729+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 14时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 15时26分]"
         },
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 14时32分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 15时26分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
