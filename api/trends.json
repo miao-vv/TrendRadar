@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T21:44:40.931290+08:00",
-  "total_titles_processed": 1908,
+  "generated_at": "2026-01-20T22:28:51.589194+08:00",
+  "total_titles_processed": 2001,
   "failed_sources": [],
   "trends": [
     {
@@ -62,7 +62,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -73,7 +73,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时44分"
         },
@@ -105,8 +105,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 21时44分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 22时28分]"
         },
         {
           "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
