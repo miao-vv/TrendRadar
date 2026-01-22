@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T14:31:42.239539+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-01-22T15:25:42.034497+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
@@ -89,11 +89,12 @@
           "ranks": [
             13,
             14,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 15时25分]"
         },
         {
           "title": "高盛将2026年12月黄金价格预期上调500美元，至每盎司5400美元，原因是各国央行及交易所交易基金纷纷买入。",
