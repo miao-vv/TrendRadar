@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-23T21:41:16.102073+08:00",
-  "total_titles_processed": 2067,
+  "generated_at": "2026-01-23T22:23:18.461985+08:00",
+  "total_titles_processed": 2140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 7,
       "titles": [
+        {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时27分 ~ 22时23分]"
+        },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
           "url": "https://wallstreetcn.com/livenews/3042190",
@@ -28,19 +42,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时27分 ~ 21时41分]"
         },
         {
           "title": "谷歌、微软回应美国参议院成员们关于（涉及人工智能/数据中心）电力需求的质询。",
