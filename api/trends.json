@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T16:29:06.710665+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-01-26T17:32:13.179280+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             13,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时54分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 17时32分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -29,11 +30,12 @@
             11,
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时54分 ~ 16时29分]"
+          "appearance_count": 11,
+          "time_info": "[11时54分 ~ 17时32分]"
         }
       ]
     },
@@ -47,11 +49,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时32分 ~ 16时29分]"
+          "appearance_count": 7,
+          "time_info": "[14时32分 ~ 17时32分]"
         }
       ]
     }
