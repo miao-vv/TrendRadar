@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T20:41:40.947553+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2026-01-26T21:42:39.636913+08:00",
+  "total_titles_processed": 1704,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             9,
             7,
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时54分 ~ 20时41分]"
+          "appearance_count": 16,
+          "time_info": "[11时54分 ~ 21时42分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -72,7 +73,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
         }
