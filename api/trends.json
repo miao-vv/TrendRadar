@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T12:54:40.328603+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-01-26T13:32:10.150043+08:00",
+  "total_titles_processed": 921,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 13时32分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 12时54分]"
+          "appearance_count": 4,
+          "time_info": "[11时54分 ~ 13时32分]"
         }
       ]
     }
