@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-01-26T17:32:13.179280+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2026-01-26T18:24:08.849644+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
-        {
-          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
-          "url": "https://www.zhihu.com/question/1999025860699710314",
-          "source": "知乎",
-          "ranks": [
-            6,
-            13,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时54分 ~ 17时32分]"
-        },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
@@ -34,8 +20,23 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时54分 ~ 17时32分]"
+          "appearance_count": 13,
+          "time_info": "[11时54分 ~ 18时24分]"
+        },
+        {
+          "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
+          "url": "https://www.zhihu.com/question/1999025860699710314",
+          "source": "知乎",
+          "ranks": [
+            6,
+            13,
+            17,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时54分 ~ 18时24分]"
         }
       ]
     },
