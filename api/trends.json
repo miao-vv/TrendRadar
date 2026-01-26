@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T14:33:15.734331+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-01-26T15:26:21.456874+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 15时26分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时54分 ~ 14时33分]"
+          "appearance_count": 7,
+          "time_info": "[11时54分 ~ 15时26分]"
         }
       ]
     },
@@ -44,11 +44,12 @@
           "url": "https://www.zhihu.com/question/1993355026530317494",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时32分 ~ 14时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 15时26分]"
         }
       ]
     }
