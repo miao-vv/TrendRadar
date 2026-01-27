@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T05:16:17.243520+08:00",
-  "total_titles_processed": 589,
+  "generated_at": "2026-01-28T06:21:14.220659+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
@@ -59,7 +59,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
@@ -132,8 +132,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -144,8 +144,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 06时21分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -155,8 +155,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 05时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 06时21分]"
         }
       ]
     },
@@ -173,8 +173,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 06时21分]"
         }
       ]
     }
