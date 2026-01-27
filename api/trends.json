@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T06:21:14.220659+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-01-28T07:20:05.819166+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
@@ -132,8 +132,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -144,19 +144,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 07时20分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
           "url": "https://www.zhihu.com/question/1999468225642119587",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时20分]"
         }
       ]
     },
