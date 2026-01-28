@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T18:25:59.808498+08:00",
-  "total_titles_processed": 1691,
+  "generated_at": "2026-01-28T19:22:13.684679+08:00",
+  "total_titles_processed": 1782,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时25分 ~ 18时25分]"
+          "appearance_count": 15,
+          "time_info": "[09时25分 ~ 19时22分]"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
@@ -26,7 +26,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -96,7 +96,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -107,7 +107,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -118,7 +118,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -140,7 +140,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         }
@@ -159,11 +159,12 @@
             4,
             3,
             2,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[11时43分 ~ 19时22分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -247,7 +248,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -259,8 +260,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 18时25分]"
+          "appearance_count": 25,
+          "time_info": "[00时27分 ~ 19时22分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -280,11 +281,23 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时25分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时22分]"
+        },
+        {
+          "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
+          "url": "https://wallstreetcn.com/livenews/3045543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
