@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T20:43:31.843646+08:00",
-  "total_titles_processed": 1911,
+  "generated_at": "2026-01-28T21:46:24.888169+08:00",
+  "total_titles_processed": 2010,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时25分 ~ 20时43分]"
+          "appearance_count": 18,
+          "time_info": "[09时25分 ~ 21时46分]"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
@@ -282,11 +283,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 19时22分]"
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 21时46分]"
         },
         {
           "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
