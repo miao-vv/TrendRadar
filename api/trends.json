@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T21:46:24.888169+08:00",
-  "total_titles_processed": 2010,
+  "generated_at": "2026-01-28T22:27:21.903946+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -17,8 +17,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时25分 ~ 21时46分]"
+          "appearance_count": 19,
+          "time_info": "[09时25分 ~ 22时27分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
+          "url": "https://flash.jin10.com/detail/20260128220815725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
@@ -284,11 +295,12 @@
           "ranks": [
             4,
             6,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 21时46分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 22时27分]"
         },
         {
           "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
