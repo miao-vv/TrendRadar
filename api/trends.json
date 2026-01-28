@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T12:42:12.930336+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-01-28T13:26:21.368017+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 13时26分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -111,8 +112,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 12时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 13时26分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -189,8 +190,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 12时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 13时26分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -235,19 +236,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时27分 ~ 12时42分]"
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 13时26分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
           "url": "https://www.toutiao.com/trending/7600200790535310911/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 13时26分]"
         },
         {
           "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
