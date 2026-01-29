@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:41:48.125485+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-01-29T14:43:07.583317+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 14时43分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -34,7 +35,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -46,6 +47,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260129134256119800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         }
       ]
     },
@@ -60,11 +72,12 @@
           "ranks": [
             26,
             21,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 13时41分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 14时43分]"
         }
       ]
     },
