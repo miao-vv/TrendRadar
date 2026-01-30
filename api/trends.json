@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T15:38:33.883039+08:00",
-  "total_titles_processed": 1336,
+  "generated_at": "2026-01-30T16:34:26.499763+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
@@ -91,8 +91,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时40分 ~ 15时38分]"
+          "appearance_count": 19,
+          "time_info": "[00时40分 ~ 16时34分]"
         },
         {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
@@ -128,8 +128,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 15时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 16时34分]"
         }
       ]
     },
