@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T07:25:09.134745+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-01-30T09:47:16.415127+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -44,6 +44,17 @@
           "time_info": "[05时24分 ~ 06时25分]"
         },
         {
+          "title": "OpenAI计划四季度上市 已聘请新高管",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%AE%A1%E5%88%92%E5%9B%9B%E5%AD%A3%E5%BA%A6%E4%B8%8A%E5%B8%82+%E5%B7%B2%E8%81%98%E8%AF%B7%E6%96%B0%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
           "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
           "url": "https://flash.jin10.com/detail/20260130043431786800",
           "source": "金十数据",
@@ -79,11 +90,12 @@
             6,
             1,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 09时47分]"
         },
         {
           "title": "苹果CEO：将思考与谷歌公司（关于大模型Gemini）的合作。 苹果将继续独立地“开发一些自己的东西”。",
@@ -92,7 +104,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -121,8 +133,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 07时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 09时47分]"
         },
         {
           "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
