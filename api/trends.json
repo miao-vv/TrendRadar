@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T13:36:45.355347+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-01-31T14:34:56.290177+08:00",
+  "total_titles_processed": 951,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时36分]"
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时34分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -71,11 +72,12 @@
           "ranks": [
             9,
             16,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 13时36分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 14时34分]"
         }
       ]
     },
