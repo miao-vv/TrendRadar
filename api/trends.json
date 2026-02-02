@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T17:44:22.963870+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-02-02T18:41:49.566118+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
@@ -39,6 +39,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时39分 ~ 18时41分]"
+        },
+        {
           "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜、沪铝期货主力合约跌停",
           "url": "https://wallstreetcn.com/articles/3764699",
           "source": "华尔街见闻",
@@ -48,17 +59,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时46分 ~ 15时47分]"
-        },
-        {
-          "title": "风暴继续！黄金跌近4400美元关口、白银暴跌15%、沪镍、沪铜等十余种期货合约跌停",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时44分]"
         }
       ]
     },
@@ -77,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时25分 ~ 17时44分]"
+          "appearance_count": 18,
+          "time_info": "[00时25分 ~ 18时41分]"
         }
       ]
     },
