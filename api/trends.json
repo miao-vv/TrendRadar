@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T12:09:49.549228+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-02-04T13:45:40.909005+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -47,9 +47,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度现已提升40%",
+          "url": "https://wallstreetcn.com/livenews/3049580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "OpenAI：GPT-5.2/Codex模型的速度已提升40%",
+          "url": "https://flash.jin10.com/detail/20260204131636619800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时45分"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
@@ -72,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时45分]"
         },
         {
           "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
@@ -258,8 +280,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时49分 ~ 12时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时49分 ~ 13时45分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
