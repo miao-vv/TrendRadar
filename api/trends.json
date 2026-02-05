@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T06:24:02.999170+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-02-06T07:21:49.642523+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -104,8 +104,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时21分]"
         },
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
@@ -113,11 +113,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 06时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时43分 ~ 07时21分]"
         }
       ]
     }
