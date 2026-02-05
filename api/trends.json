@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T19:34:07.976198+08:00",
-  "total_titles_processed": 1742,
+  "generated_at": "2026-02-05T20:55:22.577268+08:00",
+  "total_titles_processed": 1863,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时48分 ~ 19时34分]"
+          "appearance_count": 14,
+          "time_info": "[09时48分 ~ 20时55分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -33,6 +33,18 @@
           "time_info": "[13时54分 ~ 19时34分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时48分 ~ 20时55分]"
+        },
+        {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
           "url": "https://www.cls.cn/detail/2281032",
           "source": "财联社热门",
@@ -44,17 +56,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时12分 ~ 16时39分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时48分 ~ 19时34分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -298,8 +299,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时48分 ~ 19时34分]"
+          "appearance_count": 8,
+          "time_info": "[15时48分 ~ 20时55分]"
         }
       ]
     },
@@ -331,7 +332,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         }
