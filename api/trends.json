@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T22:05:10.015764+08:00",
-  "total_titles_processed": 1984,
+  "generated_at": "2026-02-05T23:39:12.383597+08:00",
+  "total_titles_processed": 2107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -16,8 +16,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时48分 ~ 22时05分]"
+          "appearance_count": 18,
+          "time_info": "[09时48分 ~ 23时39分]"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[15时48分 ~ 23时39分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -31,19 +45,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[13时54分 ~ 19时34分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时48分 ~ 22时05分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -92,6 +93,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时24分]"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时04分 ~ 23时39分]"
         },
         {
           "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
@@ -166,17 +179,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时24分]"
-        },
-        {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时04分 ~ 22时05分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -285,6 +287,28 @@
           "time_info": "07时24分"
         },
         {
+          "title": "Gemini跌5%，该公司计划裁员，关闭多地的账号。",
+          "url": "https://wallstreetcn.com/livenews/3050752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
+          "title": "谷歌母公司Alphabet跌7%，创5月7日以来最差盘中表现。 该公司出现历史性财务里程碑：年营收首破4000亿美元大关。季度合并营收同比增长18%，全年营收同比增长15%。预计2026年资本支出将进一步扩大至1750亿-1850亿美元，同比翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3050751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
+        },
+        {
           "title": "Alphabet(GOOG.O)高管：谷歌云的积压订单环比增长55%，同比增长一倍多，截至第四季度末达到2400亿美元。",
           "url": "https://flash.jin10.com/detail/20260205055948666800",
           "source": "金十数据",
@@ -294,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "Gemini Space Station Inc.（GEMI）计划裁员至多200人，在全球员工总数占比大约25%。 预计将发生大约0.11亿美元费用。 将继续在美国和新加坡运营。 将退出欧洲和澳大利亚市场。",
+          "url": "https://wallstreetcn.com/livenews/3050744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时39分"
         }
       ]
     },
