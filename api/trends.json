@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T20:53:12.324392+08:00",
-  "total_titles_processed": 1864,
+  "generated_at": "2026-02-06T22:02:04.352184+08:00",
+  "total_titles_processed": 1990,
   "failed_sources": [],
   "trends": [
     {
@@ -131,8 +131,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时48分 ~ 20时53分]"
+          "appearance_count": 14,
+          "time_info": "[09时48分 ~ 22时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "《QQ 经典农场》已于 2 月 6 日上线，如何评价这款游戏？体验过的玩家觉得好玩吗？",
+          "url": "https://www.zhihu.com/question/2002745576580670133",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         }
       ]
     }
