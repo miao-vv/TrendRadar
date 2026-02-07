@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T12:06:40.311343+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-02-07T13:40:12.097436+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[09时45分 ~ 13时40分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -165,11 +165,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时45分 ~ 12时06分]"
+          "appearance_count": 3,
+          "time_info": "[09时45分 ~ 13时40分]"
         },
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
