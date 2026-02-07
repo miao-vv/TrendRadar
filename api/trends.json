@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T18:22:43.222775+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-02-07T19:19:58.515555+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时45分 ~ 18时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时45分 ~ 19时19分]"
         },
         {
           "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。（CNBC）",
@@ -214,8 +214,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 18时22分]"
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 19时19分]"
         }
       ]
     },
