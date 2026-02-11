@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T06:27:08.356206+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-02-12T07:29:53.656047+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时29分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时29分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时29分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时29分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -57,22 +57,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[01时06分 ~ 07时29分]"
         },
         {
           "title": "DeepSeek新模型来了？",
           "url": "https://wallstreetcn.com/articles/3765514",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 06时27分]"
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 07时29分]"
         }
       ]
     },
