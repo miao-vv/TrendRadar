@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T18:47:01.053821+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-02-11T19:43:05.570921+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
@@ -122,6 +122,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         }
       ]
     }
