@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T17:45:26.303762+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-02-12T18:42:37.258048+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
@@ -42,20 +42,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时06分 ~ 17时45分]"
-        },
-        {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时06分 ~ 17时45分]"
+          "appearance_count": 17,
+          "time_info": "[01时06分 ~ 18时42分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -69,8 +57,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时26分 ~ 17时45分]"
+          "appearance_count": 12,
+          "time_info": "[06时26分 ~ 18时42分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[01时06分 ~ 18时42分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
