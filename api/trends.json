@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T20:53:00.713048+08:00",
-  "total_titles_processed": 1822,
+  "generated_at": "2026-02-13T22:01:50.590763+08:00",
+  "total_titles_processed": 1943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "Deepseek被指变冷淡了",
@@ -22,6 +22,20 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时55分 ~ 09时57分]"
+        },
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时55分 ~ 22时01分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -58,20 +72,6 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[00时55分 ~ 19时29分]"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时55分 ~ 20时53分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
@@ -132,9 +132,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "DeepSeek也不想假装关心",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B9%9F%E4%B8%8D%E6%83%B3%E5%81%87%E8%A3%85%E5%85%B3%E5%BF%83%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         }
       ]
     },
