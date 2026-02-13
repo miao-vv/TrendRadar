@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T16:39:27.823466+08:00",
-  "total_titles_processed": 1396,
+  "generated_at": "2026-02-13T17:40:56.251924+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时55分 ~ 16时39分]"
+          "appearance_count": 21,
+          "time_info": "[00时55分 ~ 17时40分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -54,8 +54,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时55分 ~ 16时39分]"
+          "appearance_count": 21,
+          "time_info": "[00时55分 ~ 17时40分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -71,6 +71,19 @@
           "time_info": "[09时57分 ~ 13时58分]"
         },
         {
+          "title": "DeepSeek回应被指冷淡",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时01分 ~ 17时40分]"
+        },
+        {
           "title": "DeepSeek回应被指变冷淡",
           "url": "https://www.toutiao.com/trending/7606192815403437609/",
           "source": "今日头条",
@@ -78,18 +91,6 @@
             29,
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 16时39分]"
-        },
-        {
-          "title": "DeepSeek回应被指冷淡",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -104,8 +105,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时55分 ~ 16时39分]"
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 17时40分]"
         },
         {
           "title": "OpenAI指责DeepSeek“抄袭”背后",
