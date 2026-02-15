@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T02:32:02.360086+08:00",
-  "total_titles_processed": 370,
+  "generated_at": "2026-02-16T03:23:29.536065+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 02时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 03时23分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 02时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 03时23分]"
         }
       ]
     },
@@ -44,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 02时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 03时23分]"
         }
       ]
     },
@@ -62,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时25分 ~ 02时32分]"
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 03时23分]"
         }
       ]
     }
