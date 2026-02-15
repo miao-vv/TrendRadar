@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T12:23:08.497118+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-02-15T13:54:51.635234+08:00",
+  "total_titles_processed": 794,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时25分 ~ 12时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 13时54分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -57,6 +57,19 @@
           "time_info": "[00时25分 ~ 07时21分]"
         },
         {
+          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
+          "url": "https://wallstreetcn.com/articles/3765736",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 13时54分]"
+        },
+        {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
           "url": "https://www.cls.cn/detail/2290476",
           "source": "财联社热门",
@@ -64,20 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 12时23分]"
-        },
-        {
-          "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
-          "url": "https://wallstreetcn.com/articles/3765736",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 12时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时57分 ~ 13时54分]"
         }
       ]
     },
