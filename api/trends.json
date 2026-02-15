@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T14:47:57.857798+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-02-15T15:36:56.387693+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 14时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 15时36分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -46,17 +46,6 @@
           "time_info": "[00时25分 ~ 09时57分]"
         },
         {
-          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
-          "url": "https://wallstreetcn.com/livenews/3055539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 07时21分]"
-        },
-        {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
           "url": "https://wallstreetcn.com/articles/3765736",
           "source": "华尔街见闻",
@@ -67,8 +56,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 15时36分]"
         },
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -79,8 +68,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时57分 ~ 14时47分]"
+          "appearance_count": 6,
+          "time_info": "[09时57分 ~ 15时36分]"
+        },
+        {
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时21分]"
         }
       ]
     },
