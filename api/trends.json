@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T18:46:05.514766+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-02-16T19:38:46.960081+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时24分 ~ 18时46分]"
+          "appearance_count": 10,
+          "time_info": "[12时24分 ~ 19时38分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -122,8 +122,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时25分 ~ 18时46分]"
+          "appearance_count": 24,
+          "time_info": "[00时25分 ~ 19时38分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -147,11 +147,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 19时38分]"
         }
       ]
     },
