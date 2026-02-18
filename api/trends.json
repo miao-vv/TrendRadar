@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T06:30:44.207976+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-02-19T07:27:29.149488+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
     {
@@ -101,11 +101,12 @@
           "url": "https://flash.jin10.com/detail/20260219054611726800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时30分 ~ 07时27分]"
         },
         {
           "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
@@ -114,7 +115,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
         }
