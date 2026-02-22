@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T09:52:49.817863+08:00",
-  "total_titles_processed": 560,
+  "generated_at": "2026-02-22T12:15:13.554097+08:00",
+  "total_titles_processed": 692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "实测Gemini 3.1 Pro",
@@ -21,8 +21,47 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 12时15分]"
+        },
+        {
+          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
+          "url": "https://wallstreetcn.com/articles/3765938",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        },
+        {
+          "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
+          "url": "https://wallstreetcn.com/articles/3765927",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待当所有国产大模型都在 2026 春节撒钱抢用户时，DeepSeek 却默不作声继续奋战？",
+          "url": "https://www.zhihu.com/question/2004982651719812885",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
         }
       ]
     },
@@ -35,11 +74,12 @@
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时52分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 12时15分]"
         }
       ]
     }
