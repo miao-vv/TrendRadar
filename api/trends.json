@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-26T14:57:16.138943+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-02-26T15:52:04.758703+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时56分 ~ 15时52分]"
+        },
         {
           "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
           "url": "https://wallstreetcn.com/livenews/3059014",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时32分]"
-        },
-        {
-          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
-          "url": "https://www.cls.cn/detail/2295271",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时56分 ~ 14时57分]"
         },
         {
           "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
@@ -49,7 +50,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
@@ -60,7 +61,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
         },
