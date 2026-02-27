@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T14:49:29.668079+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-02-27T15:43:54.421555+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "谷歌推出最新图像模型Nano Banana 2",
@@ -79,6 +79,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时27分]"
+        },
+        {
+          "title": "谷歌的“豆包手机”来了？",
+          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "韩国批准谷歌的地图数据出口申请。",
@@ -192,11 +203,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            5
+            5,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 14时49分]"
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 15时43分]"
         },
         {
           "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
