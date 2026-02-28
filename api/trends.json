@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T22:19:54.587250+08:00",
-  "total_titles_processed": 2068,
+  "generated_at": "2026-02-28T23:19:44.948000+08:00",
+  "total_titles_processed": 2154,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时34分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[14时34分 ~ 23时19分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -154,6 +154,20 @@
           "time_info": "[03时31分 ~ 04时25分]"
         },
         {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时19分]"
+        },
+        {
           "title": "AI界的“冰火两重天”：Anthropic刚被封杀 OpenAI就拿下了五角大楼",
           "url": "https://www.cls.cn/detail/2298126",
           "source": "财联社热门",
@@ -164,19 +178,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时17分 ~ 21时35分]"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时19分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
@@ -247,11 +248,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时19分]"
         },
         {
           "title": "deepseek崩了",
