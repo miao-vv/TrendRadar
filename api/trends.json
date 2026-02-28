@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T16:25:29.390976+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-02-28T17:23:56.409259+08:00",
+  "total_titles_processed": 1517,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时26分 ~ 16时25分]"
+          "appearance_count": 13,
+          "time_info": "[05时26分 ~ 17时23分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -143,11 +143,12 @@
           "ranks": [
             8,
             16,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 17时23分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
