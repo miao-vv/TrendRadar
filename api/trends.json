@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T19:31:36.702430+08:00",
-  "total_titles_processed": 1795,
+  "generated_at": "2026-03-03T20:50:56.707426+08:00",
+  "total_titles_processed": 1900,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时37分 ~ 19时31分]"
+          "appearance_count": 7,
+          "time_info": "[16时37分 ~ 20时50分]"
         },
         {
           "title": "内部备忘录显示，美国国务院将内部聊天机器人所用模型从Anthropic切换至OpenAI。",
