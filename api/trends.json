@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T20:54:04.514117+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2026-03-05T22:02:12.252708+08:00",
+  "total_titles_processed": 1967,
   "failed_sources": [],
   "trends": [
     {
@@ -122,7 +122,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
@@ -136,6 +136,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 04时29分]"
+        },
+        {
+          "title": "阿里挖角谷歌DeepMind技术大牛",
+          "url": "https://www.toutiao.com/trending/7613743881837874697/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "美国总统特朗普：谷歌是一家好公司。",
