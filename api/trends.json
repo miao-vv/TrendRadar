@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T19:18:12.846060+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-03-07T20:39:56.578663+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 20时39分]"
         },
         {
           "title": "OpenAI发布AI代理安全工具 或冲击传统网络安全公司",
