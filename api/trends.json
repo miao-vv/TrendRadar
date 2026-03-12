@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-12T15:44:39.999204+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-03-12T16:39:10.088521+08:00",
+  "total_titles_processed": 1437,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌和特斯拉组建“电网利用联盟” AI缺电逻辑有望持续演绎",
+          "url": "https://www.cls.cn/detail/2310272",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
