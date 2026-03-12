@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T19:31:21.758059+08:00",
-  "total_titles_processed": 1729,
+  "generated_at": "2026-03-12T20:53:40.412363+08:00",
+  "total_titles_processed": 1847,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌和特斯拉组建“电网利用联盟” AI缺电逻辑有望持续演绎",
@@ -17,6 +17,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "谷歌：沉浸式导航今日起在美国全面上线，未来几个月将逐步扩大覆盖范围。",
+          "url": "https://flash.jin10.com/detail/20260312203342460800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 openrouter 上疑似 deepseek V4 的匿名模型 Hunter Alpha ？",
+          "url": "https://www.zhihu.com/question/2015404541256959842",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     }
