@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T23:26:59.024194+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-03-16T00:29:05.753510+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -12,46 +12,11 @@
           "url": "https://wallstreetcn.com/livenews/3070375",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "内测输给Gemini，还套壳？！Meta千亿自研大模型遭延期",
-          "url": "https://wallstreetcn.com/articles/3767525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 17时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国法官：马斯克使用氯胺酮的情况不得在OpenAI欺诈案审理中被探究",
-          "url": "https://wallstreetcn.com/livenews/3070282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时24分"
+          "time_info": "00时29分"
         }
       ]
     }
