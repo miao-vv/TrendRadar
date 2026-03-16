@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T19:44:13.403711+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-03-16T21:04:02.823168+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时29分 ~ 05时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
+          "url": "https://wallstreetcn.com/articles/3767569",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         }
       ]
     }
