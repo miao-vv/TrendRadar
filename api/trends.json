@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T04:37:21.149853+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-03-18T05:35:34.759350+08:00",
+  "total_titles_processed": 596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：GPT-5.4 Mini在ChatGPT、Codex、API上线。 在GPT-5.4中，GPT-5.4 Nano是最便宜的一款。",
@@ -20,6 +20,17 @@
           "time_info": "[01时58分 ~ 02时58分]"
         },
         {
+          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3071904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "OpenAI：GPT-5.4 mini 今天在 ChatGPT、Codex 和 API 中上线。针对编码、计算机使用、多模态理解和子代理进行了优化。速度是 GPT-5 mini 的两倍。GPT-5.4nano也从今天开始在API中提供。",
           "url": "https://flash.jin10.com/detail/20260318010850842800",
           "source": "金十数据",
@@ -29,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
+          "url": "https://flash.jin10.com/detail/20260318044954930800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
