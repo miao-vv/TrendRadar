@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-03-19T00:12:15.281883+08:00",
-  "total_titles_processed": 307,
-  "failed_sources": [],
+  "generated_at": "2026-03-19T02:01:45.312482+08:00",
+  "total_titles_processed": 398,
+  "failed_sources": [
+    "thepaper"
+  ],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
@@ -15,8 +17,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 00时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时11分 ~ 02时01分]"
         }
       ]
     },
@@ -31,7 +33,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
         }
@@ -51,6 +53,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 00时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时00分 ~ 02时01分]"
         }
       ]
     }
