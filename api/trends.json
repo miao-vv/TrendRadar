@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T19:34:09.203600+08:00",
-  "total_titles_processed": 1798,
+  "generated_at": "2026-03-19T20:57:32.914961+08:00",
+  "total_titles_processed": 1922,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,37 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时11分 ~ 15时45分]"
+        },
+        {
+          "title": "小米凌晨模型三连发：罗福莉称为智能体时代打造，曾被误认为DeepSeek V4",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32793883",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -67,26 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日本AI造假,套壳DeepSeek",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时11分 ~ 15时45分]"
         }
       ]
     },
