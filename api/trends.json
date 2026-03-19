@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-03-20T02:54:12.706577+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-03-20T03:45:03.763396+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌开始测试Gemini Mac版应用，以与ChatGPT和Claude竞争。",
+          "url": "https://flash.jin10.com/detail/20260320033049642800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "据Business Insider：谷歌告诉员工，公司正“更加倾向于”承接人工智能领域的国家安全业务。",
+          "url": "https://flash.jin10.com/detail/20260320020259710800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时54分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -15,25 +43,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 02时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据Business Insider：谷歌告诉员工，公司正“更加倾向于”承接人工智能领域的国家安全业务。",
-          "url": "https://flash.jin10.com/detail/20260320020259710800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时54分"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 03时45分]"
         }
       ]
     }
