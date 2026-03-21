@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T06:21:23.102551+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-03-22T07:22:00.915128+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 07时22分]"
         },
         {
           "title": "据The Information：ChatGPT将于未来几周向所有免费用户展示广告。",
@@ -29,6 +29,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金价格跌破4500美元，创43年最大单周跌幅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32805437",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         }
       ]
     }
