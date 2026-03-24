@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T05:35:47.717443+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-03-25T06:27:23.639370+08:00",
+  "total_titles_processed": 647,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时35分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时27分]"
         },
         {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
@@ -47,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时35分]"
+          "appearance_count": 3,
+          "time_info": "[04时38分 ~ 06时27分]"
         },
         {
           "title": "OpenAI料将从MGX、Coatue、Thrive募集大约100亿美元。（彭博）",
@@ -252,8 +254,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时04分 ~ 05时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时04分 ~ 06时27分]"
         }
       ]
     }
