@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T02:53:02.102951+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-03-26T03:45:12.608073+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 02时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 03时45分]"
         },
         {
           "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
@@ -48,7 +49,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         }
@@ -67,8 +68,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 03时45分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -76,11 +77,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 02时53分]"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 03时45分]"
         }
       ]
     }
