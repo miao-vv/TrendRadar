@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-25T15:07:37.275313+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-03-25T16:45:41.690733+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 24,
       "titles": [
-        {
-          "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
-          "url": "https://flash.jin10.com/detail/20260325043011532800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
         {
           "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
           "url": "https://www.zhihu.com/question/2020036375211157322",
@@ -28,8 +17,47 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 15时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 16时45分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 16时45分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            18,
+            19,
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 16时45分]"
+        },
+        {
+          "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
+          "url": "https://flash.jin10.com/detail/20260325043011532800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         },
         {
           "title": "OpenAI为何关停Sora",
@@ -52,33 +80,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时05分"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            18,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 15时07分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 15时07分]"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
