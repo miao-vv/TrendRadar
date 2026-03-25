@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T01:56:37.134286+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-03-26T02:53:02.102951+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -34,11 +34,23 @@
           "url": "https://wallstreetcn.com/livenews/3076836",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 02时53分]"
+        },
+        {
+          "title": "谷歌发言人：（就社交媒体成瘾案判决结果）我方不认同此判决，计划提起上诉。",
+          "url": "https://flash.jin10.com/detail/20260326022229112800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "02时53分"
         }
       ]
     },
@@ -55,19 +67,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 02时53分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
           "url": "https://wallstreetcn.com/livenews/3076838",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 02时53分]"
         }
       ]
     }
