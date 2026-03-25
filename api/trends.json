@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T17:52:01.262625+08:00",
-  "total_titles_processed": 1586,
+  "generated_at": "2026-03-25T18:45:32.611627+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
@@ -14,25 +14,12 @@
           "ranks": [
             13,
             4,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 17时52分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时54分 ~ 17时52分]"
+          "appearance_count": 7,
+          "time_info": "[12时19分 ~ 18时45分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -44,6 +31,20 @@
             19,
             22,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时54分 ~ 18时45分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
