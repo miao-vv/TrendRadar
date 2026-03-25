@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T16:45:41.690733+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-03-25T17:52:01.262625+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 16时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 17时52分]"
         },
         {
           "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
@@ -27,11 +27,12 @@
           "ranks": [
             8,
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 16时45分]"
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 17时52分]"
         },
         {
           "title": "OpenAI宣布关停Sora",
@@ -45,8 +46,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 16时45分]"
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 17时52分]"
         },
         {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
