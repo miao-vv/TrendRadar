@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T19:40:28.486468+08:00",
-  "total_titles_processed": 1777,
+  "generated_at": "2026-03-25T21:02:49.898366+08:00",
+  "total_titles_processed": 1884,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             19,
             22,
             16,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时54分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时54分 ~ 21时02分]"
         },
         {
           "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
