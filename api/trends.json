@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T12:40:13.815369+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-03-26T14:12:09.267810+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 12时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 14时12分]"
         },
         {
           "title": "谷歌在青少年社交媒体成瘾案中被判定负有责任。",
@@ -95,8 +95,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时08分 ~ 12时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时08分 ~ 14时12分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
@@ -125,8 +125,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时12分]"
         }
       ]
     }
