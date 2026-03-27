@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T06:29:30.724156+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-03-28T07:30:27.015633+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时30分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -31,8 +32,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时30分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -42,11 +43,12 @@
             15,
             13,
             14,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时30分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -60,8 +62,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时30分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -112,8 +114,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时30分]"
         }
       ]
     },
@@ -130,8 +132,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 06时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时30分]"
         }
       ]
     }
