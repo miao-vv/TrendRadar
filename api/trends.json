@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T20:59:17.132938+08:00",
-  "total_titles_processed": 1773,
+  "generated_at": "2026-03-27T22:14:23.847604+08:00",
+  "total_titles_processed": 1888,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             5,
             16,
             15,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时04分 ~ 20时59分]"
+          "appearance_count": 11,
+          "time_info": "[13时04分 ~ 22时14分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -34,11 +35,12 @@
             13,
             17,
             11,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时02分 ~ 20时59分]"
+          "appearance_count": 12,
+          "time_info": "[10时02分 ~ 22时14分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -60,11 +62,12 @@
             7,
             10,
             12,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时03分 ~ 20时59分]"
+          "appearance_count": 9,
+          "time_info": "[15时03分 ~ 22时14分]"
         },
         {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
