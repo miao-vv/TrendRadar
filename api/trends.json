@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T05:28:11.342209+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-03-29T06:25:59.531642+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -34,8 +34,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时25分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -47,8 +47,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 06时25分]"
         }
       ]
     }
