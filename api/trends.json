@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T16:36:00.104882+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-03-28T17:34:51.436945+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "全球内存股惨遭谷歌新算法冲击 瑞穗：恰恰是一个上车机会！",
@@ -37,8 +37,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时51分 ~ 16时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 17时34分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -55,8 +55,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时51分 ~ 16时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 17时34分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -73,8 +73,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时51分 ~ 16时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时51分 ~ 17时34分]"
         },
         {
           "title": "苹果(AAPL.O)：聘请前谷歌高管莉莲·林孔担任人工智能产品营销副总裁。",
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
+          "url": "https://www.zhihu.com/question/2020455049218712383",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
