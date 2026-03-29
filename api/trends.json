@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T19:26:50.320309+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-03-29T20:48:14.331433+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时59分 ~ 19时26分]"
+          "appearance_count": 11,
+          "time_info": "[14时59分 ~ 20时48分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -28,11 +28,12 @@
             13,
             17,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时05分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[10时05分 ~ 20时48分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -96,9 +97,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时26分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 20时48分]"
         },
         {
           "title": "谷歌称可节省内存的刷屏论文 TurboQuant 被 RaBitQ 作者指出存在严重错误",
