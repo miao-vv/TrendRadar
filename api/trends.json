@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T06:28:08.242575+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-03-30T07:29:44.578089+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时29分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -30,8 +30,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时29分]"
         }
       ]
     },
@@ -48,8 +48,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时29分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -62,8 +62,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 07时29分]"
         }
       ]
     }
