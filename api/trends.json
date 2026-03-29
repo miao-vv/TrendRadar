@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T18:30:51.714286+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-03-29T19:26:50.320309+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时59分 ~ 18时30分]"
+          "appearance_count": 9,
+          "time_info": "[14时59分 ~ 19时26分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -31,8 +31,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时05分 ~ 18时30分]"
+          "appearance_count": 11,
+          "time_info": "[10时05分 ~ 19时26分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -88,6 +88,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时59分 ~ 16时37分]"
+        },
+        {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         },
         {
           "title": "谷歌称可节省内存的刷屏论文 TurboQuant 被 RaBitQ 作者指出存在严重错误",
