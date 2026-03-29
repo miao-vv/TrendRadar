@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T17:34:18.979709+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-03-29T18:30:51.714286+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,24 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时59分 ~ 17时34分]"
+          "appearance_count": 8,
+          "time_info": "[14时59分 ~ 18时30分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7,
+            13,
+            17,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时05分 ~ 18时30分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -61,22 +77,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时28分]"
-        },
-        {
-          "title": "谷歌AI内存压缩算法遭质疑",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7,
-            13,
-            17,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时05分 ~ 17时34分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
