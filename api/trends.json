@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T19:56:42.637877+08:00",
-  "total_titles_processed": 1427,
+  "generated_at": "2026-03-30T21:12:17.362582+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "ranks": [
             13,
             15,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 19时56分]"
+          "appearance_count": 8,
+          "time_info": "[13时21分 ~ 21时12分]"
         },
         {
           "title": "DeepSeek公告服务出现重大中断",
@@ -185,8 +186,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 19时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 21时12分]"
         },
         {
           "title": "带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
