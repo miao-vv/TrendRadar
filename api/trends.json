@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T00:50:59.334351+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-02T01:47:41.039622+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3081032",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时47分]"
         }
       ]
     }
