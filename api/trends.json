@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T18:20:21.826111+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-04-01T19:51:26.078850+08:00",
+  "total_titles_processed": 1628,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,17 @@
           "time_info": "[04时40分 ~ 05时36分]"
         },
         {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 19时51分]"
+        },
+        {
           "title": "据Axios：OpenAI在最近的一次私募融资中向个人投资者出售了约30亿美元的股份。",
           "url": "https://flash.jin10.com/detail/20260401041102848800",
           "source": "金十数据",
@@ -76,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时01分"
         }
       ]
     },
@@ -145,8 +145,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时11分 ~ 18时20分]"
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 19时51分]"
         }
       ]
     },
