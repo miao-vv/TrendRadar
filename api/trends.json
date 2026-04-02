@@ -1,86 +1,44 @@
 {
-  "generated_at": "2026-04-02T23:58:59.404803+08:00",
-  "total_titles_processed": 1950,
+  "generated_at": "2026-04-03T00:59:02.597408+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "数亿美元OpenAI股份在二级市场无人接盘，20亿现金蓄势待投Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3081032",
+          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
+          "url": "https://wallstreetcn.com/livenews/3081712",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            28
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时59分"
         },
         {
-          "title": "图解OpenAI债务危机",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E8%A7%A3OpenAI%E5%80%BA%E5%8A%A1%E5%8D%B1%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek正处在一个变化的关口",
-          "url": "https://www.toutiao.com/trending/7624072229898161710/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周三（4月1日）纽约尾盘，现货黄金涨1.91%，报4757.17美元/盎司，整体持续走高，交投于4662.36-4793.11美元。 COMEX黄金期货涨2.27%，报4784.90美元/盎司，从4690美元持续走高至4821美元。 现货白银跌0.09%，报75.0995美元/盎司。 COMEX白银期货涨0.54%，报75.320美元/盎司。 COMEX铜期货跌0.49%，报5.6230美元/磅。 现货铂金涨0.58%，现货钯金持平。",
-          "url": "https://wallstreetcn.com/livenews/3081113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "万美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "文件显示，英特尔(INTC.O)计划向人工智能芯片初创公司Sambanova Systems再投资1500万美元。",
-          "url": "https://flash.jin10.com/detail/20260402064514420800",
+          "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
+          "url": "https://flash.jin10.com/detail/20260403000818112800",
           "source": "金十数据",
           "ranks": [
-            15
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时33分"
+          "time_info": "00时59分"
+        },
+        {
+          "title": "谷歌(GOOG.O)推出GEMMA 4，自本周起，任何拥有谷歌账号的用户均可免费使用最新视频生成模型VEO 3.1制作视频片段。",
+          "url": "https://flash.jin10.com/detail/20260403000526812800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时59分"
         }
       ]
     }
