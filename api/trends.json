@@ -1,127 +1,22 @@
 {
-  "generated_at": "2026-04-03T23:37:47.410389+08:00",
-  "total_titles_processed": 1963,
+  "generated_at": "2026-04-04T00:36:35.174580+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "谷歌官方发布最新模型Gemma4",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
           "source": "bilibili 热搜",
           "ranks": [
-            13,
-            10,
-            4,
-            16,
-            19,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时01分 ~ 23时37分]"
-        },
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时36分 ~ 16时02分]"
-        },
-        {
-          "title": "谷歌最新模型Gemma4发布",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
-          "url": "https://wallstreetcn.com/livenews/3081712",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时59分 ~ 01时52分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
-          "url": "https://flash.jin10.com/detail/20260403000818112800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "谷歌(GOOG.O)推出GEMMA 4，自本周起，任何拥有谷歌账号的用户均可免费使用最新视频生成模型VEO 3.1制作视频片段。",
-          "url": "https://flash.jin10.com/detail/20260403000526812800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3081739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 03时49分]"
-        },
-        {
-          "title": "市场消息：OpenAI收购TBPN。",
-          "url": "https://flash.jin10.com/detail/20260403012712890800",
-          "source": "金十数据",
-          "ranks": [
-            1,
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时52分 ~ 02时53分]"
-        },
-        {
-          "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
-          "url": "https://flash.jin10.com/detail/20260403014329436800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时53分"
+          "time_info": "00时36分"
         }
       ]
     }
