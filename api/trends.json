@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T20:57:50.881939+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-04-03T22:03:00.545328+08:00",
+  "total_titles_processed": 1841,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             10,
             4,
             16,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时01分 ~ 20时57分]"
+          "appearance_count": 9,
+          "time_info": "[16时01分 ~ 22时03分]"
         },
         {
           "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
