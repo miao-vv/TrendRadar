@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T12:15:36.052997+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-04-04T13:55:36.630556+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 12时15分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 13时55分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
