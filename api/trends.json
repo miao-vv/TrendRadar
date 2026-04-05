@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T23:29:34.439865+08:00",
-  "total_titles_processed": 1544,
+  "generated_at": "2026-04-06T00:34:12.551168+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -12,30 +12,11 @@
           "url": "https://www.zhihu.com/question/2022702768251564692",
           "source": "知乎",
           "ranks": [
-            12,
-            10,
-            14
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时36分 ~ 23时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "网传OpenAI“股权结构表”：微软“130亿美元投资”已升至“2283亿美元”",
-          "url": "https://wallstreetcn.com/articles/3769250",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 00时34分]"
         }
       ]
     }
