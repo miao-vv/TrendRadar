@@ -1,161 +1,22 @@
 {
-  "generated_at": "2026-04-07T23:05:21.747229+08:00",
-  "total_titles_processed": 1837,
+  "generated_at": "2026-04-08T00:55:17.295983+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "博通(AVGO.O)公司与谷歌(GOOG.O)达成至2031年的长期TPU和网络供应协议。",
-          "url": "https://flash.jin10.com/detail/20260407052400392800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时34分]"
-        },
-        {
-          "title": "博通与谷歌达成长期协议，合作开发并供应TPU",
-          "url": "https://flash.jin10.com/detail/20260407054343855800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时32分]"
-        },
-        {
-          "title": "英特尔正与亚马逊和谷歌洽谈，布局AI芯片封装",
-          "url": "https://wallstreetcn.com/livenews/3082940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 04时35分]"
-        },
-        {
-          "title": "博通公司与谷歌达成至2031年的长期TPU和网络供应协议。 与谷歌、Anthropic扩大合作。 Anthropic将从2027年起接入3.5吉瓦的TPU人工智能算力。",
-          "url": "https://wallstreetcn.com/livenews/3082983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "博通公司：与谷歌、Anthropic扩大合作；Anthropic将从2027年起接入3.5吉瓦的TPU人工智能算力。",
-          "url": "https://flash.jin10.com/detail/20260407052427059800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "印尼就谷歌涉嫌违反用户保护规定展开调查。",
-          "url": "https://flash.jin10.com/detail/20260407203455543800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "OpenAI：GPT5.4是处理复杂低级工程工作的最佳模型。在现有代码库中没有任何模型能与之媲美。",
-          "url": "https://flash.jin10.com/detail/20260407123739903800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "报道：OpenAI计划最早今年四季度IPO",
-          "url": "https://wallstreetcn.com/livenews/3082897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时42分]"
-        },
         {
           "title": "曝ChatGPT6本月发布",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            23,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时52分 ~ 23时05分]"
-        },
-        {
-          "title": "OpenAI敦促加州和特拉华州调查马斯克的“反竞争行为”。",
-          "url": "https://flash.jin10.com/detail/20260407054852467800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            27
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时32分]"
-        },
-        {
-          "title": "据CNBC：OpenAI计划最早于第四季度进行IPO。OpenAI首席执行官、首席财务官在筹集1220亿美元后对IPO“充满信心”。",
-          "url": "https://flash.jin10.com/detail/20260407000320677800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DRAM价格超越黄金价格",
-          "url": "https://wallstreetcn.com/livenews/3083473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     }
