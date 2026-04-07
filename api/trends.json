@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T18:09:40.509945+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2026-04-07T19:52:38.046305+08:00",
+  "total_titles_processed": 1587,
   "failed_sources": [],
   "trends": [
     {
@@ -69,7 +69,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI：GPT5.4是处理复杂低级工程工作的最佳模型。在现有代码库中没有任何模型能与之媲美。",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "曝ChatGPT6本月发布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     }
