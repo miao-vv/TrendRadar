@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-04-08T07:35:19.410001+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-04-08T10:04:41.819449+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek专家模式上线",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
+          "url": "https://www.zhihu.com/question/2024876426596291384",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -15,11 +43,12 @@
             18,
             14,
             16,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 07时35分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 10时04分]"
         }
       ]
     }
