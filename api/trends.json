@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-08T15:13:54.326139+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-04-08T16:58:13.921350+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
-        {
-          "title": "DeepSeek更新专家模式",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时08分 ~ 15时13分]"
-        },
         {
           "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
           "url": "https://www.zhihu.com/question/2024876426596291384",
@@ -28,8 +17,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 15时13分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 16时58分]"
+        },
+        {
+          "title": "DeepSeek更新专家模式",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9B%B4%E6%96%B0%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 15时13分]"
         },
         {
           "title": "DeepSeek重要更新：上线专家模式",
@@ -72,8 +72,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 15时13分]"
+          "appearance_count": 17,
+          "time_info": "[00时54分 ~ 16时58分]"
         }
       ]
     }
