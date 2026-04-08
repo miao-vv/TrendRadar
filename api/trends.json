@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-08T13:09:11.200284+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-04-08T15:13:54.326139+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 13时09分]"
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 15时13分]"
         },
         {
           "title": "DeepSeek 更新「快速模式」和「专家模式」，二者有何区别？这是否意味着 V4 快来了？",
@@ -24,22 +24,24 @@
           "source": "知乎",
           "ranks": [
             12,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 13时09分]"
+          "appearance_count": 4,
+          "time_info": "[10时04分 ~ 15时13分]"
         },
         {
           "title": "DeepSeek重要更新：上线专家模式",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E9%87%8D%E8%A6%81%E6%9B%B4%E6%96%B0%EF%BC%9A%E4%B8%8A%E7%BA%BF%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%BC%8F",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时08分 ~ 13时09分]"
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 15时13分]"
         },
         {
           "title": "DeepSeek专家模式上线",
@@ -70,8 +72,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 13时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 15时13分]"
         }
       ]
     }
