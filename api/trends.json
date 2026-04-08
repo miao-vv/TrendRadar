@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T06:36:26.912833+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-04-09T07:35:48.242941+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时43分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 07时35分]"
         },
         {
           "title": "OpenAI的CFO Sarah Friar：公司将在IPO中配售股票给散户们。（CNBC）",
@@ -40,7 +40,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时36分"
         }
