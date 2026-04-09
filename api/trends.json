@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T06:38:39.042240+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-04-10T07:36:01.333200+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        },
+        {
+          "title": "美国佛罗里达州总检察长对OpenAI发起调查。",
+          "url": "https://flash.jin10.com/detail/20260410061119660800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时36分"
         },
         {
           "title": "美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI",
