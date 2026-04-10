@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T21:47:11.195786+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2026-04-10T23:00:00.340108+08:00",
+  "total_titles_processed": 1767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "据The Information：OpenAI负责“星际之门”（Stargate）的高管Peter Hoeschele已离开公司。",
@@ -28,6 +28,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "据德国商报：消息人士称，OpenAI 将受欧盟《数字服务法》（DSA）监管，并被归类为超大型在线搜索引擎。",
+          "url": "https://flash.jin10.com/detail/20260410221958864800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时00分"
+        },
+        {
+          "title": "据德国商报：消息人士称，欧盟委员会计划未来对ChatGPT实施更严格的监管。",
+          "url": "https://flash.jin10.com/detail/20260410221739226800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时00分"
         },
         {
           "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
