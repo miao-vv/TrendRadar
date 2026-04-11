@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T13:59:06.075678+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-04-11T15:05:20.746104+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "ranks": [
             2,
             12,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 15时05分]"
         },
         {
           "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
@@ -60,11 +61,12 @@
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时05分]"
         },
         {
           "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
