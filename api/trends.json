@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T20:19:54.742466+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-04-14T22:49:08.960147+08:00",
+  "total_titles_processed": 1707,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "月薪3万，去内蒙草原给DeepSeek守机房",
+          "url": "https://wallstreetcn.com/articles/3769935",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 22时49分]"
         }
       ]
     },
