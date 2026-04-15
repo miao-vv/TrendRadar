@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-15T07:40:29.027073+08:00",
-  "total_titles_processed": 677,
+  "generated_at": "2026-04-15T10:07:41.533908+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
@@ -125,11 +125,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 07时40分]"
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 10时07分]"
         }
       ]
     }
