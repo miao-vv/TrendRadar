@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T05:57:38.583866+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-04-16T06:39:38.104393+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260416045257037800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时39分]"
         },
         {
           "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
@@ -53,11 +54,12 @@
           "ranks": [
             24,
             19,
-            28
+            28,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时57分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时39分]"
         },
         {
           "title": "DeepSeek高薪招聘数据中心人才",
@@ -81,11 +83,12 @@
           "url": "https://flash.jin10.com/detail/20260416050117948800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时39分]"
         }
       ]
     }
