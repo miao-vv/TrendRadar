@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T13:26:03.287923+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-04-17T15:28:13.497703+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时11分 ~ 13时26分]"
+          "appearance_count": 5,
+          "time_info": "[10时11分 ~ 15时28分]"
         },
         {
           "title": "OpenAI发布Codex更新",
@@ -104,11 +104,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E8%A1%97%E5%A4%B4%E9%9C%B8%E7%8E%8B%E8%BF%98%E5%8E%9F%E7%BB%8F%E5%85%B8%E9%80%A0%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 15时28分]"
         }
       ]
     }
