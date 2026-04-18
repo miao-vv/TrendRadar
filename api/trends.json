@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T22:50:48.785969+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2026-04-18T23:35:38.431499+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时04分 ~ 22时50分]"
+          "appearance_count": 11,
+          "time_info": "[13时04分 ~ 23时35分]"
         },
         {
           "title": "DeepSeek启动首次外部融资？最新消息来了：消息很有可能属实，目前完全投不进去",
@@ -26,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时50分]"
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时35分]"
         },
         {
           "title": "DeepSeek启动首次外部融资？机构人士：消息很有可能属实，目前完全投不进去",
@@ -38,11 +39,12 @@
           "source": "金十数据",
           "ranks": [
             13,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时50分]"
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时35分]"
         }
       ]
     },
