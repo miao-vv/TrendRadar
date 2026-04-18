@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T10:02:21.557973+08:00",
-  "total_titles_processed": 804,
+  "generated_at": "2026-04-18T13:04:53.340367+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
@@ -29,6 +29,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
+          "url": "https://wallstreetcn.com/articles/3770310",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         }
       ]
     },
