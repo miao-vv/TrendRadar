@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T19:34:11.448622+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-04-19T20:55:50.798090+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时26分 ~ 19时34分]"
+          "appearance_count": 10,
+          "time_info": "[13时26分 ~ 20时55分]"
         },
         {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
@@ -42,11 +43,12 @@
             11,
             8,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时15分 ~ 19时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时15分 ~ 20时55分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -97,6 +99,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时26分 ~ 15时15分]"
+        },
+        {
+          "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
+          "url": "https://www.zhihu.com/question/2029139595183367444",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
