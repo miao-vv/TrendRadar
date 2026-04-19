@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T18:37:13.854866+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-04-19T19:34:11.448622+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时26分 ~ 18时37分]"
+          "appearance_count": 9,
+          "time_info": "[13时26分 ~ 19时34分]"
         },
         {
           "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
@@ -45,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时15分 ~ 18时37分]"
+          "appearance_count": 10,
+          "time_info": "[10时15分 ~ 19时34分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -80,11 +80,12 @@
           "ranks": [
             21,
             24,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时50分 ~ 18时37分]"
+          "appearance_count": 7,
+          "time_info": "[16时50分 ~ 19时34分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
