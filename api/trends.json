@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-20T16:02:33.175707+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2026-04-20T18:45:16.102003+08:00",
+  "total_titles_processed": 1262,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek V4 即将发布并提出「去 CUDA 化」？",
@@ -48,6 +48,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时36分 ~ 13时38分]"
+        },
+        {
+          "title": "DeepSeek 被曝融资 20 亿，真实性如何？若属实，估值合理吗？一直说不融资的它，怎么突然松口了？",
+          "url": "https://www.zhihu.com/question/2029232145541980805",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         }
       ]
     },
@@ -73,7 +84,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
