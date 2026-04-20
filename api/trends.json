@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-20T07:33:20.093941+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-04-20T10:24:09.716818+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时33分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时24分]"
         },
         {
           "title": "DeepSeek 开启首次对外融资，其在多名核心研究员跳槽之下为何会选择此时，从商业资本角度你怎么看？",
@@ -64,6 +64,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时37分 ~ 02时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "电影 电视剧 动画 综艺",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周润发、张国荣、钟楚红经典之作《纵横四海》4K 修复版 5 月 3 日内地上映，你会去电影院看吗？",
+          "url": "https://www.zhihu.com/question/2028052679050485952",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 10时24分]"
         }
       ]
     }
