@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T03:17:21.933367+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-04-22T04:48:30.524580+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,29 @@
           "ranks": [
             17,
             6,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 03时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 04时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股周二收盘，三大股指集体收跌，道指跌0.59%，纳指跌0.59%，标普500指数跌0.63%，热门科技股多数下跌，苹果跌超2%，英伟达、谷歌、特斯拉跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260422040117439800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     },
