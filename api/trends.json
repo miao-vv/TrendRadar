@@ -1,108 +1,22 @@
 {
-  "generated_at": "2026-04-21T23:38:00.382619+08:00",
-  "total_titles_processed": 1723,
+  "generated_at": "2026-04-22T00:57:08.302513+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "C大普微：已实现对海外客户Google等客户的产品销售 2025年已通过Nvidia、xAI两家全球AI头部公司测试导入",
-          "url": "https://wallstreetcn.com/livenews/3091872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "谷歌：向在亚太地区向用户扩展Gemini在Chrome中的应用。",
-          "url": "https://flash.jin10.com/detail/20260421060257230800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时40分]"
-        },
-        {
-          "title": "Google Chrome中的Gemini扩展至更多亚太地区国家/市场，其服务范围扩展至澳大利亚、印度尼西亚及日本。",
-          "url": "https://wallstreetcn.com/livenews/3091420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI推出Codex Labs",
-          "url": "https://wallstreetcn.com/livenews/3091875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时18分"
-        },
-        {
-          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
-          "url": "https://wallstreetcn.com/livenews/3091685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek 被曝融资 20 亿，真实性如何？若属实，估值合理吗？一直说不融资的它，怎么突然松口了？",
-          "url": "https://www.zhihu.com/question/2029232145541980805",
-          "source": "知乎",
+          "title": "王健林与梁文锋的双重焦虑",
+          "url": "https://www.toutiao.com/trending/7631211289410276905/",
+          "source": "今日头条",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（4月20日）纽约尾盘，现货黄金跌0.18%，报4821.27美元/盎司，北京时间07:46刷新日低至4737.29美元，随后不断收复失地。 COMEX黄金期货跌0.85%，报4838.10美元/盎司。 现货白银跌1.43%，报79.7379美元/盎司。 COMEX白银期货2.53%，报80.350美元/盎司。 COMEX铜期货跌1.08%，报6.1070美元/磅。 现货铂金跌0.90%，现货钯金涨0.35%。",
-          "url": "https://wallstreetcn.com/livenews/3091334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时40分]"
+          "time_info": "[00时56分 ~ 00时57分]"
         }
       ]
     }
