@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-24T06:41:30.476081+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-04-24T07:42:30.518840+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "微软：OpenAI的GPT-5.5将于明天在微软Foundry正式发布。",
+          "url": "https://flash.jin10.com/detail/20260424064650416800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
         {
           "title": "OpenAI：将很快把GPT‑5.5和GPT‑5.5 PRO引入 API。",
           "url": "https://flash.jin10.com/detail/20260424020703790800",
@@ -76,11 +87,12 @@
             8,
             5,
             7,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时17分 ~ 06时41分]"
+          "appearance_count": 8,
+          "time_info": "[01时17分 ~ 07时42分]"
         }
       ]
     },
