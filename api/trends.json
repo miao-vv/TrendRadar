@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T19:36:54.326253+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-04-25T20:57:31.957831+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -215,6 +215,21 @@
           "time_info": "[05时44分 ~ 16时49分]"
         },
         {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时09分 ~ 20时57分]"
+        },
+        {
           "title": "深度解读DeepSeek-V4",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek-V4",
           "source": "bilibili 热搜",
@@ -227,21 +242,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 06时37分]"
-        },
-        {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时09分 ~ 19时36分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -271,6 +271,17 @@
           "time_info": "[00时52分 ~ 03时50分]"
         },
         {
+          "title": "DeepSeek V4 Pro全面测评",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Pro%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "太初元碁完成DeepSeek-V4深度适配与协同优化",
           "url": "https://flash.jin10.com/detail/20260425121506864800",
           "source": "金十数据",
@@ -294,6 +305,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时49分 ~ 19时36分]"
+        },
+        {
+          "title": "DeepSeekV4 尺度",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E5%B0%BA%E5%BA%A6&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时36分 ~ 20时57分]"
         },
         {
           "title": "DeepSeek V4 发布",
@@ -333,6 +356,17 @@
           "time_info": "[07时37分 ~ 10时04分]"
         },
         {
+          "title": "DeepSeek V4换芯片的背后",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E6%8D%A2%E8%8A%AF%E7%89%87%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "DeepSeek-V4“解锁”国产芯片",
           "url": "https://www.toutiao.com/trending/7632342182602477065/",
           "source": "今日头条",
@@ -342,17 +376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
-        },
-        {
-          "title": "DeepSeekV4 尺度",
-          "url": "https://s.weibo.com/weibo?q=DeepSeekV4%20%E5%B0%BA%E5%BA%A6&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
         },
         {
           "title": "华为DCS AI解决方案全面支持DeepSeek-V4",
@@ -392,8 +415,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时09分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[13时09分 ~ 20时57分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：就Coinbase与Gemini的行为起诉美国纽约。 （纽约）对“合约市场”监管过多。 纽约在预测市场领域的执法走得太远。（彭博法律Blaw）",
