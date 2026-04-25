@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T02:45:00.162044+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-04-26T03:42:30.151906+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2031047018336839206",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时42分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时38分 ~ 02时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时38分 ~ 03时42分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -38,8 +39,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时42分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -74,11 +75,12 @@
           "url": "https://wallstreetcn.com/articles/3770859",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 02时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 03时42分]"
         }
       ]
     }
