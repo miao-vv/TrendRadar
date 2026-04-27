@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T06:48:29.685672+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-04-28T07:51:46.696442+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -122,11 +122,12 @@
             7,
             5,
             6,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时51分]"
         },
         {
           "title": "媒体：梁文锋这一次要掀桌",
@@ -137,11 +138,12 @@
             7,
             19,
             5,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时51分]"
         },
         {
           "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
@@ -150,11 +152,12 @@
           "ranks": [
             12,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时51分]"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
@@ -183,19 +186,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时51分]"
         },
         {
           "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
           "url": "https://flash.jin10.com/detail/20260428054512315800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时51分]"
         }
       ]
     },
