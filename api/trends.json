@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-01T19:57:23.872688+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-05-01T21:16:04.285392+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 13,
       "titles": [
+        {
+          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时51分 ~ 21时16分]"
+        },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
           "url": "https://wallstreetcn.com/articles/3771319",
@@ -21,16 +33,18 @@
           "time_info": "[01时17分 ~ 07时51分]"
         },
         {
-          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            1
+            11,
+            5,
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时51分 ~ 19时57分]"
+          "appearance_count": 9,
+          "time_info": "[06时51分 ~ 21时16分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -45,17 +59,17 @@
           "time_info": "[01时17分 ~ 10时43分]"
         },
         {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            5,
-            4
+            10,
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时51分 ~ 19时57分]"
+          "appearance_count": 5,
+          "time_info": "[16时59分 ~ 21时16分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -68,19 +82,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时17分 ~ 05时56分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时59分 ~ 19时57分]"
         },
         {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
@@ -156,7 +157,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
         }
@@ -175,11 +176,12 @@
             3,
             9,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时17分 ~ 19时57分]"
+          "appearance_count": 15,
+          "time_info": "[01时17分 ~ 21时16分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
