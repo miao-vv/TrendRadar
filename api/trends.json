@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T18:25:22.176784+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-05-01T19:57:23.872688+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时51分 ~ 18时25分]"
+          "appearance_count": 7,
+          "time_info": "[06时51分 ~ 19时57分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时51分 ~ 18时25分]"
+          "appearance_count": 7,
+          "time_info": "[06时51分 ~ 19时57分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -70,6 +70,19 @@
           "time_info": "[01时17分 ~ 05时56分]"
         },
         {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 19时57分]"
+        },
+        {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
           "url": "https://wallstreetcn.com/articles/3771342",
           "source": "华尔街见闻",
@@ -80,18 +93,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时51分 ~ 10时43分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 18时25分]"
         },
         {
           "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
@@ -147,6 +148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "美国五角大楼宣布达成网络人工智能相关协议，已与SpaceX、OpenAI、谷歌(GOOG.O)和英伟达(NVDA.O)签署协议。",
+          "url": "https://flash.jin10.com/detail/20260501193320957800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         }
       ]
     },
@@ -162,11 +174,12 @@
             2,
             3,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时17分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[01时17分 ~ 19时57分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
