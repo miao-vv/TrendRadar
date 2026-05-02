@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T01:42:00.310165+08:00",
-  "total_titles_processed": 356,
+  "generated_at": "2026-05-03T02:55:21.650610+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时55分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -44,8 +44,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时42分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时55分]"
         }
       ]
     }
