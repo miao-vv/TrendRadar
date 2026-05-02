@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T22:43:47.554799+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2026-05-02T23:43:08.715551+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
@@ -110,8 +110,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时42分 ~ 22时43分]"
+          "appearance_count": 7,
+          "time_info": "[19时42分 ~ 23时43分]"
         },
         {
           "title": "马斯克承认蒸馏ChatGPT",
