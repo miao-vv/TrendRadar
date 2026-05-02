@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T21:03:12.507847+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-05-02T22:43:47.554799+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
@@ -103,6 +103,17 @@
           "time_info": "[13时34分 ~ 19时43分]"
         },
         {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时42分 ~ 22时43分]"
+        },
+        {
           "title": "马斯克承认蒸馏ChatGPT",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
           "source": "bilibili 热搜",
@@ -125,17 +136,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时34分 ~ 18时48分]"
-        },
-        {
-          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
-          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时42分 ~ 21时03分]"
         },
         {
           "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
