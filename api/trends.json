@@ -1,40 +1,22 @@
 {
-  "generated_at": "2026-05-04T21:53:07.006603+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-05-05T00:01:45.327941+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek员工为何不加班",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时33分 ~ 17时15分]"
-        }
-      ]
-    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI与私募巨头敲定100亿美元合资协议",
-          "url": "https://wallstreetcn.com/livenews/3098487",
-          "source": "华尔街见闻-快讯",
+          "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771533",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "00时01分"
         }
       ]
     }
