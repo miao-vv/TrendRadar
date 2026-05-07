@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T07:46:20.270803+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2026-05-07T10:34:01.021473+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "UP主优化DeepSeek V4",
@@ -19,6 +19,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时05分 ~ 07时46分]"
+        },
+        {
+          "title": "国产大模型开启融资热：DeepSeek被曝投后估值或达450亿美元",
+          "url": "https://wallstreetcn.com/articles/3771667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
+        },
+        {
+          "title": "国资被曝领投DeepSeek首轮融资",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B5%84%E8%A2%AB%E6%9B%9D%E9%A2%86%E6%8A%95DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         },
         {
           "title": "梁文锋留住97%员工",
@@ -68,7 +90,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
