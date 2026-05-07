@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T16:56:15.945517+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2026-05-07T19:09:49.222568+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 16时56分]"
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 19时09分]"
         },
         {
           "title": "国资被曝领投DeepSeek首轮融资",
