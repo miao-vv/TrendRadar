@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T06:57:06.102072+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-05-09T07:55:27.735654+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
@@ -19,17 +19,6 @@
           "time_info": "03时13分"
         },
         {
-          "title": "AMD收涨超11%，今年股价已经翻倍，苹果收涨2%，谷歌A涨0.7%",
-          "url": "https://wallstreetcn.com/livenews/3100943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        },
-        {
           "title": "谷歌(GOOG.O)旗下的Isomorphic Labs将筹集超过20亿美元的新资金。",
           "url": "https://flash.jin10.com/detail/20260509024606066800",
           "source": "金十数据",
@@ -39,6 +28,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "AMD收涨超11%，今年股价已经翻倍，苹果收涨2%，谷歌A涨0.7%",
+          "url": "https://wallstreetcn.com/livenews/3100943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时57分 ~ 07时55分]"
         },
         {
           "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
