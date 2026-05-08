@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-05-08T15:30:13.975327+08:00",
-  "total_titles_processed": 1113,
-  "failed_sources": [
-    "zhihu"
-  ],
+  "generated_at": "2026-05-08T17:15:14.293619+08:00",
+  "total_titles_processed": 1260,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
@@ -21,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时22分 ~ 15时30分]"
+          "appearance_count": 11,
+          "time_info": "[02时22分 ~ 17时15分]"
         },
         {
           "title": "OpenAI发布三款实时音频模型",
@@ -54,7 +52,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时30分"
         },
