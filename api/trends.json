@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T07:55:27.735654+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-05-09T10:34:09.966120+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
+          "url": "https://wallstreetcn.com/articles/3771864",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时33分 ~ 10时34分]"
         }
       ]
     }
