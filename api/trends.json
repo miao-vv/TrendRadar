@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T22:50:06.687527+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2026-05-10T23:51:10.390417+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,12 @@
             16,
             17,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时51分 ~ 22时50分]"
+          "appearance_count": 21,
+          "time_info": "[00时51分 ~ 23时51分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -38,6 +39,18 @@
           "time_info": "[10时37分 ~ 18时11分]"
         },
         {
+          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
+          "url": "https://www.zhihu.com/question/2036432998422115875",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时49分 ~ 23时51分]"
+        },
+        {
           "title": "DeepSeek被曝融资500亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -49,17 +62,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时08分 ~ 18时11分]"
-        },
-        {
-          "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
-          "url": "https://www.zhihu.com/question/2036432998422115875",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时49分 ~ 22时50分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -152,8 +154,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时10分 ~ 22时50分]"
+          "appearance_count": 6,
+          "time_info": "[21时10分 ~ 23时51分]"
         }
       ]
     }
