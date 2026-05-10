@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T19:48:40.557856+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-05-10T21:11:06.564629+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 19时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 21时11分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -68,7 +68,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         }
@@ -76,7 +76,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -131,6 +131,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时56分 ~ 10时37分]"
+        },
+        {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时10分 ~ 21时11分]"
         }
       ]
     }
