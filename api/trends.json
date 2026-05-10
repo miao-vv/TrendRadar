@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T16:51:49.849670+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-05-10T18:11:55.520999+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时51分 ~ 16时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时51分 ~ 18时11分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -28,11 +28,12 @@
           "ranks": [
             7,
             4,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时37分 ~ 16时51分]"
+          "appearance_count": 5,
+          "time_info": "[10时37分 ~ 18时11分]"
         },
         {
           "title": "DeepSeek被曝融资500亿",
@@ -40,11 +41,12 @@
           "source": "微博",
           "ranks": [
             20,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时51分]"
+          "appearance_count": 4,
+          "time_info": "[14时08分 ~ 18时11分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
