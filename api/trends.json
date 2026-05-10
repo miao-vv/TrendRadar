@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T14:09:08.039558+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-05-10T16:51:49.849670+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 14时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 16时51分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -26,11 +27,24 @@
           "source": "知乎",
           "ranks": [
             7,
-            4
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时37分 ~ 16时51分]"
+        },
+        {
+          "title": "DeepSeek被曝融资500亿",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时37分 ~ 14时09分]"
+          "time_info": "[14时08分 ~ 16时51分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -43,17 +57,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 10时37分]"
-        },
-        {
-          "title": "DeepSeek被曝融资500亿",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时08分 ~ 14时09分]"
         }
       ]
     },
@@ -68,11 +71,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 14时09分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 16时51分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
