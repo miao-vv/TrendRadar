@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T18:11:55.520999+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-05-10T19:48:40.557856+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -15,11 +15,12 @@
             11,
             13,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 18时11分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 19时48分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -59,6 +60,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 10时37分]"
+        },
+        {
+          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         }
       ]
     },
