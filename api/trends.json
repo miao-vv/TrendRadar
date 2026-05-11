@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T04:46:22.969810+08:00",
-  "total_titles_processed": 471,
+  "generated_at": "2026-05-12T06:04:47.933107+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
         },
@@ -33,7 +33,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Bain & Co.投资OpenAI Deployment Company。",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
+          "url": "https://flash.jin10.com/detail/20260512044813399800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         }
       ]
     },
