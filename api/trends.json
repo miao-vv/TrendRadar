@@ -1,128 +1,22 @@
 {
-  "generated_at": "2026-05-12T22:17:50.711324+08:00",
-  "total_titles_processed": 1453,
+  "generated_at": "2026-05-13T01:08:46.877665+08:00",
+  "total_titles_processed": 303,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI预计：在与微软的最新协议下，到2030年公司将节省970亿美元",
-          "url": "https://wallstreetcn.com/livenews/3102179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "Bain & Co.投资OpenAI Deployment Company。",
-          "url": "https://wallstreetcn.com/livenews/3101802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        },
-        {
-          "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
-          "url": "https://flash.jin10.com/detail/20260512044813399800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman：说到那些对我而言已经跨过某个临界点的东西，新版ChatGPT模型、个性风格以及个性化的组合，现在感觉已经像是一种全新的东西了。",
-          "url": "https://flash.jin10.com/detail/20260512065650611800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Deepseek分析145斤怎么瘦到100斤",
-          "url": "https://s.weibo.com/weibo?q=Deepseek%E5%88%86%E6%9E%90145%E6%96%A4%E6%80%8E%E4%B9%88%E7%98%A6%E5%88%B0100%E6%96%A4&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "黄仁勋今年砸向AI的钱快够买DeepSeek",
-          "url": "https://www.toutiao.com/trending/7638578461061156403/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌母公司Alphabet收跌3%，创3月份以来最大单日跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3101843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时46分"
-        },
-        {
-          "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
-          "url": "https://wallstreetcn.com/livenews/3101797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "现货白银日内涨幅扩大至7%，报85.97美元/盎司。现货黄金价格涨0.35%，报4731.85美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3101773",
+          "title": "SpaceX与谷歌洽谈太空轨道的数据中心合作事宜，谷歌还与其他火箭发射公司接触。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3102418",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "01时08分"
         }
       ]
     }
