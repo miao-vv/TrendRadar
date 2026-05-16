@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T22:54:33.531821+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-05-16T23:56:44.293259+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时52分 ~ 22时54分]"
+          "appearance_count": 10,
+          "time_info": "[13时52分 ~ 23时56分]"
         },
         {
           "title": "对冲基金经理比尔·阿克曼：我们出售了谷歌(GOOG.O)，购买了微软(MSFT.O)。",
@@ -143,8 +143,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时59分 ~ 22时54分]"
+          "appearance_count": 4,
+          "time_info": "[19时59分 ~ 23时56分]"
         },
         {
           "title": "市场消息：OpenAI告知员工将启动重组，整合全线业务产品。",
@@ -219,11 +219,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时56分]"
         }
       ]
     },
