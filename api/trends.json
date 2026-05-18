@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T07:55:17.861493+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-05-18T10:55:06.327584+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时55分]"
+        },
+        {
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         }
       ]
     }
