@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-20T08:02:11.143174+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-05-20T12:21:47.856392+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
           "url": "https://wallstreetcn.com/articles/3772658",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时21分]"
         },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -53,6 +54,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
+          "url": "https://www.cls.cn/detail/2376057",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "谷歌宣布推出Gemini Omni模型用于视频生成和编辑。",
           "url": "https://flash.jin10.com/detail/20260520011821368800",
           "source": "金十数据",
@@ -69,11 +81,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 08时02分]"
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 12时21分]"
         },
         {
           "title": "谷歌CEO：Gemini月活跃用户达9亿",
@@ -85,6 +98,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2376118",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "谷歌首席执行官：AI OVERVIEWS每月有25亿用户，AI MODE有10亿用户。Gemini 拥有9亿月活跃用户。",
@@ -140,6 +164,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
+          "url": "https://www.cls.cn/detail/2376047",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "2026 年 Google I/O 大会有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2040145697911956151",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "谷歌I/O大会要点总结",
@@ -203,7 +249,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -254,6 +300,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI担保给予开支水平的算力。",
+          "url": "https://wallstreetcn.com/livenews/3106231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "OpenAI投2.34亿美元在新加坡设立新AI实验室",
+          "url": "https://flash.jin10.com/detail/20260520115552905800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
+          "url": "https://wallstreetcn.com/livenews/3106163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -280,34 +365,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时03分 ~ 08时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI担保给予开支水平的算力。",
-          "url": "https://wallstreetcn.com/livenews/3106231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
-          "url": "https://wallstreetcn.com/livenews/3106163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时03分"
         }
       ]
     }
