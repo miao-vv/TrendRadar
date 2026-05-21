@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T04:52:02.328297+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-05-22T06:17:57.858135+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时14分 ~ 04时52分]"
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 06时17分]"
         },
         {
           "title": "如何看待 OpenAI 宣布 AI 证明困扰人类 80 年的单位距离问题？证明可信度如何？",
