@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T17:34:14.810262+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-05-21T20:43:18.474959+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
         {
           "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
           "url": "https://flash.jin10.com/detail/20260521030904258800",
@@ -140,8 +151,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 20时43分]"
         },
         {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
