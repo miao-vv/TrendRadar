@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T06:23:47.129891+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-21T08:05:38.213127+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -47,11 +47,12 @@
           "ranks": [
             16,
             15,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 08时05分]"
         },
         {
           "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
@@ -60,7 +61,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -121,7 +122,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         }
@@ -137,11 +138,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 08时05分]"
         }
       ]
     }
