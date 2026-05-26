@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T16:39:26.708255+08:00",
-  "total_titles_processed": 956,
+  "generated_at": "2026-05-27T00:39:57.900330+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
@@ -8,34 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待 DeepSeek 连续多次降价？",
-          "url": "https://www.zhihu.com/question/2033335202307647295",
+          "title": "如果 deepseek r1 推理激活参数只有 37B，是不是意味着 37B 的大模型就可以在垂直领域有效？",
+          "url": "https://www.zhihu.com/question/12005197517",
           "source": "知乎",
           "ranks": [
-            11,
-            14
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 16时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧盟计划对谷歌处以高达数亿欧元的罚款",
-          "url": "https://wallstreetcn.com/livenews/3109054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时06分]"
+          "appearance_count": 1,
+          "time_info": "00时39分"
         }
       ]
     }
