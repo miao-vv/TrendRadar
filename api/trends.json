@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-05-28T05:01:43.225410+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-05-28T06:46:23.188152+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据华尔街日报：谷歌(GOOG.O)员工因在预测市场Polymarket上进行内幕交易被起诉。",
+          "url": "https://flash.jin10.com/detail/20260528062625089800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -32,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[02时24分 ~ 06时46分]"
         }
       ]
     }
