@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T19:36:29.568062+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-05-28T23:43:05.587178+08:00",
+  "total_titles_processed": 1288,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 23时43分]"
         },
         {
           "title": "\"DeepSeek崩了\"冲上热搜，当前已恢复",
