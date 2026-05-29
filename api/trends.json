@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-05-30T01:33:42.802383+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-30T04:16:07.864125+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时16分]"
+        },
+        {
+          "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
+          "url": "https://flash.jin10.com/detail/20260530034751105800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -15,25 +44,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时33分"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时16分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
+          "title": "美国商品期货交易委员会（CFTC）：5月26日当周，投机者所持COMEX黄金净多头头寸增加2,543手合约，至96,931手合约。 所持COMEX白银净多头头寸减少至10,244手合约，创五周新低。 所持COMEX铜净多头头寸减少至71,974手合约，创三周新低。 所持NYMEX铂金净多头头寸降低至12,934手合约，创三周新低。 所持NYMEX钯金净空头头寸增加至3,773手合约，创八个月新高。",
+          "url": "https://wallstreetcn.com/livenews/3111609",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时33分"
+          "time_info": "04时16分"
         }
       ]
     }
