@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T06:27:38.666312+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-05-30T08:07:05.302783+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时33分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 08时07分]"
         },
         {
           "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
@@ -27,8 +28,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 06时27分]"
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 08时07分]"
         }
       ]
     },
@@ -45,8 +46,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时33分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[01时33分 ~ 08时07分]"
         }
       ]
     },
@@ -61,7 +62,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         }
