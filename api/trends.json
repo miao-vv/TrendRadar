@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T11:02:19.904544+08:00",
-  "total_titles_processed": 755,
+  "generated_at": "2026-06-05T15:14:22.240615+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
@@ -78,7 +78,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI的CEO Altman与美国总统特朗普谈论政府持股事宜。 美国官员就政府收购AI巨头们的股份开会。 佛蒙特州（vermont）独立议员即将给出的立法草案还建议，对OpenAI、Anthropic、马斯克旗下xAI、以及其他AI公司的股票征税50%。（Notus）",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         }
       ]
     }
