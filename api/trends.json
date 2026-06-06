@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T19:23:43.334613+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-06-06T21:24:51.018899+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
@@ -160,11 +160,12 @@
           "ranks": [
             13,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 19时23分]"
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 21时24分]"
         },
         {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
