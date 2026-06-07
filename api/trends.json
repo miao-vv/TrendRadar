@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T06:12:51.029203+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-06-07T08:02:41.760799+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3774025",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时12分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时02分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
@@ -24,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时12分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 08时02分]"
         }
       ]
     },
@@ -43,9 +45,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 08时02分]"
         },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
@@ -56,8 +58,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时07分 ~ 06时12分]"
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 08时02分]"
         }
       ]
     }
