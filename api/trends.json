@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T21:45:45.819021+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-06-07T23:23:21.520438+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时51分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[16时51分 ~ 23时23分]"
         },
         {
           "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
@@ -77,7 +77,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -136,8 +136,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时07分 ~ 21时45分]"
+          "appearance_count": 3,
+          "time_info": "[19时07分 ~ 23时23分]"
         }
       ]
     }
