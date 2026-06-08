@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T07:02:12.517289+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-06-08T11:36:38.460479+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -25,11 +25,51 @@
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 07时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 11时36分]"
+        },
+        {
+          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
+          "url": "https://www.cls.cn/detail/2392807",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "ChatGPT将迎最大改版",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B0%86%E8%BF%8E%E6%9C%80%E5%A4%A7%E6%94%B9%E7%89%88&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
+          "url": "https://www.cls.cn/detail/2392919",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     },
@@ -46,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 07时02分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 11时36分]"
         }
       ]
     }
