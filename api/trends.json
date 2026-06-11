@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T11:34:54.003403+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-06-11T16:43:13.619590+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时42分 ~ 16时43分]"
+        },
         {
           "title": "报道：Altman预计OpenAI将于未来一年内IPO",
           "url": "https://wallstreetcn.com/livenews/3117610",
