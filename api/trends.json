@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T11:34:04.198778+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-06-12T16:22:36.149444+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
@@ -102,6 +102,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我们真的需要又一个 DeepSeek V5 吗？",
+          "url": "https://www.zhihu.com/question/2031303606524186735",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
