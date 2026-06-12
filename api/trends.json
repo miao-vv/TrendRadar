@@ -1,121 +1,8 @@
 {
-  "generated_at": "2026-06-12T20:16:43.279000+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-06-13T00:15:50.024577+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
-          "url": "https://wallstreetcn.com/articles/3774400",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 11时34分]"
-        },
-        {
-          "title": "OpenAI将收购Ona 强化Codex代理能力",
-          "url": "https://flash.jin10.com/detail/20260612003612955800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2048342346048213458",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
-        },
-        {
-          "title": "高盛：SpaceX、OpenAI等超级IPO不会终结AI牛市",
-          "url": "https://www.cls.cn/detail/2397603",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 11时34分]"
-        },
-        {
-          "title": "据CNBC：OpenAI将收购Ona，以增强其人工智能编程助手Codex的能力。",
-          "url": "https://flash.jin10.com/detail/20260612003327546800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "美国财经媒体Semafor：OpenAI创始人奥尔特曼原定于本周末访问阿布扎比，但已取消行程。",
-          "url": "https://flash.jin10.com/detail/20260612195519793800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据The Information：Anthropic已讨论相关安排，由谷歌为其部分租赁义务提供财务担保。Anthropic已与多家美国开发商签署十余份意向书，计划租赁数据中心设施。",
-          "url": "https://flash.jin10.com/detail/20260612003239087800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "据The Information：Anthropic正寻求签署首批数据中心租赁协议，并向谷歌(GOOG.O)寻求资金支持。",
-          "url": "https://flash.jin10.com/detail/20260612003149002800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        },
-        {
-          "title": "谷歌母公司Alphabet旗下无人驾驶部门Waymo面向出行请求频率最高的人员首发每个月30美元的订阅服务。",
-          "url": "https://wallstreetcn.com/livenews/3118311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -128,42 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 20时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货黄金涨超3.4%，白银涨6%，纽约铜涨约3.1%",
-          "url": "https://wallstreetcn.com/livenews/3118402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "电子游戏史上有哪些全世界玩家一起共创的传奇事件？",
-          "url": "https://www.zhihu.com/question/2043732532701681460",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "00时15分"
         }
       ]
     }
