@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T16:22:36.149444+08:00",
-  "total_titles_processed": 1050,
+  "generated_at": "2026-06-12T20:16:43.279000+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "美国财经媒体Semafor：OpenAI创始人奥尔特曼原定于本周末访问阿布扎比，但已取消行程。",
+          "url": "https://flash.jin10.com/detail/20260612195519793800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         }
       ]
     },
@@ -116,9 +127,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 20时16分]"
         }
       ]
     },
