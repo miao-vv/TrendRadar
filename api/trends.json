@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-06-15T11:48:00.217236+08:00",
-  "total_titles_processed": 764,
-  "failed_sources": [],
+  "generated_at": "2026-06-15T18:02:21.602575+08:00",
+  "total_titles_processed": 994,
+  "failed_sources": [
+    "thepaper",
+    "bilibili-hot-search"
+  ],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
