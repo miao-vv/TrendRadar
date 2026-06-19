@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T08:24:22.725679+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-06-19T14:14:29.975873+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek正式上线识图模式",
@@ -23,11 +23,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时24分 ~ 14时14分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 的识图模式？",
+          "url": "https://www.zhihu.com/question/2032903059739767247",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时24分"
+          "time_info": "14时14分"
         }
       ]
     },
@@ -53,11 +65,12 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 08时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 14时14分]"
         }
       ]
     },
