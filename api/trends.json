@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-20T01:17:57.198554+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-20T03:45:20.241344+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌旗下Deepmind高级研究科学家John Jumper决定离开公司，加入Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260620030401727800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
         {
           "title": "Faker拍谷歌广告血赚7个亿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
@@ -15,8 +26,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 03时45分]"
         }
       ]
     }
