@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T08:05:53.327044+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-06-23T12:57:50.423483+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "谷歌母公司Alphabet收跌5%，此前该公司AI负责人Jumper离职。",
@@ -39,6 +50,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "德意志银行：如果美联储加息，黄金价格可能会跌至3800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260623121000175800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "国际金价“高台跳水” 金饰价格降了",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E2%80%9C%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4%E2%80%9D+%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E9%99%8D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "德意志银行：预计第三季度黄金价格将达到4300美元/盎司，第四季度将达4800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260623120926115800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         }
       ]
     },
