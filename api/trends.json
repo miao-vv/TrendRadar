@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T01:09:54.728151+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-26T03:54:39.334688+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
@@ -19,22 +19,23 @@
           "time_info": "01时09分"
         },
         {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时54分]"
+        },
+        {
           "title": "谷歌公司为安卓系统推出新款谷歌理财（Google Finance）APP。",
           "url": "https://wallstreetcn.com/livenews/3124775",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
