@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T06:05:01.998340+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-06-28T07:59:38.671229+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 07时59分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 07时59分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -57,11 +57,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 07时59分]"
         },
         {
           "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
@@ -69,11 +70,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时05分]"
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 07时59分]"
         }
       ]
     }
