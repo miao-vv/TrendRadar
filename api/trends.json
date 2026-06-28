@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T07:59:38.671229+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-06-28T12:08:45.814412+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
@@ -8,24 +8,25 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
+          "url": "https://wallstreetcn.com/articles/3775676",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 12时08分]"
+        },
+        {
           "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2054255700407055156",
           "source": "知乎",
           "ranks": [
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 07时59分]"
-        },
-        {
-          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
-          "url": "https://wallstreetcn.com/articles/3775676",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -49,7 +50,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时04分 ~ 07时59分]"
+        },
+        {
+          "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
+          "url": "https://wallstreetcn.com/articles/3775673",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     }
