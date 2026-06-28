@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T03:13:58.270655+08:00",
-  "total_titles_processed": 367,
+  "generated_at": "2026-06-29T04:58:39.616906+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时58分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 03时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 04时58分]"
         }
       ]
     }
