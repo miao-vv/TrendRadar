@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T13:28:19.124856+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-06-29T18:50:23.060945+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
@@ -49,6 +49,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时05分 ~ 13时28分]"
+        },
+        {
+          "title": "谷歌云将提供用于科学研究的专业AI模型",
+          "url": "https://flash.jin10.com/detail/20260629181622032800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         }
       ]
     }
