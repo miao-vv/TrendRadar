@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T19:43:27.195011+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-06-30T22:11:55.687416+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
@@ -27,9 +27,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 22时11分]"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
@@ -82,8 +82,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时01分 ~ 19时43分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 22时11分]"
         },
         {
           "title": "晋升道指难掩AI焦虑：谷歌股价涨近5% 仍陷算力短缺困局",
@@ -103,7 +103,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -114,7 +114,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
