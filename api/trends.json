@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T05:26:09.299364+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-07-01T07:08:23.130498+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 05时26分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时08分]"
         },
         {
           "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
@@ -63,11 +63,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 05时26分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时08分]"
         }
       ]
     },
