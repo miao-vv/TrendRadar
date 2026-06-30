@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T16:28:01.010297+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-06-30T19:43:27.195011+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时33分 ~ 05时23分]"
+        },
+        {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "DeepSeek启动成立来最大规模招聘",
@@ -60,18 +71,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 16时28分]"
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 19时43分]"
         },
         {
           "title": "晋升道指难掩AI焦虑：谷歌股价涨近5% 仍陷算力短缺困局",
@@ -83,6 +95,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时27分 ~ 16时28分]"
+        },
+        {
+          "title": "FactSet：公司将与谷歌云推出新的金融运营代理。",
+          "url": "https://flash.jin10.com/detail/20260630193124737800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "美国金融数据和分析服务提供商FactSet宣布与谷歌云建立合作关系。",
+          "url": "https://flash.jin10.com/detail/20260630193101223800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
