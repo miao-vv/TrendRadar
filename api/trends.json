@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T19:58:47.911565+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-07-01T22:39:14.770183+08:00",
+  "total_titles_processed": 1375,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -65,6 +65,36 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时08分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
+          "url": "https://www.zhihu.com/question/2054320593491715458",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -93,21 +123,19 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
-          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
+          "url": "https://www.zhihu.com/question/2053257491765581754",
           "source": "知乎",
           "ranks": [
-            1,
-            2,
-            9
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 07时08分]"
+          "appearance_count": 2,
+          "time_info": "[22时38分 ~ 22时39分]"
         }
       ]
     }
