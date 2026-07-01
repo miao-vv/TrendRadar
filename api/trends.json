@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T16:08:44.452240+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-07-01T19:58:47.911565+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 07时08分]"
+        },
+        {
+          "title": "谷歌发言人：（就瑞典法院反垄断案件裁决）我们不同意法院的决定，将考虑我们的法律选项。",
+          "url": "https://flash.jin10.com/detail/20260701194530894800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
@@ -75,7 +86,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
         }
