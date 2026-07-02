@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T10:52:33.631668+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2026-07-02T14:39:16.426105+08:00",
+  "total_titles_processed": 961,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 14时39分]"
         },
         {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
@@ -51,11 +51,12 @@
           "url": "https://www.cls.cn/detail/2414683",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 14时39分]"
         },
         {
           "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
