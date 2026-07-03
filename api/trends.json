@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-03T16:07:33.241507+08:00",
-  "total_titles_processed": 1063,
-  "failed_sources": [],
+  "generated_at": "2026-07-03T19:31:45.104779+08:00",
+  "total_titles_processed": 1244,
+  "failed_sources": [
+    "thepaper"
+  ],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
