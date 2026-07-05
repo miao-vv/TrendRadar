@@ -1,71 +1,22 @@
 {
-  "generated_at": "2026-07-05T22:31:37.657100+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-07-06T00:04:56.051702+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4,
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时22分 ~ 22时31分]"
-        },
-        {
-          "title": "Anthropic已启动自研AI芯片的前期研发工作，并与三星电子洽谈，计划将其作为潜在芯片代工合作方。此举效仿OpenAI，目的是加强对支撑自身大模型、成本高昂的算力硬件体系的自主掌控。",
-          "url": "https://flash.jin10.com/detail/20260705000623395800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么现在 DeepSeek 快速模式豆包化？",
-          "url": "https://www.zhihu.com/question/2050992107284964141",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时56分 ~ 07时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "招金黄金：若未来黄金价格大幅波动 将对公司经营业绩产生较大影响",
-          "url": "https://flash.jin10.com/detail/20260705160914671800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时08分"
+          "time_info": "00时04分"
         }
       ]
     }
