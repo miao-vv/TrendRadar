@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-07-06T23:52:42.762952+08:00",
-  "total_titles_processed": 1353,
+  "generated_at": "2026-07-07T02:09:19.039683+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
-          "url": "https://wallstreetcn.com/articles/3776218",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时04分 ~ 10时47分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
