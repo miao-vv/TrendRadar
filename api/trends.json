@@ -1,93 +1,61 @@
 {
-  "generated_at": "2026-07-09T21:46:54.351441+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-07-10T00:25:53.241718+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI面向全球发布语音模型GPT-Live，有两个版本。",
-          "url": "https://wallstreetcn.com/livenews/3130838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
-          "url": "https://www.zhihu.com/question/2058166406420460573",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 05时04分]"
-        },
-        {
-          "title": "OpenAI推出GPT-Live语音模型",
-          "url": "https://wallstreetcn.com/livenews/3130838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
-          "url": "https://flash.jin10.com/detail/20260709010430451800",
+          "title": "谷歌(GOOG.O)：推出广告主控制功能以披露生成性人工智能的使用；广告上可能会出现标签。",
+          "url": "https://flash.jin10.com/detail/20260710000936587800",
           "source": "金十数据",
           "ranks": [
-            23
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "00时25分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：向所有谷歌云客户推出AlphaEvolve人工智能代码优化代理。",
+          "url": "https://flash.jin10.com/detail/20260710000625543800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
+          "url": "https://wallstreetcn.com/livenews/3131470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058168270499176758",
-          "source": "知乎",
+          "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
+          "url": "https://flash.jin10.com/detail/20260709233707293800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 03时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "RedVelvet海报疑似Gemini生成",
-          "url": "https://s.weibo.com/weibo?q=RedVelvet%E6%B5%B7%E6%8A%A5%E7%96%91%E4%BC%BCGemini%E7%94%9F%E6%88%90&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时40分"
+          "time_info": "00时25分"
         }
       ]
     }
