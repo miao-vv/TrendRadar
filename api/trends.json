@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T16:19:35.067982+08:00",
-  "total_titles_processed": 1071,
+  "generated_at": "2026-07-10T19:48:09.579071+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 19时48分]"
         },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
@@ -81,7 +82,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
