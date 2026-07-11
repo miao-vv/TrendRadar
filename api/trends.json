@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T07:01:56.541121+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-07-11T08:05:01.002136+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
@@ -25,9 +25,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时05分]"
         },
         {
           "title": "苹果起诉OpenAI窃取其顶级商业机密，引发重磅诉讼",
@@ -38,8 +38,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时05分]"
         },
         {
           "title": "苹果起诉OpenAI涉嫌窃取商业机密",
@@ -50,8 +50,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时05分]"
         },
         {
           "title": "市场消息：法院文件显示，苹果(AAPL.O)起诉OpenAI，指控其挪用商业机密。",
@@ -62,8 +62,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时05分]"
         }
       ]
     },
@@ -81,8 +81,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时20分 ~ 08时05分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至7月7日当周，COMEX黄金投机者将净多头头寸减少1,964手至114,854手。COMEX白银投机者将净多头头寸减少616手至12,131手。COMEX铜投机者将净多头头寸减少970手至60,397手。",
