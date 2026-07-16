@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-07-16T16:06:30.668583+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2026-07-16T18:56:12.794900+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 9,
       "titles": [
+        {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 18时56分]"
+        },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
           "url": "https://wallstreetcn.com/livenews/3134592",
@@ -17,19 +31,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
-        },
-        {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 16时06分]"
         },
         {
           "title": "谷歌公司下周将允许第三方应用商城登陆其应用商店。 谷歌在与Epic的官司中撤销了要求修改法院判决的诉求。",
@@ -114,7 +115,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -154,6 +155,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时13分 ~ 16时06分]"
+        },
+        {
+          "title": "梁文锋打新长鑫科技",
+          "url": "https://www.toutiao.com/trending/7663049647610400299/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时55分 ~ 18时56分]"
         }
       ]
     }
