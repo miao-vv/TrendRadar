@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T19:56:46.155939+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-07-18T21:06:56.259293+08:00",
+  "total_titles_processed": 1423,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时49分 ~ 19时56分]"
+          "appearance_count": 11,
+          "time_info": "[07时49分 ~ 21时06分]"
         },
         {
           "title": "DeepSeek最新估值意外曝光",
@@ -49,7 +50,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时56分"
         }
