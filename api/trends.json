@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T06:45:06.592035+08:00",
-  "total_titles_processed": 491,
+  "generated_at": "2026-07-19T07:51:12.211785+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             16,
             15,
             11,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时51分]"
         },
         {
           "title": "Kimi K3重演“DeepSeek时刻”",
@@ -48,8 +49,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[00时53分 ~ 07时51分]"
         }
       ]
     },
@@ -64,9 +65,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时51分]"
         }
       ]
     }
