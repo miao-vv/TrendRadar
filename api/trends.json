@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T13:21:33.886470+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-07-18T15:43:11.308624+08:00",
+  "total_titles_processed": 1066,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -17,8 +17,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时49分 ~ 13时21分]"
+          "appearance_count": 6,
+          "time_info": "[07时49分 ~ 15时43分]"
+        },
+        {
+          "title": "DeepSeek准确估值意外曝光",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%87%86%E7%A1%AE%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
         }
       ]
     },
