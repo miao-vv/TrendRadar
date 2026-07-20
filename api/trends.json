@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T17:57:00.523563+08:00",
-  "total_titles_processed": 1223,
+  "generated_at": "2026-07-20T20:15:14.319444+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
+          "url": "https://www.zhihu.com/question/2059057378591613636",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 20时15分]"
         }
       ]
     },
