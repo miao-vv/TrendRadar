@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T01:28:53.242113+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-24T03:09:32.563672+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
@@ -12,27 +12,29 @@
           "url": "https://wallstreetcn.com/livenews/3139011",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
-          "url": "https://flash.jin10.com/detail/20260724011145043800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时09分]"
         },
         {
           "title": "OpenAI：在ChatGPT向美国用户推出健康功能。 用户可以安全地连接自己的健康信息。 用户可以获取苹果设备商的健康信息。 健康功能还支持医疗记录（病历）。",
           "url": "https://wallstreetcn.com/livenews/3139010",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时09分]"
+        },
+        {
+          "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
+          "url": "https://flash.jin10.com/detail/20260724011145043800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
@@ -98,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时09分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -109,8 +111,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时09分]"
         },
         {
           "title": "AI每赚1块钱，谷歌花出去2块",
@@ -120,19 +122,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时09分]"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
           "url": "https://www.zhihu.com/question/2063569251428819442",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时09分]"
         },
         {
           "title": "据福克斯商业：特朗普政府表示，欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定。",
