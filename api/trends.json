@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T16:58:51.194265+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-07-25T18:29:34.146610+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 11时23分]"
+        },
+        {
+          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://wallstreetcn.com/livenews/3139736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
@@ -65,6 +76,17 @@
           "time_info": "[00时34分 ~ 02时16分]"
         },
         {
+          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://flash.jin10.com/detail/20260725172016965800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
           "url": "https://wallstreetcn.com/livenews/3139592",
           "source": "华尔街见闻-快讯",
@@ -85,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "ChatGPT崩了",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         }
       ]
     },
