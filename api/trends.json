@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T18:42:20.842790+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-07-26T20:02:28.632146+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "url": "https://www.zhihu.com/question/2063587044526404438",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 20时02分]"
         },
         {
           "title": "英伟达“开放权重模型”公开信联署方翻倍至50个 谷歌等加入",
@@ -95,11 +96,12 @@
           "ranks": [
             8,
             14,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时58分 ~ 18时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 20时02分]"
         }
       ]
     }
