@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T08:01:14.373902+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-07-28T10:52:20.817247+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 08时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 10时52分]"
         },
         {
           "title": "英媒：英伟达押注OpenAI联合创始人的AI项目 投资50亿美元",
@@ -66,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时23分 ~ 08时01分]"
+          "appearance_count": 6,
+          "time_info": "[02时23分 ~ 10时52分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
