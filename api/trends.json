@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-30T17:28:35.772913+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-07-30T19:50:14.793451+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时53分 ~ 17时28分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 19时50分]"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时53分 ~ 14时24分]"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "微软(MSFT.O)：第四财季OpenAI投资对每股收益的影响为-7美分。",
