@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T21:10:35.882605+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-08-01T22:57:57.975833+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
@@ -35,18 +35,6 @@
           "time_info": "[01时47分 ~ 11时14分]"
         },
         {
-          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2066223484309434997",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 21时10分]"
-        },
-        {
           "title": "DeepSeek（官方 API 接入 Agent）居然会对用户说「我去吃饭了」、「我去睡了」，为啥会这样？",
           "url": "https://www.zhihu.com/question/2066223484309434997",
           "source": "知乎",
@@ -57,6 +45,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时14分 ~ 14时26分]"
+        },
+        {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 22时57分]"
         },
         {
           "title": "DeepSeek拟在内蒙古建超算中心",
@@ -121,8 +122,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 21时10分]"
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 22时57分]"
         },
         {
           "title": "DeepSeek V4 Flash对比",
@@ -153,7 +154,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
