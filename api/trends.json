@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T04:46:15.840225+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-08-02T05:54:03.520885+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 04时46分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 05时54分]"
         },
         {
           "title": "OpenAI 价格战",
@@ -43,8 +43,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时00分 ~ 04时46分]"
+          "appearance_count": 9,
+          "time_info": "[00时00分 ~ 05时54分]"
         }
       ]
     }
