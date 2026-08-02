@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T01:59:23.609465+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-08-03T03:14:19.476490+08:00",
+  "total_titles_processed": 435,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时14分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -28,8 +29,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时14分]"
         }
       ]
     },
@@ -46,8 +47,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 01时59分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时14分]"
         }
       ]
     }
