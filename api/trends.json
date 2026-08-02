@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T20:00:56.162146+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-08-02T21:39:34.405249+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "微博",
           "ranks": [
             6,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时37分 ~ 20时00分]"
+          "appearance_count": 5,
+          "time_info": "[18时37分 ~ 21时39分]"
         },
         {
           "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
@@ -84,8 +85,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时05分 ~ 20时00分]"
+          "appearance_count": 18,
+          "time_info": "[01时05分 ~ 21时39分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
