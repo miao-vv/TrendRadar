@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T10:27:17.855432+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-08-03T14:18:57.636046+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             13,
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 10时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 14时18分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -60,11 +61,12 @@
           "url": "https://www.zhihu.com/question/2065724643378570793",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[10时26分 ~ 14时18分]"
         }
       ]
     },
@@ -79,11 +81,12 @@
           "ranks": [
             18,
             19,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 10时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 14时18分]"
         }
       ]
     }
