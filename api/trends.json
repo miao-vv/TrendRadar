@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-04T06:06:00.596316+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-08-04T08:05:54.935610+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 7,
       "titles": [
-        {
-          "title": "DeepSeek 斩杀线",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时06分]"
-        },
         {
           "title": "DeepSeek一天消耗了8万亿",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=1&Refer=top",
@@ -26,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时05分]"
+        },
+        {
+          "title": "DeepSeek 斩杀线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时05分]"
         },
         {
           "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
@@ -48,11 +49,12 @@
           "ranks": [
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时48分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[02时48分 ~ 08时05分]"
         },
         {
           "title": "DeepSeek斩杀线斩的是什么",
@@ -62,11 +64,12 @@
             26,
             14,
             9,
-            16
+            16,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时05分]"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -75,11 +78,12 @@
           "ranks": [
             20,
             7,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时48分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[02时48分 ~ 08时05分]"
         },
         {
           "title": "DeepSeek登顶全球第一",
@@ -108,19 +112,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时06分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 08时05分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
           "url": "https://flash.jin10.com/detail/20260804051558715800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时06分 ~ 08时05分]"
         },
         {
           "title": "OpenAI的CEO Altman被要求就AI安全事故向美国众议院介绍情况。",
@@ -129,7 +134,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         },
@@ -148,7 +153,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：今天，我们宣布Google Cloud Cortex Framework第7版正式全面上市。",
@@ -168,9 +173,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "美股收盘：谷歌涨超4%总市值超过苹果",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B0%B7%E6%AD%8C%E6%B6%A8%E8%B6%854%25%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%BF%87%E8%8B%B9%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     },
@@ -185,7 +201,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
         }
@@ -202,11 +218,12 @@
           "ranks": [
             9,
             7,
-            2
+            2,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时48分 ~ 06时06分]"
+          "appearance_count": 6,
+          "time_info": "[02时48分 ~ 08时05分]"
         }
       ]
     }
