@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T01:44:02.045151+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-05T03:26:29.507982+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.toutiao.com/trending/7670182284162502194/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 03时26分]"
         },
         {
           "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
           "url": "https://www.zhihu.com/question/2067873642554156045",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 03时26分]"
         },
         {
           "title": "疑似梁文锋早期微博被扒",
@@ -37,8 +39,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 03时26分]"
         },
         {
           "title": "DeepSeek斩杀了谁",
@@ -48,8 +50,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 03时26分]"
         }
       ]
     },
@@ -65,8 +67,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 03时26分]"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
@@ -75,7 +77,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         }
