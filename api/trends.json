@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T12:11:05.389056+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-08-04T15:35:46.400540+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             7,
             5,
             3,
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时48分 ~ 12时11分]"
+          "appearance_count": 9,
+          "time_info": "[02时48分 ~ 15时35分]"
         },
         {
           "title": "DeepSeek 斩杀线",
@@ -86,6 +87,18 @@
           "time_info": "[02时48分 ~ 08时05分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时10分 ~ 15时35分]"
+        },
+        {
           "title": "DeepSeek登顶全球第一",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E7%99%BB%E9%A1%B6%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -103,17 +116,6 @@
           "source": "微博",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时10分 ~ 12时11分]"
-        },
-        {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -143,11 +145,12 @@
           "ranks": [
             7,
             9,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 12时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 15时35分]"
         },
         {
           "title": "声明显示：美国众议院网络安全小组要求OpenAI首席执行官奥尔特曼就Hugging Face入侵事件进行情况通报。",
