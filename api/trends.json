@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-08-05T19:57:19.903084+08:00",
-  "total_titles_processed": 1323,
-  "failed_sources": [],
+  "generated_at": "2026-08-05T22:02:19.636414+08:00",
+  "total_titles_processed": 1468,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
@@ -19,6 +21,19 @@
           "time_info": "[01时43分 ~ 08时08分]"
         },
         {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时34分 ~ 22时02分]"
+        },
+        {
           "title": "疑似梁文锋早期微博被扒",
           "url": "https://www.baidu.com/s?wd=%E7%96%91%E4%BC%BC%E6%A2%81%E6%96%87%E9%94%8B%E6%97%A9%E6%9C%9F%E5%BE%AE%E5%8D%9A%E8%A2%AB%E6%89%92",
           "source": "百度热搜",
@@ -28,18 +43,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时43分 ~ 07时00分]"
-        },
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 19时57分]"
         },
         {
           "title": "DeepSeek干完活自己写了个游戏",
@@ -93,7 +96,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -127,6 +130,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时57分 ~ 17时34分]"
+        },
+        {
+          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
+          "url": "https://www.zhihu.com/question/2068265537105302957",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
