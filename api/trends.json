@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T11:58:06.556052+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-08-05T14:27:38.275312+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时27分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
