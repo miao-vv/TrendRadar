@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T17:58:45.120639+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-08-07T18:52:57.715428+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时39分 ~ 17时58分]"
+          "appearance_count": 7,
+          "time_info": "[08时39分 ~ 18时52分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -44,8 +44,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时39分 ~ 17时58分]"
+          "appearance_count": 7,
+          "time_info": "[08时39分 ~ 18时52分]"
         },
         {
           "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
@@ -78,8 +78,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时09分 ~ 18时52分]"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时09分 ~ 17时58分]"
+          "time_info": "[16时55分 ~ 18时52分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -92,17 +103,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时39分 ~ 11时48分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 17时58分]"
         },
         {
           "title": "DeepSeek、腾讯等获宇树科技战略配售",
