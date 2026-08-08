@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T06:25:02.878147+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-08-09T07:24:57.798510+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 06时25分]"
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 07时24分]"
         }
       ]
     },
@@ -44,11 +45,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 06时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 07时24分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -60,8 +62,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 06时25分]"
+          "appearance_count": 8,
+          "time_info": "[00时29分 ~ 07时24分]"
         }
       ]
     },
@@ -80,8 +82,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 06时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 07时24分]"
         }
       ]
     }
