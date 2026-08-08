@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T11:22:46.397699+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-08-08T12:53:36.439493+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
           "ranks": [
             18,
             14,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时50分 ~ 11时22分]"
+          "appearance_count": 12,
+          "time_info": "[03时50分 ~ 12时53分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -57,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时16分 ~ 11时22分]"
+          "appearance_count": 3,
+          "time_info": "[09时16分 ~ 12时53分]"
         }
       ]
     },
@@ -84,11 +85,12 @@
           "ranks": [
             1,
             8,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 11时22分]"
+          "appearance_count": 4,
+          "time_info": "[07时31分 ~ 12时53分]"
         },
         {
           "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
@@ -116,11 +118,12 @@
             18,
             19,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时50分 ~ 11时22分]"
+          "appearance_count": 18,
+          "time_info": "[00时50分 ~ 12时53分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
