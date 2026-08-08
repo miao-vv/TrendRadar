@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T13:40:08.247955+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-08-08T14:44:23.625463+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时50分 ~ 13时40分]"
+          "appearance_count": 15,
+          "time_info": "[03时50分 ~ 14时44分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -59,8 +59,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时16分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 14时44分]"
         },
         {
           "title": "梁文锋为什么投王兴兴",
@@ -70,8 +70,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时39分 ~ 13时40分]"
+          "appearance_count": 3,
+          "time_info": "[13时39分 ~ 14时44分]"
         }
       ]
     },
@@ -87,11 +87,12 @@
             1,
             8,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 14时44分]"
         },
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -135,8 +136,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时50分 ~ 13时40分]"
+          "appearance_count": 21,
+          "time_info": "[00时50分 ~ 14时44分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
