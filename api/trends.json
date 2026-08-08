@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T18:28:26.973083+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-08-08T19:25:02.101094+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时16分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时16分 ~ 19时25分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -47,11 +47,12 @@
             14,
             12,
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[03时50分 ~ 18时28分]"
+          "appearance_count": 21,
+          "time_info": "[03时50分 ~ 19时25分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -136,11 +137,12 @@
             20,
             22,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时50分 ~ 18时28分]"
+          "appearance_count": 27,
+          "time_info": "[00时50分 ~ 19时25分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -182,6 +184,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时37分 ~ 07时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格走势或反转",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B5%B0%E5%8A%BF%E6%88%96%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 19时25分]"
         }
       ]
     }
