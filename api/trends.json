@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T19:25:02.101094+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-08-08T20:39:17.040520+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             7,
             4,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时16分 ~ 19时25分]"
+          "appearance_count": 14,
+          "time_info": "[09时16分 ~ 20时39分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -51,8 +52,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[03时50分 ~ 19时25分]"
+          "appearance_count": 23,
+          "time_info": "[03时50分 ~ 20时39分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -75,6 +76,53 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时39分 ~ 14时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            17,
+            20,
+            22,
+            24,
+            26,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 29,
+          "time_info": "[00时50分 ~ 20时39分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
+          "url": "https://flash.jin10.com/detail/20260807231253787800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     },
@@ -123,41 +171,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "核心团队跑路,Gemini陷大危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            17,
-            20,
-            22,
-            24,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时50分 ~ 19时25分]"
-        },
-        {
-          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
-          "url": "https://flash.jin10.com/detail/20260807231253787800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 2,
       "titles": [
@@ -196,11 +209,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B5%B0%E5%8A%BF%E6%88%96%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 20时39分]"
         }
       ]
     }
