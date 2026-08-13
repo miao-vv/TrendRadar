@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T04:39:01.896072+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-08-14T05:41:33.607965+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时41分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时41分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时41分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -49,20 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时39分]"
-        },
-        {
-          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
-          "url": "https://www.zhihu.com/question/2071189146777773055",
-          "source": "知乎",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时41分]"
         },
         {
           "title": "DeepSeek API确认涨价",
@@ -70,11 +58,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时41分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
+          "url": "https://www.zhihu.com/question/2071189146777773055",
+          "source": "知乎",
+          "ranks": [
+            3,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时41分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -83,11 +85,12 @@
           "ranks": [
             2,
             16,
-            17
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时41分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -97,8 +100,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时41分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -107,22 +110,24 @@
           "ranks": [
             20,
             13,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 05时41分]"
         },
         {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
           "url": "https://www.zhihu.com/question/2071348486667237276",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时55分 ~ 04时39分]"
+          "appearance_count": 5,
+          "time_info": "[03时55分 ~ 05时41分]"
         },
         {
           "title": "DeepSeek发布调价公告",
@@ -141,11 +146,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 05时41分]"
         },
         {
           "title": "DeepSeek Harness 已发布，如何评价这款产品？",
@@ -241,11 +247,29 @@
           "url": "https://wallstreetcn.com/livenews/3149305",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（8月13日）纽约尾盘，现货黄金跌1.34%，报4350.20美元/盎司。 现货白银跌1.43%，报64.427美元/盎司，日内震荡下行，交投于66.303-64.219美元。 COMEX铜期货跌0.35%，报6.5326美元/磅，盘中一度走V收复跌幅，美PPI数据后较日高回落收跌。",
+          "url": "https://wallstreetcn.com/livenews/3149326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时39分"
+          "time_info": "05时41分"
         }
       ]
     }
