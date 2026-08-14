@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T09:30:34.141414+08:00",
-  "total_titles_processed": 776,
+  "generated_at": "2026-08-14T14:11:52.961755+08:00",
+  "total_titles_processed": 978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时53分 ~ 09时30分]"
+        },
+        {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 14时11分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -33,17 +45,6 @@
           "time_info": "[00时53分 ~ 09时30分]"
         },
         {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 09时30分]"
-        },
-        {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
           "url": "https://wallstreetcn.com/articles/3779377",
           "source": "华尔街见闻",
@@ -53,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 09时30分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 14时11分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -127,6 +128,20 @@
           "time_info": "[00时53分 ~ 06时38分]"
         },
         {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            8,
+            6,
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 14时11分]"
+        },
+        {
           "title": "怎么看 DeepSeek Harness 正式开源，采用一切皆插件的架构？",
           "url": "https://www.zhihu.com/question/2071348486667237276",
           "source": "知乎",
@@ -138,19 +153,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时55分 ~ 06时38分]"
-        },
-        {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时53分 ~ 09时30分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -167,22 +169,45 @@
           "time_info": "[00时53分 ~ 05时41分]"
         },
         {
-          "title": "为什么DeepSeek越涨价越是价格屠夫",
-          "url": "https://www.toutiao.com/trending/7673637537293798953/",
-          "source": "今日头条",
+          "title": "DeepSeek Harness是什么",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         },
         {
           "title": "DeepSeek Harness 开发者预览版：一切皆插件",
           "url": "https://wallstreetcn.com/articles/3779385",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时29分 ~ 14时11分]"
+        },
+        {
+          "title": "为什么DeepSeek越涨价越是价格屠夫",
+          "url": "https://www.toutiao.com/trending/7673637537293798953/",
+          "source": "今日头条",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -222,6 +247,17 @@
           "time_info": "[06时37分 ~ 06时38分]"
         },
         {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
+        },
+        {
           "title": "DeepSeek Harness 已发布，如何评价这款产品？",
           "url": "https://www.zhihu.com/question/2071335385494557060",
           "source": "知乎",
@@ -242,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "一个视频看懂DeepSeek Harness",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时11分"
         }
       ]
     },
@@ -290,7 +337,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         },
