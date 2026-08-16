@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T15:28:24.906558+08:00",
-  "total_titles_processed": 712,
+  "generated_at": "2026-08-16T18:19:35.765638+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时03分 ~ 15时28分]"
+          "appearance_count": 9,
+          "time_info": "[09时03分 ~ 18时19分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时56分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[10时56分 ~ 18时19分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -55,11 +56,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 15时28分]"
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 18时19分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -100,11 +102,12 @@
             2,
             4,
             9,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 18时19分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -134,7 +137,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -144,11 +147,12 @@
             1,
             3,
             8,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 18时19分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -168,11 +172,23 @@
           "url": "https://wallstreetcn.com/articles/3779527",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时28分 ~ 18时19分]"
+        },
+        {
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时28分"
+          "time_info": "18时19分"
         }
       ]
     }
